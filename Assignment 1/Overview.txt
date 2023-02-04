@@ -1,0 +1,30 @@
+# What this Program Does
+This program takes a csv file with the following parameters [Last,First,Middle Initial,ID,Office phone].
+It capitalizes first names, last names, and middle initial. If no middle intial is provided it is replaced with an X.
+This program also verifies that ID and Phone numbers are correctly formatted and prompts for user input if not.
+
+After all data is verified, information is placed in a Person object for each employee and all Persons are placed in a dictionary
+
+This data is then written to a pickle file and read back out to print a list of the employees with the updated information.
+
+
+# How to Run
+Navigate to the directory containing the py file and type the following in terminal/command line (remove brackets).
+
+python3 Homework1_jph200000.py [your_file_path]
+
+
+# Strengths/Weaknesses of Python for text processing
+One major advantage Python has is that since it's so easy to write, doing any coding for text processing is relatively
+quicker to get running. Although some of it is cumbersome it's not as bad as it could be.
+
+However, since Python isn't strongly typed, this could potentially lead to some issues if you overlook a detail and the code
+still works for whatever reason. And on a much larger scale, if you are using Python exclusively, it would be quite slow.
+
+
+# What I Learned and Reviewed
+It's been a little bit since I used Python, but since I'm familiar with it most everything is review.
+Defining classes, methods, methods for strings, and methods for dictonaries was all stuff I needed to review.
+Pickling I haven't done in a while, but have done in the past.
+The only thing I wasn't familiar with was using regex with Python. That was relatively new, but regex is still cumbersome
+as it is in other languages.
