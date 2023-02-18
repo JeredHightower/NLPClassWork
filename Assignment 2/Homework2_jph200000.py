@@ -46,7 +46,6 @@ def guessing_game(top):
 
     # Choose random word
     word = top[randint(0, 50)]
-    print(word)
 
     guessed_letters = []
     word_guess = underscores(word, guessed_letters)
@@ -69,6 +68,7 @@ def guessing_game(top):
             print("Sorry, guess again. Score is", score)
         elif new_guess == word:
             print("You solved it!")
+            print(new_guess)
             print("\nCurrent score is:", score)
             print("\nGuess another word")
 
