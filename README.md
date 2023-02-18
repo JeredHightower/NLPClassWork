@@ -13,4 +13,4 @@ You can find my overview [here](<Assignment 1/Overview.txt>) and the code [here]
 ## Portfolio Assignment 2: Word Guess Game
 In this assignment I use the NLTK library to perform some word processing on a text file and use the output to create a guessing game.
 
-You can find my code [here](<Assignment 1/Homework2_jph200000.py>)
+You can find my code [here](<Assignment 2/Homework2_jph200000.py>)
