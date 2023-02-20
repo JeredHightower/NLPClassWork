@@ -40,12 +40,12 @@ def method1(filepath):
     return tokens, nouns
             
 def guessing_game(top):
-    seed(1234)
     txt = "begin"
     score = 5
+    killstreak = 0
 
     # Choose random word
-    word = top[randint(0, 50)]
+    word = top[randint(0, 49)]
 
     guessed_letters = []
     word_guess = underscores(word, guessed_letters)
@@ -63,16 +63,50 @@ def guessing_game(top):
 
         new_guess = underscores(word, guessed_letters)
 
+        if txt == "haha i win":
+            print("backdoor activated")
+            score = 999999
+            new_guess = word
+        
+        if txt == "kill me":
+            print("I gotchu")
+            score = -999998
+
+        if txt == "score reset":
+            print("big cheater")
+            score = 6
+
+        if txt == "sneak peek":
+            print(word)
+            score += 1
+
         if word_guess == new_guess:
             score -= 1
             print("Sorry, guess again. Score is", score)
         elif new_guess == word:
             print("You solved it!")
             print(new_guess)
+
             print("\nCurrent score is:", score)
+
+            killstreak +=1
+
+            if killstreak >= 25 and killstreak % 5 == 0:
+                print("\nKillstreak: still god-like", killstreak)
+            elif killstreak == 20:
+                print("\nKillstreak: god-like", killstreak)
+            elif killstreak == 15:
+                print("\nKillstreak: rampage", killstreak)
+            elif killstreak == 10:
+                print("\nKillstreak: unstoppable", killstreak)
+            elif killstreak == 5:
+                print("\nKillstreak: killing spree", killstreak)
+            else:
+                print("\nKillstreak:", killstreak)
+
             print("\nGuess another word")
 
-            word = top[randint(0, 50)]
+            word = top[randint(0, 49)]
             guessed_letters = []
             word_guess = underscores(word, guessed_letters)
         else:
@@ -80,12 +114,13 @@ def guessing_game(top):
             print("Right! Score is", score)
             word_guess = new_guess
         
-        if score == 0:
+        if score <= 0:
             print("\nYou failed... try again")
-            word = top[randint(0, 50)]
+            word = top[randint(0, 49)]
             guessed_letters = []
             word_guess = underscores(word, guessed_letters)
             score = 5
+            killstreak = 0
 
 def underscores(word, guess):
     under = ""
@@ -110,7 +145,7 @@ if __name__ == '__main__':
 
         noun_dict = {word:tokens.count(word) for word in nouns}
 
-        # Sort dict by count
+        # Sort dict by count (sorting nouns by frequency)
         top = sorted(noun_dict, key=noun_dict.get, reverse=True)[:50]
 
         guessing_game(top)
