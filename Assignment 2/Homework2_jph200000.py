@@ -9,7 +9,6 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import *
 from nltk.stem import WordNetLemmatizer
 
-from random import seed
 from random import randint
 
 def method1(filepath):
@@ -53,7 +52,7 @@ def guessing_game(top):
     # Game loop
     while True:
         print(word_guess)
-        txt = input("Guess a letter: ")
+        txt = input("Guess a letter: ").lower()
         
         if txt == "!":
             print("Exiting...")
@@ -64,27 +63,40 @@ def guessing_game(top):
         new_guess = underscores(word, guessed_letters)
 
         if txt == "haha i win":
-            print("backdoor activated")
-            score = 999999
-            new_guess = word
+            st = input("Are you sure? ")
+            
+            if st == "yes":
+                st2 = input("Are you really sure???? ;-; ")
+
+                if st2 == "yes":
+                    print("backdoor activated")
+                    score = 999999
+                    new_guess = word
+                else:
+                    print("Fine")
+            else:
+                print("Fine")
         
         if txt == "kill me":
             print("I gotchu")
             score = -999998
 
         if txt == "score reset":
-            print("big cheater")
+            print("cheater D:<")
             score = 6
 
         if txt == "sneak peek":
             print(word)
             score += 1
 
+        if txt == "fight back":
+            crash()
+
         if word_guess == new_guess:
             score -= 1
             print("Sorry, guess again. Score is", score)
         elif new_guess == word:
-            print("You solved it!")
+            print("\nYou solved it!")
             print(new_guess)
 
             print("\nCurrent score is:", score)
@@ -115,12 +127,22 @@ def guessing_game(top):
             word_guess = new_guess
         
         if score <= 0:
+            print("\nUnfortunately it was")
+            print(word)
+
             print("\nYou failed... try again")
             word = top[randint(0, 49)]
             guessed_letters = []
             word_guess = underscores(word, guessed_letters)
             score = 5
             killstreak = 0
+
+
+def crash():
+    try:
+        crash()
+    except:
+        crash()
 
 def underscores(word, guess):
     under = ""
@@ -143,6 +165,7 @@ if __name__ == '__main__':
         tokens = values[0]
         nouns = values[1]
 
+        # Get counts for each noun
         noun_dict = {word:tokens.count(word) for word in nouns}
 
         # Sort dict by count (sorting nouns by frequency)
