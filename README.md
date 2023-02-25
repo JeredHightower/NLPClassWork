@@ -19,4 +19,4 @@ You can find my code [here](<Assignment 2/Homework2_jph200000.py>)
 ## Portfolio Assignment 3: WordNet
 In this assignment I explore WordNet and it's functionalites. I also use SentiWordNet to derive sentiment and use mutual information to find potential collocations
 
-You can find my code [here] <Assignment 3/WordNet.ipynb - Colaboratory.pdf>
+You can find my code [here](<Assignment 3/WordNet.ipynb - Colaboratory.pdf>)
