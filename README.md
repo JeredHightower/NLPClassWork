@@ -20,3 +20,14 @@ You can find my code [here](<Assignment 2/Homework2_jph200000.py>)
 In this assignment I explore WordNet and it's functionalites. I also use SentiWordNet to derive sentiment and use mutual information to find potential collocations
 
 You can find my code [here] <Assignment 3/WordNet.ipynb - Colaboratory.pdf>
+
+## Portfolio Assignment 4: N-grams
+In this assignment I explore n-grams and use them to predict the language of a given text file. I also have a written overview on n-grams.
+
+You can find my code [here] <Assignment 4>
+And the overview is available [here]<Assignment 4/N-gramsOverview.docx>
+
+## Portfolio Assignment 5: Sentence Parser
+In this assignment I explore PSG, SRL, and dependency sentence parsing on a sentence I created. Parses were drawn on paper.
+
+You can find my document [here] <Assignment 5/Sentence Parsing.pdf>
