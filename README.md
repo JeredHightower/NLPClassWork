@@ -32,3 +32,9 @@ And the overview is available [here](<Assignment 4/N-gramsOverview.docx>)
 In this assignment I explore PSG, SRL, and dependency sentence parsing on a sentence I created. Parses were drawn on paper.
 
 You can find my document [here](<Assignment 5/Sentence Parsing.pdf>)
+
+
+## Portfolio Assignment 6: Text Classification
+In this assignment I explore different machine learning models to classify twitter post sentiments related to Apple.
+
+You can find my document [here](<Assignment 6/TextClassification.ipynb - Colaboratory.pdf>)
