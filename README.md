@@ -49,5 +49,8 @@ In this assignment I create a chatbot that discusses hollow knight lore using a 
 
 You can find bot [here](<Chatbot>)
 
+# Technical Skills
+[Skills I've learned](<Technical.md>)
+
 # Summary
 xxxx
