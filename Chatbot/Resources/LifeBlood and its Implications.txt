@@ -1,0 +1,242 @@
+﻿lifeblood and its implications
+sidenote: @molamola#9236 and @sumwan#6019 have a large google doc of lore, and i am pulling a few quotes from it as well as some ideas, but the idea that lifeblood creates a dreamlike state in you belongs to mola and i credit all thought on that theory to him
+and shoutouts to everyone else on the lore server too!
+also i am sorry about formatting, this was at first a word doc and i let google do the work to making it into a google doc, i don’t know how to fix the page breaks.
+this paper is an exploration on what we know of lifeblood, and will cover a few thoughts, mainly mine, about what it is and what effect it has had on hallownest as a whole.
+disclaimer: this is merely taking the ingame text and speculating on it!
+we cannot know everything and would love to speak more in depth on the theories presented!
+also this doc is probably going to be revised upon silksong’s release!
+no seriously this doc is outdated to the extreme, but university has made me need to hold back on actually cleaning it up, and i don't see the point of it until silksong.
+i will first cover how we first get introduced to lifeblood, all things related to it, and then end with the possibility of another higher being related to lifeblood.
+how we first meet lifeblood in game  
+in game lifeblood acts as a shield against you taking mask damage in the form of temporary masks.
+when you talk to salubra she asks:  
+
+
+“have you ever drunk that bright blue liquid, ‘lifeblood’?
+it's a bit of a taboo, but it makes you feel much healthier doesn't it?”
+
+
+it was taboo, for unknown/unmentioned reasons, but it has positive effects, as far as how it makes us feel is concerned.
+she also sells the lifeblood heart charm.
+lifeblood heart
+costs: 2 notches https://vignette.wikia.nocookie.net/hollowknight/images/7/7c/lifebloodheart.png/revision/latest?cb=20170508200523 
+effect: when resting gain two lifeblood masks
+contains a living core that seeps precious lifeblood.
+when resting, the bearer will gain a coating of lifeblood that protects from a modest amount of damage.
+this is light on what we can extrapolate, except for confirming that the effects of lifeblood does have a positive effect, but it does not give a reason for why it would be taboo.
+besides that, the resemblance of a shell glowing blue does match the description that lifeblood works by coating your shell.
+perhaps like real world stainless steel, which is resistant to corrosion due to the forming of a thin layer due to the steel chemically reacting with chromium and forming a thin layer of chromium oxide, thus preventing rust.
+but i digress.
+however we do now have it confirmed that the idea that lifeblood makes your shell stronger, which is mirrored in the mechanics of the game.
+lifeseeds and lifeblood cocoons  
+small scuttling seed filled with lifeblood, which can be extracted and consumed for its healthful properties.
+lifeblood coccoon  https://vignette.wikia.nocookie.net/hollowknight/images/1/14/blifeseed.png/revision/latest?cb=20170411172140 
+the bright liquid inside of these little fellows is delicious, and drinking it will make you feel stronger.
+i wonder how my own innards taste... would it be a heinous thing to try and drink some?
+~hunter’s journal entry: lifeseed
+lifeseeds spawn from lifeblood cocoons.
+the areas surrounding lifeblood cocoons (shown below) are denoted with light-blue butterfly like plants and each cocoon spawns 2-4 lifeseeds when hit.
+these cocoons are scattered all around hallownest.
+the purpose of these cocoons is unknown, are they a source of the seeds, or do the seeds condense into something else?
+either way, lifeblood is able to form and sustain living organisms, and it can grow to form bigger things.
+perhaps the seeds merely make the butterflies and the cocoons, there is not a lot to go on for here.
+it is interesting to note that the word cocoon probably refers to the same cocoons that bugs use to metamorphose, the positioning of the cocoon as hanging only furthers this imagery.
+this could suggest that the lifeblood seeds are changing into some adult being made of lifeblood.
+a detail overlooked is the fact that the hunter does say drinking it makes you feel stronger.
+perhaps this is a psychological effect, or he is referring to the feeling of having your shell reinforced with lifeblood.
+either way, the former has nothing to support it, and the latter has already been confirmed.
+
+
+
+joni  
+joni’s blessing
+ a charm that appears to be made of lifeblood masks.
+https://vignette.wikia.nocookie.net/hollowknight/images/6/67/joni%27sblessing.png/revision/latest?cb=20170508200416 
+costs: 4 notches
+effect: increases hp by 50% (rounded down), all masks become lifeblood.
+blessed by joni, the kindly heretic.
+transfigures vital fluids into lifeblood.
+the bearer will have a healthier shell and can take more damage, but they will not be able to heal themselves by focusing soul.
+from the title of heretic we can see that joni was some sort of religious figure, although her god is not the pale king as he is the primary religious figure of hallownest.
+she was also described as kindly, meaning that she was not waging any religious war against the pale king, but we cannot discount that yet.
+kindly could just refer to her being very giving to the poor of hallownest.
+she had the ability to bless things through the power of her god.
+i find it interesting that it changes your vital fluid into lifeblood, and that soul does not restore lifeblood.
+this means that higher beings, which could focus soul and teach others to do so, did not like lifeblood.
+i will go further and say that because lifeblood is outlawed, it was the pale king who did not approve of it.
+[1] 
+it is my belief that this is because of a different higher being that acts as a source of lifeblood.
+could joni be a worshipper of this higher being, and how many bugs did she convert, if any?
+also, good to note is the lifeseeds will not flee the knight when you have this charm equipped and instead will run to you, this could show that the lifeseeds are trying to form together into a greater thing.
+
+joni’s repose
+        found in the howling cliffs, this appears to be where she died.
+she is found in a cavern which is full of “lifeblood butterflies” that fly continuously upward.
+the flora of the cave is all the same light blue that denotes lifeblood.
+blue child joni.
+upon having “joni’s blessing”
+        “ahhh, i see you bear my blessing.
+i can’t remember giving it, but my memory has been a little lacking of late.”
+        upon speaking to again
+        “isn’t it just so peaceful here?
+such a perfect place to rest.”
+  
+
+from her dialogue it appears that she was tired and laid here to rest.
+but the place where she rests appears to be an altar of some sort.
+it is unlikely that she would not notice the heavy presence of lifeblood plants and butterflies, therefore it could be seen that the presence of her body may have caused this change in environment.
+she is also known as the blue child, and based off her blessing, that was probably literal.
+she has lifeblood coursing through her naturally.
+perhaps she was born of a lifeblood cocoon, the metamorphosis theory could be true, in which case why is she the only one that completed it?
+there are also roots that appear to flow from her, as there are not butterfly flowers at the top of it, we may say that the lifeblood in her could have spilled out of her and created her repose, it was the death of her mind, but her blood still had power.
+it could also be said that the lifeblood seeds are all trying to get to joni and form a higher being.
+due to the cocoons being scattered and the blessing causing seeds to coalesce to you, perhaps the cocoons do not create but are instead a part of a higher being of lifeblood.
+
+
+
+higher being[2]  
+the penultimate step on our journey leads us to the abyss.
+in which we find the lifeblood core charm.
+lifeblood core
+cost: 3 notches https://vignette.wikia.nocookie.net/hollowknight/images/8/81/lifebloodcore.png/revision/latest?cb=20170508200514 
+effect: adds 4 lifeblood masks when resting
+contains a living core that bleeds precious lifeblood.
+when resting, the bearer will gain a coating of lifeblood that protects from a large amount of damage.
+the charm you receive does not hold much lore, but it is fun to theorize that the charm itself is also alive, and that the blood it seeps makes your shell laminated.
+the source of the lifeblood not only from the core, but also from the heart is also curious, perhaps these function as a form of kingsoul, but for lifeblood and not soul, and have a recharge time.
+what is more important is the environment you find the charm in.
+this is the “abyss creature,” titled because that is what it was called in the game files, and i will posit that it is the higher being related to lifeblood.
+however, we shall call it waldo in secret.
+now as the room in which you find this creature in the abyss is closed after you obtain the lifeblood core, i took this image off of google, sorry but i am not replaying the whole game for screenshots.
+some things to note are that the blue eyes blink in the background and move up and down if you watch for it.
+showing this as a living entity and not some geography.
+the room you find this creature inhabiting also has an altar, like joni, and on it rests the lifeblood core.
+after you pick up the core, these dream particles will begin to fill the room and you will be deposited outside of the room.
+image result for lifeblood core room 
+the symbolism of the altar with the being in the background is obvious to me, and the dreamlike particles which led molamola to his daydream theory.
+this theory states that in this part of the abyss you are actually in a semi dream state, daydreaming.
+and while the knight does draw this area onto the map, and includes what appear to be eyes for this creature, there are clouds at the bottom of this area.
+the clouds and the dream particles do heavily suggest that this area is somehow related, if not apart, of the dream world, and this connection does get stronger with the new godmaster dlc.
+godmaster  
+from here on out i must give some credit to @serpit#3808 on the #lore discord for hollow knight as i am pulling an idea and a few images from them.
+mola also provided the dreamcatcher lifeblood image!
+also, imma be real, i haven’t unlocked the lifeblood room in godhome yet because i’m bad at the game, so these are as stated before not my screenshots.
+the following images and highlighted text is from serpit.
+https://i.redd.it/2ozayanru6i11.png 
+  
+
+so this is it, our final chapter.
+we start by entering this room.
+there are lifeblood butterflies abound.
+and in the center is some weird blue dreamcatcher particle, which is reminiscent of the abyss area, connected to some vines.
+this area draws further connections to the abyss creature being connected to the dream world, and as we are in godhome, a place where the godseeker seeks to attune to the gods of hallownest including higher beings, it also supports the theory that it is a higher being.
+you can even see it in the bottom right of the room if you look down.
+after you dreamnail this blue dreamcatcher, lifeblood cocoons spread through godhome.
+member of the #lore community who has already been mentioned, serpit, came up with the idea that builds off of mola’s:
+“if the blue thing really does serve as a portal to another dreamspace, the godseekers probably don't want it opened which makes sense given that the lifeblood rapidly spreads throughout godhome when you do.”
+the fact that the godseeker locked this probable higher being into a cell that can only be unlocked by one who has proven themselves, does not really agree with the unwanted aspect of the idea to me, we really have no confirmation of the godseeker being upset after we do unlock it.
+but if we do agree with serpit’s words, perhaps a higher being that does not hold much power anymore, and as such is not respected is what the abyss creature is to the godseeker.
+final thoughts  
+from all the evidence gathered i find the most likely theory to be:
+* the abyss creature is in fact the higher being related to lifeblood
+* joni is a bug formed from a lifeblood cocoon
+some further questions are
+        is this creature also the object of worship of the ancient civilization?
+i lean toward no, however there was a theory that because blue, the color of lifeblood, and orange, the color of infection, are opposites.
+this could be the “ancient enemy” the radiance dream nail text it talking about when she senses the void within you.
+another quirk of this line of thought is how similar lightseed and lifeseeds are.
+this theory was brought to my attention by @imthatoneguyirl on #lore
+serpit, him again, also came up with a counter idea to the abyss creature being sealed by the pale king:
+“i think in the real world, the creature is locked up because the it wants to be left alone and/or is in hiding, while the door serves as a trial of sorts, letting only a true devotee of lifeblood in, who is then given the lifeblood core before the door locks forever
+in a similar fashion, the door in godhome presents a trial as well
+basically, only the worthy may enter”
+this is a cool theory, but the creature seems to not want to deal with you, perhaps it was waiting for somebug else?
+three alternative, equally speculative, positions
+
+
+lifeblood as plant life[3]:
+it is highly likely that lifeblood is the juice that runs through a plant.
+we have seen it act very passively as a force continuously throughout the game: joni is called “kindly heretic” and lifeseeds only run away from you (unless you are wearing joni’s blessing, in which case they run toward you).
+like unn, lifeblood seems to not be ambitious, and is not really interested in spreading its power aggressively.
+it seems to be not much more than a plant.
+additionally, lifeseeds have no dream dialogue, indicating that they are mindless.
+it has been suggested that lifeblood is not a plant of its own but instead enters another plant and “infects” it, or that it is even the juice that plant life runs on.
+however, i find this highly unlikely.
+in joni’s repose, we see a lifeblood plant growing in the background, with no other plant life in the vicinity.
+it therefore seems to me that lifeblood is its own plant.
+so if lifeblood is a normal plant with powerful properties, as has been discussed in toxic’s writing, how exactly does it work?
+we can see that lifeseeds are barely more than lifeblood with feet, and when we wear joni’s blessing, not only the lifeseeds, but also the remains of the lifeblood cocoon attempt to move toward us.
+could it therefore be that lifeseeds are actually not much more than slightly more condensed lifeblood.
+i would argue so.
+this, along with the fact that the number of lifeseeds which spring from the cocoon varies, seems to suggest that the lifeseeds are growing within the cocoon, forming from pure lifeblood into seeds that will go on to reproduce.
+the life cycle of a lifeblood plant would then go like this:
+
+
+lifeseed- lifeblood plant- condenses lifeblood into cocoon
+lifeseed- butterfly plants- butterflies
+
+
+the origin and purpose of the butterflies is unknown, and i doubt that they are just there for decoration.
+the butterflies seem to also be made of lifeblood, though when we hit a butterfly plant, no blue lifeblood particles are created.
+i don’t really have a theory to explain this, but feel free to dm me on discord with any suggestions.
+a question arises from this concept.
+why is the lifeblood limited to such a few, remote places?
+the likely answer is that this was where it was hidden when the pale king declared it heresy, hidden around the map so that bugs could worship it regardless of where they lived.
+furthermore, the areas in which lifeblood is prominent are always focused around a cocoon, with two notable exceptions: the abyss creature’s tunnel and joni’s repose.
+this will be discussed in their segments.
+overall, i would like to refute toxic’s idea that a lifeblood cocoon created joni or has some higher purpose, and instead argue that it is just a plant and not much more, if one with immensely powerful protective and healing qualities.
+joni
+toxic argued that joni came from a lifeblood cocoon, but, as i have demonstrated, this is unlikely.
+i would agree that she, for some reason or another, has lifeblood coursing through her, but i do not think it comes from her being created from a cocoon.
+the evidence backing this up was mostly presented in toxic’s paper, but i would like to add some more ideas to this.
+joni’s blessing transforms one’s internal fluids into lifeblood.
+i therefore think that joni’s repose was created by her internal fluids flowing out upon her death.
+i would also interpret the line, “laying here to rest” as choosing to die here rather than just being tired, lying down to rest and not realising that she had died.
+the altar she lies on is not really an altar but some kind of resting bench.
+by dying, she created joni’s blessing, as salubra says that some bugs chose to die in order to create a charm, or had a desire crystallise into a charm as they died.
+it has been argued that the fact that she knows of her blessing, and doesn’t seem to remember giving it to the knight (“i can’t remember giving it”) means that she did not create the charm by dying but that it existed prior to her death.
+however, it could well be that her blessing does not only come in the form of the charm, but in general just turns the vital fluids to lifeblood.
+the charm, however, is what she created by dying.
+she can bless people and turn their vital fluids to lifeblood, but the charm is separate to this.
+now, why does joni replace the cocoon in her repose?
+once more, we can really only speculate about this.
+in her case, i would say that it is as simple as that the lifeblood that ran through her emptied out into the surroundings, growing into lifeblood.
+the lack of a cocoon means that the area was not planted by a lifeseed, but came from her.
+the abyss creature
+i would say that this is the bit where i most disagree with toxic.
+first of all, i highly doubt that the abyss creature is some kind of higher being of lifeblood.
+i do this on two grounds: the fact that the abyss creature’s tunnel isn’t there during the dream sequence in which we get the void heart.
+these two images show how the tunnel entrance is entirely absent in the dream sequence, instead replaced by the normal surface of the wall.
+this leads me to think that the entrance was not just hidden but entirely absent.
+as a comparison, see this image, which shows the top of the entrance during normal play, which looks exactly like the surface of the entrance above:   
+this means that there is a very high probability that the entrance was not there at the time.
+this kind of puts the entire theory that the pale king locked the abyss creature away out of question, but i’ll present some further arguments against it regardless: firstly, it is unlikely that the pale king would lock another deity away and leave his disciples alive.
+also, why would he lock it away in the abyss in particular?
+why not somewhere more convenient?
+the issue of why the abyss creature is in the abyss is an issue even outside of the theory that the pale king locked him away.
+here, i can only think of one theory that would explain it: that the abyss creature is a void creature who has had it’s vital fluids turned into lifeblood.
+see the following images:
+  
+  
+  
+
+while they don’t look exactly the same, there is a certain similarity.
+the main differences are the lines on the forehead of the abyss creature, which i would argue could emerge from the lifeblood entering the void of the abyss creature, giving it a certain plant-vine-like texture.
+i think that the abyss creature’s location and appearance can only be explained thus.
+another argument for the abyss creature being a higher being or god is that it resides in a kind of daydream[4].
+i would say that this is less a daydream than just on the boundary between dream and waking state, but still definitely in the real world.
+the two reasons for this are that firstly the knight draws in the tunnel in his map, and secondly that the classic traits of the abyss, like the strange spikes and general atmosphere:   [5]
+
+
+finally, the godmaster dlc adds a crucial bit of information regarding the abyss creature to the game.
+now, the fact that he is in the godseeker’s dream is of course of some significance, but the fact that he is hiding and does not appear in the pantheon of hallownest like the other higher beings also carries some meaning.
+gameplay wise, this makes sense, as most players do not encounter the abyss creature during their playthrough, and being confronted with it in the pantheon of hallownest would throw up many questions.
+team cherry has admitted that they put gameplay and mechanics before lore, so this might be a good reason.
+just like how the abyss creature is hidden in the normal game, it is hidden in godhome.
+(i can’t really think of a good reason for why the abyss creature would be semi-included in the godseeker’s dream, but if you have a good explanation, feel free to either dm me on discord or leave a comment here).
+regardless, we say without doubt that the abyss creature requires devotion, requiring either a huge amount of lifeblood or hard work in the pantheons in order to be accessible.
+this concept also clashes with toxic’s theory of the abyss creature being locked away in both locations, as in both it seems more like we have to earn the access to it, the access being a reward rather than a bypassing of defences.
+conclusions
+all in all, i would say that lifeblood is one of the parts of the hollow knight lore most open to speculation, and that there are many theories that neither mine nor toxic’s part of the paper could cover.
+if you have any other theories, please write them down!

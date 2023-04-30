@@ -1,0 +1,157 @@
+﻿masks of hallownest
+
+it is often assumed that most bugs in hallownest are wearing masks.
+however, there are very few bugs who can be confirmed as wearing a mask.
+the mask maker in deepnest addresses this issue too: 
+
+
+  
+
+
+
+the following is a short analysis on who is surely wearing a mask, and who is not.
+mask wearers 
+mask maker
+mask maker is definitely wearing a mask, because it can be removed when the knight uses desolate dive or descending dark.
+they also comment on this mask themselves: 
+
+  quirrel 
+quirrel does not directly wear a mask himself, but he wears monomon’s mask on his head.
+hornet says it is a mask in the quirrel comic:
+
+
+   
+
+
+the dreamers
+since monomon wears a mask it can be assumed that herrah and lurien are wearing masks as well, as their masks have a similar appearance.
+the wanderer’s journal also says that the dreamers including monomon wear masks.
+
+
+
+battle obbles
+strangely enough, the face armour of the battle obbles is referred to in their hunter’s journal entry as a mask:  
+
+
+  
+
+
+
+heavy fools
+similarly to the battle obbles, heavy fools’ armour is also called a mask:
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+brumm/nymm
+brumm wears a mask, which can be seen as he takes it off when he becomes nymm after the grimm troupe is banished.
+
+
+the godseekers
+godseeker, along with all the other godseekers in godhome, is wearing a mask.
+she says this directly when the knight gives her a delicate flower in junk pit: 
+
+
+  
+
+
+
+this is also evident from the weathered mask hunter’s journal entry that the knight receives upon going to the land of storms after completing all pantheons with all bindings:  
+  
+
+ 
+
+
+
+
+
+the knight 
+the knight wears an ancient mask, but their head itself is not a mask.
+they collect shards of an ancient masks and use this mask to strengthen their shell, as is said in the inventory descriptions:
+     
+
+
+
+
+the ancient mask makes the knight’s shell more resilient and it shields their “true form beneath”, which could be either the knight’s actual shell or their shade.
+at the start of the game the knight does not have a mask yet, with the inventory description for the mask being blank:
+  
+
+bugs without mask
+most of the mindless creatures who have generic dream nail dialogue such as “...safe...dark…” and “...eat...when…”  are not wearing a mask.
+the bugs who have this dream nail dialogue are feral and unintelligent, even before being infected.
+examples of these are aspids, vengeflies, booflies, and gruzzers.
+the following intelligent bugs are definitely not wearing masks either:
+* mosskin
+* mushrooms
+* flukes
+* bees
+  
+  
+  
+  
+
+
+
+
+ambiguous cases
+
+
+stalking devouts 
+at first glance the stalking devouts appear to be wearing a large mask, but this is not the case.
+their hunter’s journal description states:
+
+
+  
+
+  
+
+their “mask” is part of their body, their foreclaws.
+midwife
+it looks like the midwife in deepnest is wearing a mask, since it slides out of the way when she starts to attack the knight.
+although taking the stalking devouts into account, this could also be part of her body.
+
+
+little weavers
+the little weavers have the same line across their heads as the stalking devouts and midwife.
+it might be possible that they are wearing a mask.
+however, it is not confirmed that they actually are.
+maskflies
+while the word “mask” is in their name, the maskflies appear to be unintelligent bugs.
+it is unlikely that somebody put a mask on their heads.
+husks
+  
+  
+  
+  
+  
+
+
+
+husk’s white faces could be just part of their shell, as bugs outside hallownest similarly have a white head and darker body.
+this can be seen clearly in the quirrel comic:
+
+
+  
+
+
+
+it seems that bugs having a white head and a darker body is part of the art style, it does not tell us anything about whether that bug is wearing a mask.
+conclusion
+it appears that most bugs in hallownest are not wearing a mask.
+only the dreamers, mask maker, battle obbles, heavy fools, brumm, and the godseekers are definitely wearing a mask.
+the knight has a mask too, although this mask is apparently not visible, and their head is just part of their shell.
+for some other bugs it cannot be said with certainty that they are wearing a mask, such as the midwife or the little weavers.

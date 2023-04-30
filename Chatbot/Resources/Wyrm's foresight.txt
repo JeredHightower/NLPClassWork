@@ -1,0 +1,104 @@
+﻿possible source of wyrm’s foresight
+(this doc is an english translation of my russian article from the russian lore compendium.
+feel free to contact me if you have any ideas!
+wingdingaster0#4845)
+the pale king is the higher being of light, kin of radiance and husband of white lady.
+despite him giving his subjects the gift of mind, there was another king’s feature.
+as the former wyrm, the king inherited the power of foresight from his old form.
+but what is that foresight actually and how does it work?
+we know nothing about that, but i have one idea which might explain the source of wyrm’s foresight.
+one can say that there is no source of foresight, the king just saw what will become before his eyes(sockets).
+well, it is an interesting point, but let us discuss this topic again.
+there are only three times when the wyrm’s prescience/foresight[1] is mentioned: one from bardoon, the second one from the dead mushroom, the third one from the fungal wastes lore tablet.
+don't mistake.
+i am not a wyrm... ohrm... too small, i am.
+too many limbs.
+no foresight like those old things.
+– bardoon
+
+
+pale wyrm...what good to foresee a demise unavoidable?
+– giant mushroom dn dialogue
+
+
+warily shall we accept the will of the wyrm.
+its prescience shields us.
+fate and future we shall entwine.
+– fungal wastes lore tablet 
+
+
+before we go further, i think we need to discuss mushroom’s dn dialogue.
+there is a claim saying that the mushroom may have been mentioned that the pale king knew about hallownest’s fall from the very beginning, and that is why it says those words.
+but i find this interpretation quite doubtful.
+if we assume that the king knew about his own demise all along, it would be foolish of him to even try sealing radiance, creating the hollow knight and saving hallownest.
+it destroys the whole story actually.
+moreover, there would be much more characters who could say that the king knew about the ruin because of his foresight.
+but i think that it is not the case.
+in my opinion, the giant mushroom debates whether the foresight is a useful thing or not useful at all.
+all creatures are mortal, so there is no reason to know when one’s fate comes to an end.
+to cut story short, the mushroom doesn’t speak about wyrm’s future demise but rejects his idea of useful foresight because it is pointless and only brings sorrow[2].
+but, as the fw lore tablet tells us, the mushroom clan accepted the reign of the wyrm because of his prescience nonetheless.
+so well, this is all we know, right?
+just three lines about wyrm’s foresight and nothing else.
+no other character mentions that, there is a complete silence.
+but there is one interesting stone.
+in the white palace, in the pale king’s throne room, there is a fragile wall hiding a lore tablet.
+it differs from others.
+if those tablets that were created by the king[3] are carved from some kind of cobblestone and decorated with a neat pattern, this one is exception.
+the stone is not the same as in those tablets and it comes out of some kind of eggshell.
+it is curious that, while most of the lore tablets are named ‘lore_tablet’, this one is named ‘palestone’.
+well, let us see the text.
+‘no blazing kin.
+only one light shall shine against the dark.
+the wyrm becomes beacon, minds expanded, to yield, to devote.
+eternity in promise and charge in progeny cursed.’
+
+
+the first thing to note is that the palestone stone doesn’t address higher beings, as do most of the king’s lore tablets.
+the tablet is also written in some strange way; the wyrm is referred in the third person while it would be logical for him to just call himself god/king/creator how he did in other tablets.
+moreover, let us analyse this text.
+the first line talks about how there will be only light against the dark, which means the abyss or void itself.
+there will be not two lights but only one.
+there will be no radiance in this story.
+the second line tells us about wyrm becoming beacon, i. e. the light, and him granting his bugs the gift of mind.
+in return, the bugs will worship their king.
+the third line tells us that the pale king will promise his subjects that the hallownest will last eternal.
+moreover, there will be charge in his child, the hollow knight[4].
+those lines are similar to postulates, some kind of brief summaries.
+this is not a description of previous events, but as if some kind of ... forecast?
+as if looking into the distant... future?
+yep, that’s it, you know what i’m trying to say.
+i think that this stone can be a source of the wyrm’s foresight.
+to sum up, i have those arguments that the throne room lore tablet can be a source of wyrm’s foresight:
+1.
+the text style.
+while most of the lore tablets (especially those made by the pale king himself) address any bug who just passes by, this lore tablet does not have any recipient at all.
+all three lines do not address any one nor order something, they just report.
+in the shortest possible way, the lore tablet tells us literally the entire history of hallownest and two lights.
+it is something that i assume can be the source of the king’s understanding of future.
+moreover, it is interesting to note that the lore tablet is named ‘palestone’ in the game files, so even the game finds this stone as something extraordinary.
+2.
+the palestone’s inaccessibility.
+this lore tablet is located in the pale king’s throne room, possibly the most hard-to-get-here place in the whole kingdom.
+if there was no reason to keep the stone hidden, the pale king would not have done it.
+3.
+the limit of foresight.
+it is very possible that the pale king has never been able to see the future clearly, the prescience had its limits and didn’t allow to know exactly what will happen.
+instead, there were only obscure lines about the future.
+by the way, do you remember the prediction of delphic apollo?
+the prediction was always correct, but it did not give the whole story how the future will be, moreover it was quite obscure.
+does the palestone tell the truth?
+well yes, all of the statements are correct.
+does that mean that the pale king could foresee the demise of hallownest?
+from the palestone perspective, absolutely not.
+4.
+narrative necessity.
+from the narrative point of view, if there is any statement, good storytelling must show prove for that to the player[5], even if this proof might be pretty vague.
+if we assume that the palestone is not the foresight of wyrm, we have no other evidence that the wyrm had it in the first place.
+well yes, there is blackwyrm battle and some other stories that, by this logic, must be introduced to the player, but those are quite distant from the whole story of the game, while wyrm’s prescience is not.
+anyway you can agree with this point or not, but there are still three of them above.
+well, that is all for now.
+unfortunately, i could not find any counterarguments to disprove my points, the only one is ‘the foresight does not work this way’ which i find quite doubtful.
+so, in my opinion the wyrm has never had an ability to see the future clearly.
+the source of his foresight is the lore tablet, or the palestone, in the king’s throne room.
+thanks a lot for reading, i hope you enjoyed.

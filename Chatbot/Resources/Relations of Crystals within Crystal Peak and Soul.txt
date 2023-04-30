@@ -1,0 +1,113 @@
+﻿relations of crystals within crystal peak and soul
+
+* shown abilities of crystals
+crystals seem to be able to produce their own energy; and release it in the form of lasers.
+it can be clearly seen within crystal peak, especially in the corridor leading to the golem with the crystal heart, that the crystals growing there harbor a power of light, released as lasers.
+furthermore, every crystal has a permanent glow, as well as certain crystals able to grow rapidly in some cases, such as the attacks utilized by crystal hunters, or the crystals formed around the player when charging a super dash.
+this power was also utilized for powering golems, as stated by the crystal heart:
+  
+
+
+also, as hinted by the crystal heart, some crystals are more potent in this energy that they contain than others, as well as the possibility of crystals being able to store energy and release it slowly, as its use as an energy core, or put more simply, a battery.
+going by this, it would not be unreasonable to assume they could be re-energized as well.
+furthermore, the charms quickfocus and deepfocus are also stated to be made from crystal, quickfocus being man-made, and deepfocus being naturally formed, which augment the base soul focus to restore faster, or to recover more health per focus.
+it is also stated by the hunter in the crystalised husk entry, and by myla, that the crystals appear to “sing”.
+* unique powers of crystal formed charms
+  
+  
+
+
+
+
+
+-quickfocus
+the quickfocus charm is stated to clearly being a lens, which, in normal use, either focuses light to a point, or defocuses it to cover a wider area, being a converging and diverging lens respectively.
+as we can see that quickfocus increases the rate at which the player can heal with soul focus, it wouldn’t be out of the question to assume that the quickfocus charm acts as a converging lens.
+with this, it would now seem that crystals, if formed properly, cannot only focus light, but also soul.
+-deepfocus
+unlike quickfocus, which is implied to have been intentionally formed to augment soul abilities, the deepfocus charm is stated to have been naturally formed.
+this would also seem to reinforce the idea that crystals can naturally interact with soul, although it would seem as opposed to all the other natural crystals seen in crystal peak, the deepfocus charm appears to be far more potent in this ability.
+furthermore, the deepfocus charm’s description goes on to state that it draws in soul from the surrounding air.
+not only does this state that soul as an energy is always present in the air, (proven by the fact it restores 2 masks anywhere on the map, not just in places where soul would be more common), but also in that it can be thought to act as a diverging lens, spreading the soul it absorbs out to heal more masks, but in doing so, weakens the potency of said soul, so it takes longer to recover the 2 masks.
+* soul to light conversion
+soul, as is present in-game is shown to give off a lot of light.
+each of spells the player uses (at least, prior to acquiring shade upgrades) also create light, including the use of focus.
+quirrel states while at the top of crystal peak:
+
+“the crystal ore is said to contain a sort of energy, not as powerful as the soul the city dwellers harnessed but far less lethal.”
+
+
+meaning what energy is within crystals is akin to soul, but appears to have lost most of its potency.
+it is also known that soul can exist in several states, liquid as seen in the knight’s soul vessel, and within the liquid of the hot springs, but also in a gaseous form, as seen in the glass orbs in the soul sanctum.
+as stated by the deepfocus charm, soul is also present in the air itself, but as it is not generally visible, it can be assumed its in such a small particulate form it cannot be seen by the eye, although most likely it would exist in a gaseous form.
+as also shown by the deepfocus charm, natural crystals have the ability to interact with soul, not just ones polished down into a proper lens, so it could be thought that the natural crystals within crystal peak also can naturally absorb the soul present in the air?
+but there is one difference between the vast majority of the natural crystals and the deepfocus charm.
+the shape.
+deepfocus:  
+        normal crystals:  
+
+
+it can clearly be seen that deepfocus had formed naturally into a lens shape, whereas the other crystals formed into much more angular, traditionally shaped forms.
+if these crystals can still absorb the soul in the air, they would not nearly be able to focus it in any shape or form nearly as well as the crystal charms could.
+if this is the case, then instead of being focused into a more potent form, it would instead be diluted down, perhaps into a much more vague energy-light than the normal pseudo-solid light that soul seems to be made from.
+it can be thought if crystals can absorb this soul, but cannot focus it properly, its would instead remain inside the crystal as a light, giving the crystals it's never-fading glow.
+however, the deepfocus charm seems to state it randomly formed that way, so it can also be assumed other crystals in crystal peak also formed with a greater ability to focus soul than others, such as only some crystals can fire lasers, and most cannot.
+it can be assumed that the crystals that do not fire lasers lose dissipate the energy gained from absorbing soul as light radiated in its glow, and loses energy at the same rate as it gains energy.
+however, the crystals that do fire lasers have a net increase of energy, due to them forming in a more favourable shape.
+but this light within crystals is much weaker than the soul that formed it, so how can the lasers they fire not only deal as much damage as soul arts, but also can deal more damage than them (the orange lasers in the enraged guardian fight)?
+we can find some clues by looking at the journal entries for the crystallised husk and the crystal crawler:
+  
+  
+
+
+
+both of these entries state, the lasers they fire are from a point of searing heat in their crystals, and the lasers they fire are very hot in general.
+it can be assumed that all this extra energy gleaned from soul is pushed down into these reservoirs within the crystals, which builds up over time, slowly increasing its potency, until all this stored energy is discharged in a single moment, in the form of a powerful laser, directed always from the very tip of each crystal, at the very point of them.
+this would explain the periodicity of the lasers shot by natural crystals and the crystal crawlers.
+this storage and buildup of energy would also undoubtedly include a buildup of heat, as even with a magnifying glass you can focus regular light, and eventually set things on fire with it.
+but not instantly.
+you have to let the energy build up in that single spot, which generates heat.
+however, the lasers shot by crystallised husks and the crystal guardian are not periodic, they are fired intentionally.
+could it be because they are growing off a living thing?
+but then why is the crystal crawler’s lasers periodic, but the two miner enemies aren’t?
+the clue hides in the crystal crawler’s top entry.
+they are stated to be unaware.
+they have no conscious thoughts to begin with, and so cannot utilise their crystals at all, however the crystallised husk and the crystal guardian were both sentient creatures at some point.
+and as shown by the cowardly husk, those infected still can retain some aspect of themselves.
+all creatures contain soul, so could it be the miners intentionally channel their soul through the crystals to generate these lasers?
+while potentially unlikely they would normally have the intellect to know how to do such things, unlike the bugs of the soul sanctum, they are also infected, and within the radiance’s hive mind.
+so it could have given them the idea or ability to channel their soul forcefully through the crystals.
+* the crystal’s rapid growth
+there are two points where crystals are shown to rapidly grow in a matter of seconds, one from the super dash charging, and another from the crystal hunter enemies, the journal entry of which states:
+  
+
+
+
+here, there are two main points stated, one being they utilize rapidly growing crystals, and the other hinting in that the crystals could be parasitic.
+in nature, crystals form from a single “seed” (a small fragment of crystal, or something a crystal can form on, i.e.
+any small, high surface area object), put in a liquid which contains the material that will form the crystal suspended in solution with it.
+from what we see in game, the crystal hunter fires out a small crystal shard, which when it impacts on a surface rapidly grows into a very chaotic shaped crystal.
+it can also be noted, that crystals that form rapidly in this way are often far more fragile, as shown by it being able to be shattered by a single nail strike, where crystals that grow on other enemies are utterly immune to nail strikes.
+it is known that crystals that form rapidly often form irregular, or lacking the shape that slowly formed crystals do.
+however, crystals generally form in solution, i.e.
+a liquid.
+but where is the liquid in this case to form these crystals?
+and by what means do they form so quickly?
+again, i point back to soul, and its many states, one of which being a liquid, and also the fact soul is ever present in the air.
+it is in my opinion that the soul in the air clumps onto the crystal seed the crystal hunter fires, and from that energy rich soul the messy crystal is formed.
+but could this also imply that crystals are but a solid form of soul?
+there is no real evidence to support this claim, but it is something to think about.
+-(credit to @toxicnous for this idea)-
+there is one other place where it is hinted that crystals grew rapidly, and that is within the crystallised mound, where the snail shaman there is trapped within a large crystal.
+as is seen with the other snail shaman, especially with the one in the forgotten crossroads, they are masters of soul arts, able to utilise soul in a way no other creatures can.
+strange, how in a place where soul is so concentrated that such a large crystal grew fast enough to perfectly encase the shaman.
+perhaps it accidently willed it to occur?
+in dream nail dialogue it does ask to be freed, so it is assumed to be accidental.
+it seems to lend some credence to the idea that crystals are soul in a solid form...
+
+
+* the crystals “singing”
+while there being no real in-game evidence it is potentially interesting to note that quartz in the real world can vibrate when given an alternating electric current, a property called piezoelectricity.
+anything that vibrates can also produce sound, so it is potentially an interesting idea that the absorption and release of soul via light could induce a form of alternating current within the crystals, making them vibrate and hence making a high pitched “singing” sound?
+again, for this idea, there is no in-game evidence but it is an interesting idea.
+it is also interesting that quartz can form in colours of pink and purple, and also store energy in certain circumstances...

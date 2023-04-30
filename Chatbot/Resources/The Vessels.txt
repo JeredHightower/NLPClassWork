@@ -1,0 +1,1108 @@
+﻿the vessels
+
+
+
+the following analysis will attempt to understand the nature of the vessels and the way they are created.
+while this may be obvious to some, several misconceptions and ambiguities still exist.
+this analysis will try to address these specific issues and examine them carefully.
+any explanations and possible speculation will be based on the principle of occam’s razor, which says that when formulating any theory:
+
+
+“one should not make unnecessary assumptions and the answer to a problem is often the simplest.” 
+
+
+all statements will be supported by in-game evidence, and (where applicable) official side materials such as the manual.
+furthermore, instead of using transcriptions of in-game descriptions and dialogue, screenshots of these texts have been included for higher accuracy.
+
+before looking at the vessels, it is important to consider the void constructs first, and in particular the way they are created.
+it should be pointed out that only the wingmoulds and kingsmoulds are specifically called “construct”, as is stated in their descriptions in the hunter’s journal: 
+
+
+  
+
+  
+
+
+
+these descriptions suggest that both wingmoulds and kingsmoulds have void within them, which is encased by an outer shell or by armour.
+this is supported by evidence which will be discussed in the following section.
+
+white palace workshop analysis
+even though the way that void constructs are created is never explicitly mentioned, it is possible to piece this process together by looking at the hidden workshop in white palace.
+the lore tablet in this workshop is quite cryptic, but it does have some useful information on the nature of void.
+it says: 
+
+
+  
+
+
+
+the first two lines could be interpreted in multiple ways (although it likely refers to the void’s potential to oppose light-based higher beings), but the last line is quite clear.
+it seems that in order to control the void, a “harness” is needed.
+the workshop itself contains several of these harnesses[1], namely, the armour of the kingsmoulds and the shell of the wingmoulds.
+these can be seen in the screenshots below: 
+
+
+  
+first half of the workshop in white palace.
+second half of the workshop in white palace.
+what is of note here is the “mould” that is present in the workshop.
+below is a more detailed image of it: 
+
+
+  
+
+
+
+when this mould is dreamnailed, it says: 
+
+
+  
+
+
+
+it appears that this mould contains some sort of command or will.
+when void is poured into the mould, the resulting void being is imprinted with this command.
+armour is then placed over this void being, completing the void construct.
+this particular mould is likely for the kingsmoulds, as once their armour is destroyed, their void form is freed.
+its shape, seen here on the right side, fits the mould in the workshop exactly.
+the wingmoulds are different as it seems that the void inside them was not pre-moulded like the kingsmoulds were, but instead they had void poured directly into their shells.
+the shell serves as a sort of “mould” in this case, as well as serving as an outer shell.
+lastly, the workshop in white palace has one peculiar detail.
+in the background, spools of spider silk can be seen:
+
+
+  
+
+ 
+this might suggest that this silk was used to bind the void and the outer shells together.
+it could imply that the weavers may have helped in the creation of void constructs.
+after all, these spools of silk are found all over weaver’s den:
+
+
+  
+
+the midwife has some interesting dialogue about the weavers which might support their involvement.
+she says this when the knight visits her with weaversong equipped: 
+
+
+  
+
+
+
+the “shields” that the midwife mentions might be the various seals that are present throughout hallownest.
+evidence for this is the presence of a seal of binding in a hidden area of weaver’s den.
+according to the midwife, the weavers were apparently capable of weaving spells as well.
+it would not be too unlikely to consider that perhaps the weavers had some involvement in the creation of void constructs.
+summary
+in summary, the way that a void construct is created is as follows:
+
+
+1.
+a mould is made which has a command imprinted on it.
+2.
+void is poured into this mould.
+3.
+the resulting void being is then encased by an outer shell or by armour.
+1.
+note: only if the mould does not already serve as an outer shell (see wingmoulds)
+4.
+the weavers might be involved in the process of attaching the void to the outer shell.
+
+
+
+vessel composition
+while vessels share some similarities with void constructs, they do differ in several significant ways.
+their major difference is that vessels are not artificially constructed in any capacity.
+this section and the section after this one will deal with the evidence for that, and it will look more closely at how vessels are created.
+this section will also examine the exact composition of a vessel.
+vessels have a biological shell rather than an artificial one like the void constructs.
+this shell likely originates from the pale king and the white lady, with the vessels being their biological children.
+the evidence for that will be explained below.
+the shell
+it is known that the vessels have shells because this is pointed out specifically in the game and in the manual.
+the official manual says about mask shards and about soul :   
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+the masks in the top of the screen merely represent the strength of the knight’s shell, which means that their shell or their head is not a mask itself.
+it is also said that soul heals the knight’s shell, not their mask.
+
+
+
+the manual’s information is confirmed in-game, as the mask shard description also says: 
+
+
+  
+
+
+
+for the knight’s focus ability, the description mentions their shell as well:
+
+
+  
+
+
+
+hornet mentions the knight having a shell after they defeat her in kingdom’s edge.
+she states:
+
+
+   
+
+
+
+
+
+
+
+the binding in godhome which limits the knight’s available health is also said to be a “shell binding”, not a mask binding:
+
+
+  
+
+
+
+lastly, in godseeker game mode, godseeker directly mentions that the knight has a “diminutive shell”: 
+
+
+  
+
+
+as for the hollow knight, their journal entry says that they are fully grown: 
+
+
+  
+
+
+
+it can generally be assumed that a mask is incapable of growing (same with an artificial shell).
+the hollow knight is also specifically said to have a shell in the hunter’s journal entry description for pure vessel: 
+
+
+  
+
+
+
+the same is true for broken vessel, who in the hall of gods is described as:
+
+
+  
+
+
+
+considering this evidence, it can be assumed that the knight and other vessels do in fact have a shell.
+there is no evidence that states that the vessels have a mask as their head.
+as the next paragraphs will argue, the pale king and the white lady are likely responsible for this shell.
+there is one other piece of evidence related to the vessels’ shells that additionally hints at them being the offspring of the pale king and white lady.
+the hunter’s journal entry for pure vessel, which was discussed above as well, describes them as having “deepest silence”:
+
+
+  
+
+
+
+the “deepest silence” probably refers to the void within the hollow knight, as godseeker also has the following dream nail dialogue right before the knight fights pure vessel in the pantheon of the knight:
+
+
+  
+
+
+
+it is unlikely that the literal silence or lack of voice of the hollow knight could be referred to as a “deep” silence, or a “deafening” silence.
+the godseekers are listening to the tune of gods, as evidenced by them trying to hear if the delicate flower originates from a god: “if it sings... we can not hear it.” when they listened to pure vessel, there was only the deafening silence of the void.
+this void is inside the “holy shell” of the hollow knight, which is consistent with the notion that the vessels have a shell that has a shade[2] of void within it.
+it should be noted here that the shell of the hollow knight is specifically called “holy”.
+this probably refers to the shell having higher being origins, as in particular the pale king was seen as a god.
+this is supported by the dialogue that will be discussed in the next subsection.
+the pale king 
+after the knight picks up the pale king’s fragment of the kingsoul, a line of dialogue is shown that is implied to originate from the pale king himself[3]:
+
+
+  
+
+
+
+this dialogue refers to the nature of the vessels, as in the birthplace scene, the pale king has similar dialogue when he speaks of what a “pure” vessel should be.
+he says that vessels are:
+
+
+  
+
+
+
+these lines of dialogue mean that a vessel is born from both “god” and void.
+their inner shell (or heart) is made of void, but their outer shell consists of the “soul of wyrm [and] root”.
+“wyrm” is the pale king, as he is called by that name by multiple other characters, and that was his previous form before he transformed into the pale king.
+“root” is the white lady, as she herself mentions her roots as well: 
+
+
+  
+
+
+
+“root” and “wyrm” are both higher beings, and some higher beings are worshipped like gods.
+hence the “born of god” dialogue, as well as the “holy shell” of pure vessel which was discussed earlier.
+from this dialogue, it is at least heavily suggested that the vessels’ outer shell consists of parts of the pale king and of the white lady.
+additionally, in the hidden lore tablet to the right side of the pale king’s throne, it is said that the pale king has promised that hallownest would last eternal, but has made his “progeny” responsible for this:
+
+
+  
+
+
+
+the meaning of the word “progeny” is defined by the oxford living dictionaries as:
+
+
+“a descendant or the descendants of a person, animal, or plant; offspring.” 
+
+
+some possible synonyms for this word are: 
+
+
+“offspring, children, young, family, brood” 
+
+
+taking into account the information mentioned above, it is highly likely that “progeny” means child or offspring in this context.
+but who is this cursed progeny that is in charge of ensuring that hallownest remains the eternal kingdom that the pale king promised it would be?
+these are none other than the vessels, who hornet similarly calls “cursed” in her dream nail dialogue in greenpath: 
+
+
+  
+
+
+
+hornet likewise says in the temple of the black egg that the hollow knight is her “birth-cursed sibling”:
+
+
+  
+
+
+
+the lore tablet in white palace, therefore, seems to suggest that the vessels are the progeny, or offspring of the pale king.
+[4] 
+
+the white lady 
+the white lady is much more direct when talking about her relation to the vessels.
+one of the first things she says has to do with the creation of the vessels.
+she says that the reason she is bound in queen’s gardens is that:
+
+
+  
+
+
+
+from the previous section, it is known that the white lady was involved in the creation of the vessels, meaning that this “deed” likely refers to that event, and the “shame” probably refers to the fact that she felt bad that so many of them died.
+but what was it that caused her to participate in their creation?
+this is explained in the next line:
+
+
+  
+
+
+
+it was the white lady’s “urge to breed” that caused her to take part in the vessels’ creation.
+this seems to suggest that the vessels are created by breeding, not by any artificial means.
+furthermore, when the knight wears defender’s crest, the white lady says about the knight that:
+
+
+  
+
+
+
+the knight shares some piece of the white lady, which is in line with what the pale king said when he spoke of the vessels as consisting of the “soul of wyrm [and] root”.
+lastly, the white lady says this when the knight returns to her with the grimmchild in its final form:
+
+
+  
+
+
+
+she calls the knight her “spawn” here.
+while this word is not that uncommon, it might still be useful to look at the definitions for it as given by the oxford living dictionaries:
+
+
+1.
+the eggs of fish, frogs, etc.
+2.
+the product or offspring of a person or place.
+3.
+the mycelium of a fungus, especially a cultivated mushroom.
+it is quite clear here that the white lady uses the second definition, meaning that she calls the knight her offspring.
+this makes sense as she says that the knight shares a part of herself and that her desire to breed resulted in the creation of the vessels.
+as an aside, the synonyms for the word “spawn” are the following:
+
+
+“children, sons and daughters, progeny, family, youngsters, babies, brood”
+one more piece of evidence for the white lady being the mother of the vessels is that godseeker in the pantheon of hallownest describes the white lady as “pale mother”:
+
+
+  
+
+
+
+she is explicitly called a “mother” here, which supports the aforementioned dialogue.
+considering the evidence, we can understand that the vessels are the biological children of both the pale king and the white lady.
+there is, however, some more evidence to be found that supports this claim.
+hornet
+the other evidence for the vessels being biological rather than artificial comes from hornet.
+firstly, it is important to establish that hornet is the biological daughter of the pale king and herrah.
+this is directly said by the white lady when she speaks to the knight about hornet.
+she says that hornet is a “striking reflection of her mother”:
+
+
+  
+
+
+
+this means that hornet looks similar to her mother’s appearance.
+note that the white lady is talking about hornet’s physical appearance, as the white lady only went blind with time, and was able to see properly before.
+she says this herself when the knight visits her with defender’s crest equipped:
+
+
+  
+
+
+
+about the creation of hornet, the white lady says that:
+
+
+  
+
+
+
+the oxford living dictionaries defines “dalliance” as: 
+
+
+“a casual romantic or sexual relationship.” 
+
+
+in other words, the white lady never cared that the pale king (wyrm) had a sexual relationship with hornet’s mother.
+we know that herrah did not have a romantic relationship with the pale king, as deepnest did not accept his rule, nor is there any evidence of them both being romantically involved.
+furthermore, the white lady is specifically talking about hornet’s origins in that conversation, and it would make no sense if she suddenly started to discuss how her husband had a romantic relationship with somebody else.
+there is one detail about this line that is very significant.
+the white lady specifically says that “the wyrm's dalliance” was the bargain here.
+the pale king obviously had this dalliance with herrah in order to conceive a child with her, but the child itself, hornet, was not the specific bargain here.
+the bargain, or deal, was that the pale king would have a sexual encounter with herrah (in order to produce a child), in return for her becoming a dreamer.
+this dalliance would result in a child, which was herrah’s intention, but the child was not what the pale king offered directly.
+all in all, what we can learn from the white lady’s lines is that the way hornet was born was through a sexual encounter that herrah had with the pale king, that hornet looks similar to her mother in appearance, and that hornet herself was not technically part of the agreement that herrah had with the pale king.
+the dalliance could result in any child, not hornet in particular.
+the midwife in deepnest also says that hornet was a “pale gift”:
+
+
+  
+
+
+
+note that hornet was not a literal gift of the pale king to herrah, hornet was born through a dalliance, and this dalliance was the original offer.
+the midwife presumably calls her a “pale gift”, because hornet’s biological father is the pale king.
+some further evidence that hornet is the daughter of herrah is in herrah’s dreamnail dialogue: 
+
+
+  
+
+
+
+
+hornet herself calls herrah her mother after the knight kills herrah:
+
+
+  
+
+
+
+note that she says “born” here, not created.
+the white lady similarly says:
+
+
+“i feel some affection for the creature birthed.”
+
+
+from this evidence, it is likely that hornet was born to herrah, and that she is her biological daughter, as well as the daughter of the pale king.
+now that we have established this, we can look at how she relates to the vessels.
+as was mentioned before, at the temple of the black egg, hornet refers to the hollow knight as her “birth-cursed sibling”:
+
+
+  
+
+
+
+the hollow knight is both hornet’s sibling, as well as the knight’s sibling.
+the achievement “sealed siblings” states that hornet is the sibling of the knight too.
+this can only be true if the vessels and hornet share a parent.
+since hornet’s biological father is the pale king, and the vessels are her siblings, it only makes sense that the vessels are also the biological children of the pale king.
+in summary, this section has shown that the vessels have a shell, that this shell is biological, and that it most likely originates from the pale king and the white lady.
+
+the shade
+now that it has been established that the vessels have biological shells, the other part of a vessel should be considered, namely, the void inside them.
+this void “inner shell” is generally referred to as a “shade”.
+the vessels are not constructs, but their general make-up is still similar to a void construct.
+constructs have a void form, which is encased by an outer shell.
+the same is true for the vessels, who have a shade made of void which is hidden or constrained by their shell.
+the clearest evidence for this is that when the knight dies, it shows the shade escaping from the shell, just like a kingsmould’s void form escapes from its armour after death.
+the image to the side here shows this shade as it appears right after the knight dies.
+it should be mentioned that in the context of the overall lore, the knight respawning on a bench and having to “reclaim” their shade does not appear to be canonical.
+this is probably only a gameplay mechanic.
+[5] steel soul mode is often seen as the game mode that makes the most sense from a lore perspective.
+[6] 
+
+
+what is canonical is the way that the knight dies.
+the shell breaks and parts of it disintegrate, and the shade remains behind.
+this animation is also shown in this .gif
+
+
+
+
+
+consequently, the siblings in the abyss are the shades of vessels.
+they are called siblings because they are all that is left of the knight’s (biological) siblings who were discarded in the abyss.
+the siblings are described in the hunter’s journal in the following way:
+
+
+  
+
+
+
+when the siblings died, their shells broke and their shade was released.
+now their shade remains in the abyss due to it still having a lingering will.
+the shades of the vessels can be seen during the radiance fight, as the knight has united the entire void in order to defeat the radiance:
+
+
+  
+
+at the end of the fight, the knight breaks out of their shell which used to constrain their shade.
+they damage the radiance solely in their void form, with the help of their sibling, the hollow knight:
+
+
+  
+
+
+
+after this fight, what remains of the knight’s shell is left behind in the temple of the black egg, while their shade and the shades of all their siblings return to the void in the abyss.
+all of the evidence above should make it apparent that the shade of a vessel is concealed within the shell.
+the void and the shell are separate entities, the shell itself does not consist (partially) of void.
+this will be examined in further detail in the next sections.
+
+properties of shade and shell
+the following section is slightly more speculative as it mainly relies on in-game observations instead of textual evidence.
+throughout the game it is seen that beings who consist only of void are incapable of holding soul.
+when one of the siblings or the collector is struck, they do not give soul to the knight like all other living beings do.
+before a sibling is struck:
+  
+
+
+
+after a sibling is struck:  
+
+
+
+
+ 
+
+
+
+this appears to show that the shade of a vessel is not able to contain soul itself.
+since the knight, a vessel who still has their shell, is able to hold and use soul, it is likely to assume that soul is stored within the shell of the knight.
+the mask maker’s dream nail dialogue seems to support this statement: 
+
+
+  
+
+
+
+they specifically remark upon the “face” that hides within the knight.
+this is not a literal face, as earlier in its dialogue, the mask maker seems to compare having a face to having an identity.
+for a vessel, this hidden identity is probably the shade within the shell.
+presumably, the “contrast” that the mask maker speaks of is the contrast between soul and void.
+usually, void beings are unable to hold or manipulate soul, yet with a shell around them, they are able to do this.
+for a more detailed analysis on all of the mask maker’s lines, see this document.
+
+the creation of vessels
+vessels are void beings, but they are created differently than the void constructs.
+as covered in the first section, the kingsmoulds are created by pouring void in a mould, then encasing that void in armour.
+the wingmoulds likely had void directly poured into their shell.
+the exact origin of the vessels will be examined in this section.
+the workshop in white palace has the outer shells of both the wingmoulds and kingsmoulds.
+yet the vessels’ shells are not present there.
+furthermore, each vessel shell appears to be unique[7], while the constructs all look the same.
+the most likely reason for this is because the vessels’ shells are biological, not artificial like the constructs’ shells.
+this was discussed in the section on the shell.
+birthplace 
+since the vessels have a natural shell, they are born, rather than created.
+the birthplace of the vessels is the abyss.
+hornet and the white lady both mention this, as does the description of the kingsoul.
+hornet says in the abyss once the knight has acquired the shade cloak: 
+ 
+  
+
+
+
+she directly refers to the abyss as being the place of the knight’s birth.
+the description of the kingsoul calls a specific area of the abyss a “birthplace”: 
+
+
+  
+
+
+
+similarly, the white lady mentions that the knight was born in this birthplace: 
+
+
+  
+
+
+
+her full line of dialogue, when she says that in the birthplace, the knight “was born, [...] died, [and] began” will be examined in the final part of this section, as some further explanation is required to understand it.
+in this birthplace, there is a black reflective egg that the knight can use their dream nail on.
+this leads to a dream sequence that transforms the kingsoul into the void heart.
+that event aside, it is important to focus on the egg in the birthplace as this seems to be significant to the vessels’ origins.
+this egg is pictured below: 
+
+
+  
+
+
+
+besides this egg, there are several more remnants of eggs found throughout the abyss: 
+
+
+  
+
+  
+
+
+
+the observation that an egg is present in what is called a “birthplace”, combined with the fact that the white lady specifically remarks upon this birthplace being the place where the knight was born, implies that it is likely that the knight was born from this egg.
+presumably, all vessels are born from eggs like these, since the abyss has similar eggs scattered throughout the area.
+it should be noted that there appear to be not enough eggs for the number of vessel corpses in the abyss.
+this might be an artistic choice, as having eggshells everywhere is not as impactful as having a mountain of corpses.
+it could be that we are simply not shown enough of the abyss itself, because it seems to be much bigger than what can be seen from a 2d perspective.
+it might also be a possibility that multiple vessels are born from the same egg.
+lastly, there used to be some debate in the past on whether the vessels were placed in these eggs after the birth of their shells, or whether these eggs were produced by the white lady and then placed in the abyss.
+the egg in birthplace does seem to be corrupted by the void, as is evidenced by the various void “vines” that are attached to it.
+this suggests that it is possible that the white lady’s eggs were placed in the abyss.
+while there, they were corrupted by the void, resulting in the vessels.
+regardless of that, the main purpose of this egg in the birthplace seems to be to show that the vessels are born in some capacity and not created like a void construct.
+
+origin of the void within a vessel
+although it is likely that the vessels were born from the eggs in the abyss, it remains unclear how exactly they got void inside them.
+the constructs were manually created with void, but the vessels were not formed in exactly the same way as a construct.
+there is one text that specifically deals with vessel creation, although the text itself is very much up to interpretation.
+the lore tablets in the teacher’s archives mention the history of hallownest, how to seal the radiance, and most importantly, the way a vessel is formed:
+
+
+  
+
+
+
+this text is slightly confusing, as there are no line breaks, no punctuation, and no proper sentence structure.
+there also seem to be words that have no apparent meaning in english.
+despite this, the general meaning of this text can be deciphered.
+note that the following section is very speculative.
+different interpretations besides the one below are possible too.
+for instance, in this video by mossbag, he explains how he interprets the texts in the teacher’s archives.
+it is similar to how the text is explained here.
+
+
+
+without getting into literal translations of the words, the meaning seems to be as follows: 
+
+
+
+
+
+
+
+ “-of-absence-thir-abundance-shell-outer-”
+
+
+[to create vessels], there needs to be an outer shell with nothing inside it.
+“o-inner-place-in-absence-thir-void-liquid-substance”
+
+
+liquid void substance gets/is placed inside this shell.
+“-o-weave-absence-inner-o-shell-outer-thir-mater-peer-ch”
+
+
+the inner shell made of void is woven to the outer shell.
+“void-vessel-absence-all-outer-contain”
+
+
+several interpretations might be possible for this last fragment:
+
+
+1.
+this results in a vessel who has void inside which is contained by the outer shell.
+2.
+this results in a vessel which is capable of containing something inside the void.
+
+
+
+
+
+regardless of different interpretations, it seems to be clear that this text mentions that the shells of the vessels are empty, and then void is placed inside them, or the void fills the empty shell.
+the word “weave” might imply weaver involvement, just like it is suggested they were involved in the creation of void constructs.
+it seems that the vessels’ eggs were placed in the abyss before they were born, and the void there “hollowed out” or corrupted their shells, filling them with void.
+the white lady’s dialogue on the birthplace may support this theory.
+she says the birthplace was “where [the knight] was born, where it died, where it began.” the “dying” might refer to the filling of the shells with void, effectively killing the original identity of the unborn child who is still in their egg.
+the “beginning” that the white lady mentions is likely referring to the way the children are reborn as vessels.
+in the absence of any other theories that are supported by (indirect) evidence, the above explanation seems to be the most plausible.
+there might be other ways to explain how the vessels were filled with void, but that will probably require even more assumptions than were made in this analysis.
+if silksong reveals something new, however unlikely that is, this theory will be re-examined and adjusted for accuracy.
+
+the body of a vessel
+a very common theory is that the black part of a vessel’s body consists of void, while only a vessel’s head is their shell.
+the evidence that is often cited is that the knight’s head remains behind in the dream no more ending, and their body appears to be gone: 
+
+
+  
+
+
+
+there is also the fact that solely the knight’s head remains behind upon dying, while their body seems to disintegrate: 
+
+
+  
+
+
+
+the full death animation can be seen here.
+despite this, there appears to be evidence that contradicts the idea of only the knight’s head being a shell, with their body being void.
+the main proof for this is the appearance of broken vessel.
+broken vessel is a vessel who has died, meaning that their shade is no longer within their shell.
+in other words, they have no more void left.
+however, they still have their entire body, as can be seen here:
+
+
+  
+  
+  
+
+
+
+after no longer being infected by lightseeds, broken vessel’s arm can be clearly seen.
+furthermore, during the fight, their entire body is visible at multiple points.
+if a vessel’s body were made of void, it would not still be present after that vessel has died.
+after all, the shade of a vessel escapes from the shell after death, it does not remain behind.
+
+
+
+further evidence is the body of the hollow knight which appears to be made out of segments: 
+  
+
+
+
+this seems to indicate that their body is part of their shell, and that it is not made of void.
+void by itself is generally more formless and less defined.
+this can be seen in the collector[8], the siblings, and the kingsmoulds: 
+  
+  
+  
+
+
+
+what could be the explanation then for only the knight’s head remaining behind in the dream no more ending?
+it might be that the body of a vessel is more fragile than their head.
+when the shade breaks out of the shell by itself, the body possibly completely disintegrates, while the head breaks but still remains largely whole.
+it should be noted that the explanation above is not supported by evidence, and is purely speculation.
+there is currently no true way to explain why the knight’s body entirely disappears upon death.
+should silksong provide more answers, however unlikely, this section will be updated to include that information.
+
+soul manipulation capabilities
+there is evidence that the vessels are capable of manipulating their own soul and are able to steal the soul of other beings.
+they can also use spells that are powered by soul.
+focus soul
+there is a lore tablet in king’s pass which states that “higher beings” are able to focus their soul: 
+
+
+  
+
+
+
+a prompt then appears that explains that the knight can focus their soul as well[9].
+the hollow knight apparently has this ability too, judging by the pure vessel fight.
+pure vessel has an attack there that looks very similar to the knight’s focus: 
+  
+
+  
+
+the sound filename for this attack is “ggpurevesselfocusing”, and the name of this attack in the fsm file for pure vessel is “focus” too, as can be seen here on the right.
+this further contributes to the idea that this attack is the hollow knight focusing.
+it might be possible that since both the knight and the hollow knight have this ability, all vessels are able to do this.
+after all, vessels are generally formed in the same way; being able to focus could be an innate ability.
+stealing soul
+the knight is able to steal soul from living beings by hitting them with their nail.
+this is not just a gameplay mechanic, as various sources in-game reference this fact.
+for example, godseeker in the pantheon of hallownest says this to the knight:
+
+
+  
+
+
+
+the godseekers call the knight “eater of soul”, which confirms that the knight being able to steal soul from living bugs is a canonical ability.
+other users of soul, such as the snail shamans, have to use artifacts to be able to take soul from other bugs.
+one such artifact is soul eater, a charm that, according to its description, was used to draw soul from living beings.
+this implies that normally it is impossible to draw soul from a bug that is still alive.
+that can be seen in soul sanctum, which has piles of dead bugs at the bottom of the sanctum.
+these bugs were presumably killed in order to obtain the soul inside them.
+there exists cut dialogue for moss prophet which mentions “stealing soul” as well: 
+
+
+“to change ones form is a blasphemy against the light!
+to steal the soul of weaker creatures is a blasphemy against the light!”
+
+
+while this dialogue has been cut from the game, its existence proves that team cherry has thought about the implications of the knight having the ability to steal soul.
+the question remains, do all vessels have the natural ability to steal soul?
+there currently exists no evidence of any other vessel stealing soul.
+however, no evidence exists that the knight is physically different from any of their siblings either.
+it might be possible that since the knight can draw soul from other beings, the other vessels have this capability too.
+soul spells
+both the knight and the hollow knight can use spells powered by soul.
+any spell that is used by the knight requires soul in order to cast it.
+whenever they cast a soul spell, the knight will have white particle effects around them: 
+  
+
+pure vessel uses what look like two soul-based attacks as well: 
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+does this mean that all vessels are able to learn soul-based spells?
+presumably, yes, although all evidence comes from the knight and pure vessel, the only non-infected vessels in the game.
+it is highly likely that other vessels have this ability too, but this has not yet been fully demonstrated.
+origin of abilities
+as was stated in the first part of this section, it is said that higher beings are able to focus their soul.
+since both the knight and the hollow knight have this ability, could that mean that vessels can be considered higher beings?
+firstly it is important to examine what a higher being exactly is.
+according to the description of the kingsoul charm, the white lady and pale king are both higher beings:
+
+
+  
+
+
+
+a comment from team cherry in their first ama on reddit confirms that the pale king, the white lady, and the radiance are all higher beings:
+
+
+  
+
+
+
+a transcription of this comment can be seen below:
+
+
+“there are certain creatures in the world of hallownest that exist above all others, higher beings like radiance and wyrm and root.
+if there are others like them, we'll probably run into them in future adventures.” 
+
+
+the description of the kingsoul suggests a link between higher beings and the production or manipulation of soul, as the kingsoul itself contains limitless soul.
+in addition, there are soul totems in white palace which depict the pale king, possibly implying that he was the one who built them:
+
+
+  
+
+
+
+it seems that higher beings have some power over soul, although it cannot be said with certainty whether the vessels are higher beings themselves.
+since they are the biological children of the pale king and white lady, it is possible that they inherited their soul manipulation powers from them.
+
+miscellaneous observations 
+the following section will have several shorter, miscellaneous observations about the vessels, some of which might be extremely obvious.
+however, it could be useful to discuss them in order to get the full picture.
+vessels are all siblings
+an observation on the vessels that is probably very clear to most people is that all of them are siblings.
+the first hint to that in-game is given by the name of broken vessel’s dream version.
+when the knight fights them in the dream realm, broken vessel’s name changes to lost kin.
+this suggests that broken vessel is a relative of the knight.
+later on, it becomes clear what this relation is.
+when the knight goes to the abyss after getting the king’s brand, they can fight shades there who are referred to as “siblings”.
+since these shades used to be within the corpses of the vessels in the abyss, it can be assumed that the vessels, including broken vessel, are all siblings.
+hornet confirms this assumption when she talks about the hollow knight in the temple of the black egg.
+this particular dialogue was discussed in various other places in this analysis as well.
+hornet says here that the hollow knight is both her and the knight’s sibling:  
+
+
+  
+
+
+
+lastly, team cherry has referred to the vessels as being the knight’s siblings in their first ama on reddit: 
+  
+
+
+
+all of this is in line with the vessels being likely the children of the pale king and white lady, which was discussed in the section on the shell.
+since all of them have the same parents, it makes sense that they are each other’s siblings.
+vessels are genderless
+another more evident fact about the vessels is that all of them are genderless.
+in the game itself, any vessel is always referred to by the gender-neutral pronoun “it”.
+there are countless examples of this to be found throughout the world.
+for instance, the white lady calls the hollow knight (the vessel) an “it”: 
+
+
+  
+
+
+
+she uses the same pronoun for the knight:
+
+
+  
+
+
+
+hornet likewise calls the hollow knight an “it”, and calls them her sibling, not a brother or sister: 
+
+
+  
+
+
+
+additionally, hornet is called “the gendered child” by both the white lady: 
+
+
+  
+
+
+
+and by the midwife in deepnest:
+
+
+  
+
+
+
+hornet and the vessels are all children of the pale king.
+[10] if hornet has to be called “gendered” in particular, that means that the pale king’s other children, the vessels, are genderless.
+furthermore, team cherry themselves have said in multiple sources that the vessels have no gender.
+this was first found in the game files in the file “notesexceptionlist.xml”, which is a file that has multiple developer notes from team cherry to help them keep the lore consistent.
+it has the following entries on the gender of the vessels: 
+
+
+“<entry name="gender notes">the hollow knights have no gender.
+check for hims and hes.
+is the wyrm king gendered?
+probably.
+or is it that when the wyrm took king form it gained a gender?
+hornet is the gendered child.
+she can be referred to as female.</entry>” 
+
+
+“<entry name="bretta white saviour">to obscure the knight’s gender in this instance, white prince should probably be replaced with white saviour.</entry>” 
+
+
+besides this developer note, team cherry further confirmed that the knight is genderless in their latest ama on reddit: 
+
+
+  
+
+
+
+lastly they also mentioned this in a mixer stream at 01:03:49 (stream has been removed): 
+
+
+“both the knight and the hollow knight are genderless?
+ari: "yeah, we think that is canonical.
+and it's mentioned several times within the-"
+william: "maybe we never quite explain- or, maybe it's never like explained...
+i don't know how you would even explicitly say this in-game."
+ari: "i think it may be, somewhere.
+but it's just a factor of it."
+william: "the character we're playing as... is this a spoiler?"
+ari: "we should say that sometimes i think we say “he”, but that's just probably our-"
+william: "early on we did.
+because that was like way before the character really even... we kinda knew what the character is-"
+ari: "i think we still accidentally say it as like a habit thing.
+but that is not accurate."
+william: "canonically, yes, [they are genderless].”
+
+analysis of dialogue
+there is one line of dialogue that is the subject of some measure of debate.
+this is the dialogue that is shown after picking up the pale king’s piece of the kingsoul in white palace: 
+
+
+  
+
+
+
+in the game files, this specific line is referred to as “kingfinalwords”.
+other theories
+a theory exists that states that this dialogue mentions the process to obtain the void heart charm.
+this charm is obtained by collecting both the white lady’s (root) and the pale king’s (wyrm) pieces of the kingsoul.
+the kingsoul is then transformed into the void heart.
+furthermore, it is said that the “final words” in the game files means that this dialogue was the final thing that the pale king said before he died/disappeared, indicating that he may have had a (deathbed) revelation on how to save his kingdom.
+while this theory may seem plausible at first glance, there are several issues with it.
+first of all, these are not actually the pale king’s “final words”.
+usually, the final words or thoughts of a bug are shown when the knight uses the dream nail on their corpse.
+when the dream nail is used on the pale king’s body, the following dialogue is shown: 
+
+
+  
+
+
+and the line after that dialogue shows only the following: 
+
+
+  
+
+
+
+why this “pause” is there at the end is a matter of some speculation, but it might imply that perhaps the pale king did not believe in his mantra of “no cost too great” anymore.
+regardless, these lines of dialogue appear to be the pale king’s true final words or thoughts.
+it is unlikely to believe that the pale king knew that it was possible to transform the kingsoul into the void heart.
+if he did know about it, he would have tried to achieve that goal instead of sacrificing his child, the hollow knight.
+this is supported by dialogue from a giant mushroom in fungal core.
+when the dream nail is used on this mushroom, this dialogue is shown:
+
+
+  
+
+
+
+as is stated by bardoon, the pale king had the gift of foresight, also known as the ability to see the future to some extent.
+apparently, the pale king was able to foresee hallownest’s demise, and there was nothing that could be done about it.
+this suggests that he did not know that it was possible to save the kingdom by uniting the void and defeating the radiance, instead of sealing her away.
+the official vinyl for the soundtrack of hollow knight also has the line “soul of root, soul of wyrm, heart of void” on the backside of the cover[11]:
+
+
+  
+
+  
+
+
+
+this text is shown below an image of the knight.
+it is very implausible that the way to acquire void heart would be spoiled on the backside of the vinyl.
+this line of dialogue probably refers to something else instead, which will be explored later on in this section.
+the “final words” in the game files most likely just references the fact that this dialogue is the final dialogue that the player will see upon completing white palace.
+furthermore, theories should not completely rely on game file data, as the information there is generally not entirely canonical.
+examination of this dialogue
+besides the theory that is examined above, another theory exists.
+this theory states that the dialogue at the end of white palace refers to the true nature of the knight, and consequently all other vessels.
+this theory seems to be more plausible as it has a lot of evidence supporting it.
+firstly, it should be explained that the knight is not aware of their true nature.
+at the start of the game, in the intro cutscene, it is shown that the knight was roaming around the howling cliffs before entering king’s pass.
+they were called back to hallownest by either a call from the hollow knight or from the radiance.
+this is stated by the dreamers in the resting grounds: 
+
+
+  
+
+  
+
+
+
+regardless of the reason for their return, wandering around outside of hallownest made the knight lose their memories.
+both hornet and a lore tablet in the howling cliffs remark upon this.
+hornet says in the city of tears: 
+  
+
+
+
+the first “void” is obviously the void inside the knight.
+the second “void” refers to the area outside of hallownest, which was were the knight was wandering around before being called back.
+a lore tablet in the howling cliffs mentions this as well:
+
+
+  
+
+  
+
+
+
+while this tablet is clearly not entirely truthful, as there is evidence of civilizations beyond hallownest, it does reference this “void” that hornet also noted.
+the knight probably did not lose their mind, as this tablet states, but they did lose their memories, including knowledge of who and what they are.
+[12] 
+
+
+the achievement description upon acquiring void heart suggests that the knight does not remember their past before they get void heart: 
+  
+
+
+
+the mask maker similarly wonders if the knight is aware of the shade within them.
+their dream nail dialogue[13] says:
+
+
+  
+
+
+
+in short, the knight has no memories of who and what they are, namely, a vessel.
+they do not know of their true nature before using the dream nail on their own reflection in the birthplace.
+the journey that eventually leads to the knight obtaining void heart is a journey for the knight to remember who they are.
+upon remembering this, they accept the void within them and gain the ability to unite the void and face the radiance directly.
+hornet remarks on this when the knight listens to her at the temple of the black egg: 
+
+
+  
+
+
+
+then how does the pale king’s dialogue at the end of white palace fit into this?
+as has been explained, the knight has no memory of who they are.
+upon completing white palace, this is still the case.
+the knight may have gained some vague hints from hornet and the white lady, but ultimately, they are still very much in the dark about their origins.
+the pale king’s dialogue alludes to the true nature of the vessels.
+this is important because, as said before, the knight remembering who and what they are is what causes the kingsoul to transform into the void heart.
+during the birthplace dream sequence, these words are repeated, although in a different way.
+it is said that vessels are: 
+
+
+  
+
+
+
+this “god” refers to the pale king and the white lady.
+they are both higher beings, who are generally worshiped as gods.
+the pale king specifically was revered as a god by the bugs of hallownest.
+the “void” obviously references the “heart of void” that all vessels have.
+any other theory requires unnecessary assumptions, which should be avoided according to the principle of occam’s razor.
+it is now possible to explain something that was mentioned at the start of this section.
+the official vinyl has the line  “soul of root, soul of wyrm, heart of void” below an image of the knight, because this refers to the composition of the knight.
+their shell or “soul” was formed by the pale king and the white lady procreating[14], while the “heart of void” is the shade within them.
+
+
+
+conclusion
+from this analysis, the specific nature of the vessels should be more clear.
+firstly, a vessel is composed of a natural shell, and a shade made of void.
+this is similar to constructs, which have an artificial shell or armour, and void within that.
+secondly, the vessels are born and created in a different way than a void construct.
+they were born from eggs in the abyss, where their eggs became corrupted by the void.
+the unborn children were then reborn as vessels.
+furthermore, it is likely that the entire body of a vessel is part of their shell, the black part of their body does not seem to be made of void.
+the vessels seem to have an innate ability to focus their soul, and to use soul-based spells.
+it is possible that this ability is inherited from the pale king and white lady.
+lastly, the dialogue by the pale king at the very end of white palace likely supports the analysis made above.
+it says that a vessel has a natural shell that originates from the pale king and the white lady, and a shade made of void within that shell.
+note that although this analysis is supported by evidence wherever possible, there are still some unanswered questions regarding the vessels.
+if silksong answers these questions or provides more information in any way, this analysis will be updated accordingly.

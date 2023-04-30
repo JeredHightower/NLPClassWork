@@ -1,0 +1,102 @@
+﻿introduction
+      seals, and shields.
+despite being well known, we only see one seal referred to as such in the actual game, the seal of binding.
+there is the hallownest seal, but that is not the type of seal being referred to in this document, it is the insignia of hallownest [1], with insignias being used on literal wax seals.
+perhaps the hallownest seals were also used to imprint their design into wax?
+back to the topic, file names can be used to determine other possible instances of seals, although they aren't ingame confirmation making them dubious as to being canon or not (for example, the shade cloak bug sprites have higher being in the name.)
+with seals out of the way, the type of shields in this document are also only mentioned once, by midwife, where she says the weavers created shields made of silk [2].
+similarly, sprite names will be used to find these shields.
+the main way used to distinguish shields and seals will be through their purpose.
+seals contain and shields protect or block out.
+note, they seem to be used interchangeably in the files, so perhaps there is no difference?
+take this with a grain of salt as it is speculative.
+after some thought it appears seals/shields which have the same general function can have varying designs, and slight variations in function/what undoes them, but overall will have the same purpose.
+most names of these seal groups are made by the author.
+seal of binding
+   the seal of binding, also known as an sob is one of the only confirmed seals, and has a very unique appearance.
+it's function is to contain powerful forces or entities, or to preserve objects of great importance [4], such as memories (end of the path of pain).
+these seals also appear to function as one-way gates, considering they're used in the hollow knight arena to contain it and anything else in the arena (but hornet can enter through behind once it appears), as well as throughout the white palace and in the path of pain arena.
+something to note is that it is a very specific design, and is only shown in these places as well as at the start of the path of pain, and as what looks like a rough design in the weaver den (the head in the center could possibly be changeable, but the rest seems set in stone.)
+something an associate has mentioned is how in translations such as the spanish one, the word "vinculo" (link) was used for the binding part of seal of binding, rather than the word "atadura" which essentially translates to bind.
+it may show what definition of binding is being intended in this instance, although since the seal is meant to contain powerful forces and/or preserve things such as memories, it seems to be more like constraint than linking.
+the white lady's bindings also seem to restrict and diminish her power, rather than link it.
+but since not much is known, it deserves a mention.
+anyways, the images will be below.
+seal of "draining"
+   this seal has no official name and hence is a name given by the author, however, it is seen more than once and function quite similarly.
+these "sod"s seem to weaken the being sealed to the point of near paralysis, with them being unable to move besides slight tremors and the turn of a head.
+the first instance is with the seals on the chains suspending the hollow knight.
+both pure vessel can shred it's harness, as can the hollow knight, but while chained up it appears incapable of doing anything but watch the knight as it slowly breaks the chains and associated seals.
+the second case is with hornet, in the silksong opening during the nintendo treehouse at e3.
+during this, we can see the full opening, and hornet is incapable of doing anything but sit and tremble within the cage.
+it also seemed to stop her from using any silk abilities, which then seemed to instinctively trigger when the seal was broken, destroying her cage and the bridge below it.
+the seals are also on the bars of the cage, rather than the entity itself like with the hollow knight and it's chains.
+there's also the bindings in the black egg that hornet mentions [3], which cause her to pass out after restraining thk.
+they could potentially put her in a comatose state in sealed siblings if the black egg isn't destroyed like in dream no more but that isn't confirmed.
+they seem to drain the energy of all living beings in a certain proximity, hence are being included here.
+the seals on the hollow knight's chains are called binding_shield(s).
+they work to seal the entity by immobilizing it so they appear to moreso be seals than a shield.
+some variations are that the hollow knight's seal reveals itself based on proximity to the knight, while hornet's shimmers in and out of view.
+hornet's also seems to be made by the citadel caste from pharloom, while the hollow knight's was presumably made by the pale king.
+the citadel caste's also seems to have disabled hornet's abilities on top of the immobilization, and according to the edge magazine interview, she actually lost her skills/abilities she once knew due to being trapped in the sealed cage for so long [5].
+side note 1, the nintendo treehouse players call the seal on hornet's cage a sob, however, they weren't given inside info by team cherry, they're merely speculating fans and the seal on hornet's cage looks nothing like all other examples of an sob.
+side note 2, the shield over thk responds to nail blows and appears different than the chain seals, hence they seem to be different.
+below are the images.
+physical damage shields
+   the first ones addressed are the dreamer shields, which appear to be somewhat of a subset of the shields that block physical damage, and have a fairly unique design.
+monomon's in particular appears augmented with her additional protection as it's always present and seems to conceal her from tools that access a mind until that additional protection is undone by her mask being restored.
+these shields also seem to possibly be preserving their bodies since the shields upon the black egg door are only undone when their physical bodies die, which is only achieved by the knight killing and absorbing them in their dreams.
+the other notable shield seems to be the one over thk's body that protects it from physical harm.
+this causes their bodies and the associated shields to vanish by the time the knight wakes up.
+below is a diagram of the dreamer shields made by yours truly, inspired by one made by mebi#0700, and the sprite of thk's.
+essence shields
+   these appear in 2 cases, and appear to be used to deny access to a being's mind, and hence, entering their part of the expanse of dream.
+these two are the shield over grimm when the grimmchild isn't equipped, and the shield over the kingsmould in the palace grounds when the dream nail has not been awoken.
+grimm's is "grimm_sleep_shield.png" and "dusk_knight_dream_shield-1.png".
+the dreamers have this appearing as part of the orb of light around them which fades away as the knight approaches as well, but it appears to just be visuals.
+they react to the use of the dream nail in the first two instances.
+as per usual, the images will be put below.
+symbolism
+the black egg seal has a quite notable design with pieces from several other glyphs or seals representing characters.
+below is a diagram by mebi#0700, which does a great job of analyzing it and showing some various seals/glyphs which also have that representation of those characters.
+structural integrity seals
+   the last main grouping of seals/shields are these, which maintain and uphold the affected structure, leaving them in a possibly unbreakable state until the seal is destroyed, at which point they break apart and/or collapse.
+the first one is the seal over the main entrance to the abyss, which is preserving the structure of the blockade, and upon the knight approaching (after being marked with the king's brand) the seal will break, and the blockade will crumble.
+a similar scenario occurs with the black egg door, where upon the 3 dreamers being killed, and their corresponding seals breaking, the door will split in half and break, temporarily revealing  a seal inside it.
+the last instance is with the cast-off shell in kingdom's edge, where upon collecting the king's brand from it, a faded seal appears and fades out, and the whole shell begins to collapse.
+the file names in order: abyss_door_seal, boss_door_anim0007-1, wyrm_bind_shield.
+they're probably seals rather than shields due to the seal of binding also being capable of preserving, but the cast-off shell shield may actually be a shield that has the secondary function of maintaining the structure of the corpse.
+why would it be a shield?
+if the king's brand was so easy to obtain, couldn't any hallownest citizen exploring be able to find and take it?
+hornet guards the cast-off shell like she guards hallownest, to stop trespassers from desecrating it, however, before the infection's first wave, it would've probably been unguarded.
+hornet also never takes the brand for herself, despite being descended from the pale king, possible due to being unable to do so, as her mother was a commoner [6] leaving her possibly in illegible.
+however, the knight (and all vessels for that matter) are descended from the rulers of hallownest, which could be why the knight is able to brand itself without the shield blocking it from doing so.
+a curious detail is that all 3 of these depict the pale king as shown in the symbolism section, and the abyss seal along with the wyrm corpse shield would presumably have been made by him, perhaps suggesting he made the black egg seal.
+below will be the images.
+miscellaneous
+white lady's bindings
+   not much is known about them, they are stopping her from acting on her urges [7] and also diminish her power enough for the godseekers to not pick up on her resonance [8].
+it reacts to soul, and the image will be placed below.
+the file name is "queen_binding_shield.png" but due to it diminishing her power it could be a seal.
+just a side note but this is mainly just connecting the dots in one of several ways, and since there is no real information on it, a different conclusion could easily be drawn.
+grimm troupe device 
+   this one has even less information on it, and the same goes for the device behind it.
+it reacts to soul and the file name is grimm_glow_responders.
+a slightly  odd detail is that it consists of two layers, but so does another later shield.
+"trilobite" shrine ""thing""
+   within the beast's den, a strange "statue" can be seen suspended from the ceiling by several pipes/wires, and it's original concept art had it as a large fountain with even more pipes connected.
+however, that is clearly not what it currently is.
+due to its appearance, many have called it the trilobite statue.
+the file names for its assets all simply start with spider_shrine, though, implying it's a shrine but not much more.
+it appears to have some sort of seal/shield over it that lights up in response to soul, and has a fairly unique design.
+alas, the file name is not quite helpful, being "spider_shrine_quake_thing.png".
+it is presumably weaver made as they could make spells and shields, and they are the only ones to do so in deepnest.
+shade cloak bug shield
+   within the abyss, a corpse of a large bug clutching a bowl of infinite void can be found at the far right, and upon the knight entering the bowl, it almost seems to get stuck as void coats the shell and turns the mothwing cloak into the shade cloak.
+when dream nailed with the basic dream nail, a shield consisting of a white and black layer will appear.
+if dream nailed with the awoken dream nail, it can bypass this shield just like how it bypasses the kingsmould shield in the palace grounds.
+it may be composed of soul and void, and we already know the ancient caste/civilization created the soul totems according to lemm [9], so it isn't unreasonable that they could create shields with soul.
+sharp shadow is also found amongst many soul totems and according to its description, contained a spell which could shape/control shadow (void) we can infer that this bug was part of the ac as it is found in the abyss where no other bugs were, knew void was ununified, and held the bowl as if offering it out, or praying, and it's features such as the large plated shell with a "spine' line up with that of the ancient nailsmith's, who is found in a room full of the ac's architecture.
+it is classified as a shield due to what it does, protect the shade cloak bug's mind from intrusion by the dream nail.
+the file names start with "higher_being_dream_mask" perhaps implying a mask is involved?
+the sprites will be below, and here is a video showing it.

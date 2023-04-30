@@ -1,0 +1,109 @@
+﻿the grimm troupe
+(original document by knightmere#3365, revised by serrara mayfield#8970)
+
+
+  
+
+                                           
+
+
+introduction
+
+        the grimm troupe is a ‘circus’ whose objective is to travel in search of fallen kingdoms scattered across the world, to harvest a substance known as “scarlet essence” within the nightmares of beings who previously/currently lived there.
+the leader of this group is a charismatic being known only as grimm, who seemingly commands the members as a whole, where they go next, et cetera.
+their true, hidden goal is to sustain the life of a higher being known as “the nightmare’s heart” via a cyclical ritual of death and rebirth.
+this ritual consists of summoning the troupe via discovering lanterns within their acolytes’ minds in past kingdoms, and lighting them via using a weapon capable of cutting the veil between the dream and waking worlds such as the dream nail: this act restores and/or lights the lantern in question, thus calling the troupe to said land, with the addition of binding the instigator/ “friend” to a compact “written in scarlet fire”.
+the troupe’s known main members are grimm, divine, and brumm; with the grimmkin novices/masters/nightmares respectively serving as underlings.
+history
+
+
+the origin of the troupe dates back   what is thought to be long before hallownest.
+a member of the moth tribe, seer, gives context from the hunter’s journal entry for a being known as the “nightmare king”: she states that at some point in the past, the dream realm was split in two, leaving the nightmares isolated from the rest of the dream expanse.
+there are similarities between the heart and other higher beings: it has lower beings who work for and worship it in some fashion, it has influence over and can shape dreams beyond the extent of common bugs, and overall possesses powers that common bugs cannot normally have.
+a difference between the heart and other higher beings, however, is that unlike most of its kin the heart inherently has a vessel (grimm) in the physical realm, used to sustain its life by gathering “the flame in dream”: nightmares.
+it is demonstrated that once the heart and the troupe have nightmares to sustain themselves, their collective life is prolonged.
+the hunter’s journal entry for the grimmkin nightmare states that they would “dance and die and live forever”.
+also in this entry it states “burn away the nightmare king'' , which refers to the final step of the troupe’s ritual.
+the ritual
+
+
+as mentioned previously, the troupe master is a vessel to the nightmare’s heart.
+this vessel is suggested to be bound by concepts such as age and stamina, most likely a byproduct of existing in the physical realm.
+a piece of evidence supporting this is how worn and aged grimm’s voice seems to be when the knight meets him; another is that grimm mentions that the troupe had not seen such a performance like the knight’s in a long time after their “dance” (fight), indicating the ritual had not been carried out so easily or recently, relative to the past.
+the basic structure of the ritual is the following:
+                                                                                                
+* the nightmare lantern is lit in a fallen kingdom, and the troupe arrives
+* the flames of the kingdom are gathered by grimmkin
+* a new vessel (grimmchild, seen on the top right) is created by the current grimm, who takes these flames.
+* a dance takes place to test their “friend”
+* another round of flames are gathered
+* a second dance takes place & the previous vessel (former grimm) is destroyed; they are burned away for fuel.
+* the heart incarnates into the new vessel, and the cycle repeats
+
+
+it also should be noted that to perform the ritual, they need to be summoned; it is unknown whether they can perform the ritual by themselves.
+grimm states in the hunter’s journal that he will travel wherever the lantern calls him.
+another thing to be noted is that brumm refers to members of the troupe as “vessels''.
+these are not the same type of vessels as the ones from the pale king;
+as those were made to (in theory) trap the radiance and seal her away forever: they were not created by her or to benefit her.
+the white lady is aware of this metaphorical “vessel” parallel, as she says in response to the grimmchild, that:  
+the ritual is said by both confessor jiji and brumm to “cause suffering” and “profanes [hallownest]” respectively, with the former warning the knight that completing the ritual may not be beneficial to the region.
+when the grimmchild has absorbed enough flames, the previous vessel must be killed (burned away) for a new one to take its place.
+the phrase “burn the father, feed the child” refers to defeating the current vessel (current grimm); “feed the child” is referring to giving the grimmchild enough flame for it to grow and mature into the new grimm.
+the white lady makes another remark that points to the fact that all of the heart’s vessels have taken this shape and form, likely having the same consciousness each time:  
+  
+
+
+
+
+
+
+
+
+
+“i know you creature, and the form time shall bring” refers to the grimmchild, which she implies will grow up to become the next grimm as said previously.
+eventually, when this vessel grows old and becomes unsuitable, the cycle will continue and the ritual will begin again, further reinforcing the notion of “dance and die and live forever”.
+overall this ritual can be described as an “endless loop” or in other words a “song”.
+this will be addressed later.
+the grimmkin
+
+
+the grimmkin are illusive and curious beings: they seem to take the form of ghouls and ghosts wearing the iconic masks of the troupe.
+as they increase in power, the red in their form gets brighter.
+something to note about them is that they do not appear to possess a physical body, as there are a few animation frames of them being a pure scarlet flame with a mask.
+the cloak forms they have merely hides their true form, as told by confessor jiji: “[the grimm troupe] favour projection over truth, shrouding themselves in forms dreamed.” various conclusions can be drawn from this, one being that the grimmkin are made of only nightmares of dead bugs, or “pure essence” in a sense.
+this is a parallel to the spirits of dead npcs who are converted into pure essence when dream nailed; perhaps being fully taken into the dream realm or something similar.
+further evidence supporting this is a hidden room (see above) accessible after the troupe master grimm fight, which showcases a storeroom filled with chests and grimmkin masks, suggesting they are fabricated with their masks granting their forms.
+the hunter’s journal entry for the novice states that they are ‘young and playful members of the troupe’, most likely hinting at the fact that if they absorb more nightmares, they may go into a stage higher, i.e.
+novice > master > nightmare.
+as mentioned above, the white lady has important dialogue when you approach her with a completed grimmchild.
+she states of the troupe being “all in one, clan and master”; that is, all members are connected to the heart, with the troupe as a whole being a metaphorical body powered by the heart.
+grimm and the heart
+  
+
+
+
+
+
+the relationship between grimm and the nightmare’s heart is rather peculiar, as the topic can go 2 ways: one being grimm and the heart are the same; with the other being they are separate entities.
+however, while grimm and the nightmare’s heart are connected in some manner, there is evidence that proves that troupe master grimm and the nightmare king are the same being:
+
+   * first, grimm refers to the nightmare’s heart as “the heart of grimm”, indicating that it is his.
+he is aware that the knight was created by the pale king - even calling him “wyrm” - showing that he has knowledge of the vessel project and the pale king’s wyrm form (which happened in the distant past).
+it gives credit to the idea that grimm’s consciousness is the same as the heart’s and/or is kept within the heart continuously.
+* second, the white lady’s dialogue of “you may be all and one, clan and master[...]” implies that the heart and grimm (if not the heart and the entire troupe) are the same being; grimm himself remarks after defeating him: “[then] return to me and we will complete our dance.”
+   * third, within godhome lies the hall of gods, a record of every boss faced on the knight’s journey through hallownest: in this hall the statues of troupe master grimm and nightmare king grimm have an identical line: “i await the lighting of the lantern”.
+* fourth, to access nightmare king grimm to complete the ritual, one must have grimmchild equipped before dream nailing grimm himself.
+the question of whether or not tmg/nkg is a hb, and/or if the troupe members spawned by the heart are (all) a hb by virtue of them being a collective manifestation of the nightmare’s heart, remains unanswered.
+brumm  
+  
+
+brumm, whose real name is thought to be “nymm”, is an unusual character; alongside divine and the grimmsteeds, he seems to be the only member of the troupe that was not created by the heart.
+alongside this, he is the one that foreshadows the banishment route by stating “we are like the notes in an old, old song, you and me” showing that the ritual is cyclical, and will repeat potentially forever.
+brumm wishes to end the ritual by banishing the troupe from hallownest: doing so causes the ritual to fail, and for the troupe to be forcibly exiled from the land.
+the grimmchild at the time of banishment could die as a result (as its charm is removed from the knight); while the nightmare’s heart could likely conjure a new one after this event, it cannot be said if the ritual could begin again after banishment or not.
+the important thing we learn from brumm is that he, the grimmchild and even grimm himself are slaves to the ritual and hence the nightmare’s heart.
+it is unknown if brumm understands the intentions of grimm and the rest of the troupe, as they seem to be indifferent or unaware of this potential act; furthermore if the heart and grimm are one, then it would be at grimm’s gain to continue the ritual.
+when someone leaves the troupe, it seems like they lose all memory of being there, as brumm mentions that “we are merely vessels for the flame.
+but...were we always empty?” when dream nailed.
+it appears that joining the troupe gives a member a twisted version of their original personality alongside a more intimidating stature, as when we see nymm after banishing the troupe, he is much smaller and cheerful than brumm was (in the case of divine, the effect of her half-mask on these traits is undetermined).

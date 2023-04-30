@@ -1,0 +1,75 @@
+﻿the shade 
+this fellow to the left is the shade of the player.
+these shades spawn in the death place of the player on hollow knight’s default mode, and the shade holds all of the geo that the player had before their previous death.
+the player is also crippled slightly by having their main soul vessel partly shattered, only being able to hold about a third of its maximum capacity until they defeat the shade.
+this document aims to outline how none of this makes any sense and that hollow knight’s default mode is potentially not canon as a result.
+the respawn system
+the way the shade works has mostly already been explained above.
+upon death, you respawn and you must return to your previous death place to defeat your shade and get your geo and maximum soul capacity back.
+most save points in the game are marked by benches.
+benches are interactable objects that the player rests on to save, and as secondary features they also allow the player to change what charms they wear and update their map, if they have purchased an area’s map and the quill.
+while it may be believed that benches could have something greater to do with how the player can respawn, this conclusion severely lacks evidence.
+benches are clearly just save points, which most games have, and nothing more than that.
+other vessels 
+this point has been used to both defend and argue against the respawn system.
+the main idea behind this point is that we never get to see any other vessels interact with benches, as they are all dead and their actions when they were alive would be impossible to determine.
+however, much like stated above, nothing in the game hints to benches having some kind of special power and are really just there as a way for team cherry to nicely implement save points into their universe as gameplay elements are much more important than lore for the enjoyability of the player.
+however, one vessel that can be examined (mainly in the favour of this doc) is broken vessel, the boss of the ancient basin.
+broken vessel is your sibling, but they appear to have been long dead once the player finds them.
+lightseeds that inhabit the basin temporarily take control of broken vessel’s corpse to fight the player.
+so, why is broken vessel important?
+as stated, broken vessel is a vessel like the player except they’ve perished.
+their corpse lying in the ancient basin for however long shows that it is not a usual feature for vessels to be able to just reform into new specimens.
+there is no shade near broken vessel’s corpse either, again putting the player apart from other vessels.
+broken vessel isn’t the only example of a dead vessel that never just came back to life, other vessel corpses can be seen around hallownest such as the one killed by hornet in greenpath and the many hanging from the ceiling of nosk’s den.
+the shade vs siblings
+siblings are enemies found only in the abyss, and bare multiple resemblances to the player’s shade.
+many people assume that these siblings are the shades of other fallen vessels, and it’s not wrong to believe so.
+however, there are many differences between the shade and the siblings that sets the shade apart from them.
+your shade somehow carries its own nail, has a more ‘complete’ and corporeal body while siblings are much more spectral and ghostlike in comparison.
+the most interesting difference can be discovered through the hunter’s journal, though.
+“echo of a previous life.
+defeat it to retake its power and become whole.”
+  
+
+“fragment of a lingering will.”
+
+
+
+
+while not much may be seen between the two descriptions on the surface, the shade is described as an “echo of a previous life” while the siblings are referred to as “fragments”.
+the shade appears to have all of the memories and abilities of the player’s previous incarnation, where the siblings seem incomplete and broken.
+the bodies of the siblings seeming to be more fractured and ghostlike than the shade’s also hints that the deaths of the other vessels resulted in these siblings to be released from their shells where they then returned to the abyss (or were formed in the abyss in the first place, as many of the vessels dumped into the abyss died there) instead of the more permanent shades that spawn from the player.
+logical inconsistencies
+while the least lore based part of this doc, this also holds the most relevant evidence as to why the respawn system does not work with the rest of hollow knight’s lore.
+besides how your vessel happens to be the only one with this ability to respawn, there are many other oddities about the respawn system that just seem too nonsensical for it to been viewed as legitimate lore.
+the most important of these to point out are: 
+
+
+* your shell reforming after death.
+when you die, you quite clearly see your shell shatter into pieces as your shade escapes.
+however, you just wake up with your shell still intact.
+there is no logical explanation as to how your shell just reforms despite you witnessing it being destroyed.
+* dropping multiple shades upon death.
+even if a shade is present in the world, dying still spawns a new one.
+this causes any geo the old shade had to be lost forever.
+but how does the old shade disappear?
+how many times would the knight be able to break and lose void like this?
+the answer to the latter is most likely an infinite amount of times, which is why this makes no sense as it would imply that the knight had an infinite quantity of void inside of them.
+* the knight’s seemingly infinite void vs other vessels.
+vessels like broken vessel clearly had all of the void leak out of them upon death, meaning nothing but their empty shell remained.
+but the knight can just wake back up from the nearest bench with their shell and void core still intact, since as explained above the knight can still spawn shades upon death even if they had not retrieved a currently existing one yet.
+steel soul mode
+steel soul mode is not too hard to understand, and hopefully not too hard to understand how it falls into this too.
+steel soul is pretty much hollow knight’s hardcore mode.
+dying in this mode means permanent death, the knight will not respawn at a bench and they will need to restart the game on a new steel soul save file after dying.
+due to death being permanent, steel soul has a few changes to confessor jiji’s service.
+jiji wouldn’t be able to summon your shade if you were dead forever, so she is replaced by another npc, jinn.
+jinn accepts rancid eggs for a random amount of geo.
+to prevent easy geo farming, tuk, who would usually sell the player rancid eggs, is dead or at least infected to the point of immobility in steel soul and only a single rancid egg can be salvaged from her body.
+so, what would any of this mean?
+the respawn system not being canon gives way for these changes in steel soul mode, because in steel soul the knight seems to be treated like any other vessel in the fact that once they’re dead, they’re dead.
+as it would invalidate events exclusive to regular mode, steel soul mode exclusive events would be considered canon lore instead.
+this means that jinn’s occupation of jiji’s cave and tuk’s death have a much higher chance to be valid points of lore than jiji being present in her cave and tuk still being alive when the player finds her.
+endnote - if you have any enquiries or would like to discuss the content of this document, be sure to message me on discord.
+my tag is chemicalism#6346

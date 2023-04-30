@@ -1,0 +1,532 @@
+﻿
+the godseekers
+history
+
+
+the godseekers are a species of bugs who came from a land beyond hallownest.
+this land is called the “land of storms”, which the knight can access as a memory in godhome by completing all pantheons with all bindings.
+in this memory, the knight can find a “weathered mask”, which also adds a journal entry detailing the history of the godseekers.
+the hunter’s journal entry for the weathered mask states that the gods of the land of storms were the gods of thunder and the gods of rain.
+due to an unknown cause, these gods died, leaving the godseekers with “silent minds”.
+the evidence for them having died is that godseeker says in junk pit: 
+
+
+“hallownest.
+this kingdom is blessed with true gods.
+true!
+all around, the corpses of pretender gods.
+but!
+not in hallownest…” 
+
+
+godseeker seems to imply that their own gods were just “pretender gods” who died, and that the gods of hallownest, true gods, will never die.
+it is suggested that the bugs in the background of the land of storms memory are these “gods of thunder” and “gods of rain”, as their sprite name is “oldgods”.
+the appearance of these bugs is shown here on the right, as it can be hard to see in-game.
+it should be noted that in the land of storms memory, there are numerous masks of the godseekers on the ground, as can be seen below:
+
+
+  
+
+whether this means that some sort of catastrophe befell the godseekers after their gods died, or whether they just abandoned their masks is unclear.
+regardless, the godseekers came to hallownest in order to find a new god to serve.
+they were looking for one because their minds are left silent without a god.
+this is said in the weathered mask journal entry: 
+
+
+“will our minds be left suffering, to ache alone?
+what god remains to deliver us from this woeful silence?"
+in junk pit, godseeker also remarks on the reason why they are searching for a god:
+
+
+“by attuning ourselves we clutch at their greatness, their immortality.
+their unknowable splendour.”
+
+
+there is an area that the knight has a 2% chance of accessing after using the dream nail on godseeker’s physical body in junk pit, having completed the first three pantheons.
+this area is known in the game files as “tuning room” or as a “workshop”.
+it seems that this is a memory of the godseekers attempting to find hallownest.
+it takes place somewhere outside of hallownest beyond the howling cliffs.
+godseeker has this dialogue there that confirms this:
+
+
+“these winds carry us to thee, dear gods…” 
+
+
+they built a “temporary tuning device” here in order to find the resonance of the gods of hallownest.
+once again, godseeker’s dreamnail dialogue here states that they are looking for a god to fill their silent mind: 
+
+
+“what gods, to save us of our silent mind?”
+
+
+the godseekers’ nature
+
+
+all godseekers wear masks, though only one of them wears a mask with a crest on it.
+in the description for weathered mask it is suggested what the purpose of this crest is:
+
+
+“the design suggests the wearer’s thoughts were focused through the crest.”
+
+
+when the knight meets this specific godseeker before fighting the final boss of a pantheon, godseeker appears to be humming while lifting the crest upwards.
+this might imply that this crest is used to help in the process of attuning themselves to the resonance of the gods.
+none of the other godseekers appear to have this crest on their mask, only the one that the knight personally meets does  (as can be seen below).
+this godseeker is female, which is stated by team cherry in the reveal post for the content pack.
+moreover, in all official translations she is referred to as female.
+however, she appears to consist of all minds of the other godseekers, while she herself is the main voice for all godseekers.
+the evidence for this is that she always talks about “we”, “us” and “our” when speaking to the knight.
+multiple voices can be heard when she speaks as well, suggesting that there is more than one consciousness within her.
+further evidence for this is the dream nail dialogue of the godseekers in the atrium of godhome.
+their dialogue here says: 
+
+
+“...our mind a sea…” 
+“...a bridge…” 
+
+
+this seems to say that their mind is shared, and that (possibly) a bridge exists between the minds of the godseekers.
+however, the bridge could also be the bridge between the mind of the godseekers and the minds of the gods.
+although all godseekers appear in godhome with one of them being the voice for all of them, in the physical world, only the main godseeker can be found.
+this might imply that the godseekers not only share their minds, but also currently share the same physical body.
+it is unclear whether this was also the case before they left the land of storms.
+the physical body of godseeker can be found in junk pit, a western area of the royal waterways.
+it is locked in a cocoon that can only be opened by a simple key.
+these keys are described as being:
+
+
+“cheaply manufactured from a common design.” 
+
+
+why godseeker was locked up with a simple key and ended up in junk pit is uncertain, though godseeker has some dialogue on this after awakening: 
+
+
+ “...and this?
+our form swells?
+large?
+nay.
+immense.
+majestic.
+hibernation, so long forced upon us, yet the shell that results is strong...
+so strong!
+it unclear who “forced” this hibernation, or if godseeker was forced to go into hibernation due to an unknown circumstance.
+note that it was not the pale king who was involved in this hibernation, as godseeker says in the pantheon of hallownest about the pale king:
+
+
+“that lingering power alone was beacon enough to draw us to hallownest.” 
+
+
+the godseekers attuned themselves to the lingering power of the pale king, meaning that he was already gone by the time they arrived in hallownest.
+
+current motivations   
+
+
+the godseekers’ ultimate goal is trying to find a “god of gods”, as is stated by them before the knight fights pure vessel: 
+
+
+“its endless power shall attune us to the one greater still, a god of gods!” 
+
+
+and also in the hunter’s journal entry for great nailsage sly: 
+
+
+“o greatest of masters, we wish to behold, that one still greater, the god of gods!” 
+
+
+as for how they want to accomplish this, godseeker explains this in the pantheon of the sage:
+
+
+“thou misunderstand our purpose.
+through ritual combat are we attuned to the voices of the gods.
+ever higher do they lead us!
+higher and higher and higher!
+until through godly focus do we attain communion with that great power sleeping in the kingdom’s heart…”
+
+
+apparently by attuning to the resonance of the gods of hallownest, the godseekers hope to find the god of gods, but they are under the impression that this god of gods may be the radiance.
+this is also suggested in godseeker’s dream nail dialogue in the pantheon of the knight:
+
+
+“foolishly we feared thee, yet only by thine providence shall we find the one we seek.
+the god sleeping within…” 
+
+
+this god sleeping within pure vessel can only be the radiance, who can be accessed after the knight defeats pure vessel.
+godtuner  
+
+
+the godtuner is an item that the knight can pick up after freeing godseeker from their cocoon in junk pit.
+the description for this item says: 
+
+
+“device that resonates with beings of great power.”
+
+
+apparently, different beings have different resonances.
+for instance, godseeker says about the white lady, who is a higher being: 
+
+
+“but thine resonance!
+could you be one of them?”
+
+
+this implies that higher beings have a different resonance than other beings have.
+after the knight picks up godtuner, the following messages can be seen: 
+
+
+“seek the gods of hallownest.
+tune their power.
+through their strength, ascend.”
+
+
+this godtuner helps the knight tune in to the power of the gods of hallownest, allowing the knight to fight these gods in godhome, through which they can ascend.
+godseeker says about the godtuner in junk pit: 
+
+
+“take the godtuner and seek ye the gods!
+seek!
+that they may find their way.
+tuned to mind.
+tuned to home.” 
+
+
+supposedly with the help of the godtuner, the knight can tune the gods to the mind of the godseekers, which makes these gods appear in godhome.
+
+
+
+attunement
+
+
+attunement is a process that godseekers use to seek out powerful beings, and the godseeker mentions this multiple times throughout their dialogue.
+the godseekers appeared to use physical tuners before taking residence within the dream realm.
+two types of tuners can be seen in the game.
+the godtuner given to the player by the godseeker
+
+
+
+
+  
+
+the tuner seen in godseeker’s hidden memory.
+it’s a temporary tuning device used by the godseeker during her travel through the wasteland made from a bug carapace.
+however, attunement seems to do much more than simply draw the godseekers closer to their gods.
+bosses in godhome appear to be much stronger around the presence of the godseekers compared to their real world counterparts.
+this can be seen directly through bosses like pure vessel and absolute radiance.
+the hollow knight appears in godhome in their prime form rather than their tarnished form bound to the black egg, and the radiance seems to be at her possibly strongest point too.
+sisters of battle is another pointer towards this, the fight seems highly unlikely to happen with the regular mantis lords but the godseekers seem to give them the strength to attack the knight with their full power unleashed.
+the new difficulties provided by the hall of gods, as well as the pantheon of hallownest, could also be the work of the godseekers attuning to bosses more and more as the knight defeats them, and so the knight is able to fight them in much stronger forms.
+the godseekers are also able to detect higher beings that are much more hidden away, seen in the pantheon of hallownest where the godseeker overlooks unn, white lady and what’s left of pale king’s aura.
+however, she explains that these gods are much harder to attune to due to their inactivity and hiding (and in the pale king’s case, death).
+
+vessel cutscene
+description of cutscene
+
+
+this cutscene is seen after defeating the uninfected form of the hollow knight, pure vessel, in the pantheon of the knight.
+once the knight has defeated pure vessel, pure vessel collapses to the ground and dissolves into void.
+the screen turns white after which the cutscene can be seen.
+the area where this cutscene takes place is apparently the abyss.
+this is evidenced by the black “roots” on the sides, the black smoke/mist drifting about, and the background showing similarities to the abyss, specifically birthplace and the right side of the abyss where the knight gets the shade cloak.
+the scene shows the knight kneeling on the ground before the hollow knight, a gesture that can be interpreted as some sort of bow.
+in front and behind the knight and the hollow knight are numerous other vessels.
+the knight looks at the ground for a while, after which they lift their head and look at the hollow knight.
+a bright light shines from somewhere above the vessels.
+all vessels look up towards the source of this light.
+the screen starts to shake and bright “mist” spreads from the ceiling downwards.
+a few seconds later, a scream can be heard that is the same scream that the radiance has when the knight initiates the fight with her in the dream no more ending and embrace the void endings.
+this audio is named “radiance roar” and “radiance challenge” in the game files.
+after this, void fills the entire screen starting from the ground upwards.
+a sound can be heard that is the exact same sound that can also be heard in the embrace the void endings once the knight becomes the ascended lord of shades.
+this audio is called “shade lord scream” in the files.
+eventually, the whole screen turns black and the cutscene ends.
+
+
+
+possible meaning
+
+
+several ideas have been thrown around on what this could mean:
+
+
+serpit#3808 argued:
+
+
+“i haven't really put too much thought into the [pantheon of the knight] scene, but i would probably interpret it as some weird blend of memory and godhome fuckery.
+namely that the scene itself is part of [the knight’s] or [the hollow knight’s] memory, but the light bursting in represents the radiance being summoned into godhome rather than something that specifically happened in the past.
+you could also definitely see it as a "come at me bro" directed at the collective void” 
+
+
+
+
+
+
+
+byakko#5107 said that:
+
+
+“well godhome is within a dream, and i thought that this was [the hollow knight] attempting to communicate with the knight without the influence from radiance.
+and the end part is radiance noticing what [the hollow knight] is doing.
+[as] for the child form, i guess it could be just to point out "we're the same".
+basically i think it's a bit more metaphorical in the sense that's where they all came from.
+[the hollow knight] ultimately is still the young [hollow knight] that came from the abyss just like all the others, to me anyway.
+also in the sense that in this dream with the way godseeker pulled them in.
+this is the only time [the hollow knight] can communicate with [the knight] without radiance interfering.
+i personally feel it's [the hollow knight] trying to communicate to [the knight] after the fight with the only shared memory they have, which is where they came from and the other vessels, as much as [they] can before radiance notices.
+then radiance notices and the dream they're in collapses.” 
+
+
+
+
+
+mola (kitsunemedia#0272) proposed:
+
+
+“so in the [pantheon of the knight] cutscene we see the void probably react to prime radiance, it is attracted to her call.
+perhaps that's really the only reason.
+normal radiance is too weakened to call the attention of the void.
+perhaps in that cutscene when the void rushes out, all the vessels became host to the god of gods but they required the proper trigger to release it.
+if we look at the parallels, [the absolute radiance] calls in both, and then the presumably god of gods rushes to face her in both.” 
+
+
+
+
+another thing that might be relevant is this dialogue by godseeker when returning to pantheon of the knight after completing it:
+
+
+“thou return to cross thine nail with this pure vessel.
+for what purpose, we can only wonder.
+does combat draw thee closer together?
+dost thou also desire attunement with the gods?
+or dost thou hide some other desire deep within thee?” 
+
+
+
+
+
+
+
+what these possible explanations have in common is one thing: apparently, this cutscene is not solely an unrelated memory of the knight and the hollow knight.
+there is a very good chance that it is somehow related to the embrace the void endings.
+
+
+
+explanation and analysis of the endings
+
+
+embrace the void both endings:
+  
+
+
+
+in the embrace the void endings, the knight becomes the ascended lord of shades, a void god that surpasses all other gods including the radiance.
+after using the godtuner to attune to the gods of hallownest and defeating pure vessel, the knight ascends to the pantheon of hallownest.
+there they defeat all other gods when these gods are in their “perfect state” or ascended form.
+godseeker hints at the knight becoming this void god at two points.
+in the pantheon of hallownest, godseeker wonders if the knight is:
+
+
+“a messenger of the gods... or something stranger?”
+
+
+furthermore, when the knight returns to the pantheon of the knight after already completing it, godseeker asks for what purpose the knight returns to fight pure vessel:
+
+
+“does combat draw thee closer together?
+dost thou also desire attunement with the gods?
+or dost thou hide some other desire deep within thee?”
+
+
+for more information on this being, see the next section.
+defeating pure vessel in the final pantheon will reveal the absolute radiance, who godseeker describes as the god who is: “tuned at the core of dream and mind”.
+the knight is able to kill the radiance here instead of having to weaken the hollow knight's body to reach her.
+dealing the final blow will result in the knight falling into the void and becoming something that is called “shade lord” in the game’s files.
+after killing the radiance, the shade lord moves downwards towards godseeker and grabs her with void tendrils.
+it is unclear what exactly happens to godseeker here, although this may have been what the godseekers always wanted to happen.
+the godseekers came to hallownest to find a god of gods because their minds were “left suffering” and “alone”.
+they also lament: “what gods, to save us of our silent mind?” the void filling their mind may have been what fills this silence for them.
+if the physical form of godseeker in junk pit does not have the delicate flower, the void drips out of their body and escapes into the waking world.
+what happens after that is currently unknown.
+the next scene shows hornet waiting outside the black egg in the temple of the black egg, where she watches the infection leave the various vines in the temple.
+she then sees the hollow knight stumble out of the black egg, who is now free from the infection since the knight defeated the radiance.
+embrace the void flower ending  
+
+
+this ending plays out exactly the same as the other ending, except once the void seeps out of godseeker in junk pit, the delicate flower prevents the void from manifesting in the waking world.
+it is hard to tell what exactly happens here.
+both godseeker and the void completely disappear, leaving the delicate flower behind.
+there are several possibilities:
+
+
+* godseeker and the void were banished to the dream realm.
+* godseeker and the void were teleported somewhere else, presumably the land where the flower originated from (see below).
+* the void was consumed by the delicate flower, and godseeker’s fate remains unknown.
+as for the nature of this flower, that is hinted at by the white lady and godseeker.
+the white lady says once the knight tries to give her a delicate flower: 
+
+
+“not of me that flower, nor of this kingdom.
+far it travelled to reach this place, brought by one beloved, fair knight of lands serene.
+there is rare power hidden in those frail petals.
+to hold it so close, one must surely be unaware of its nature…”
+
+
+this confirms that the delicate flower does not come from the kingdom of hallownest, but was instead brought to hallownest from the “lands serene” by the great knight ze’mer, who originated from these lands.
+the white lady remarks on the “rare power” that is hidden in the flower, and hints at the effect it could have on a void being such as the knight.
+when godseeker is given the delicate flower, they describe it as: 
+
+
+“an offering?
+yes.
+the crawler makes an offering to us.
+rare bloom, tiny and pure.
+no god, though.
+no godliness.
+but still…”
+
+
+“gods.
+many shapes, they assume.
+this bloom, then?
+a splinter?
+cast-off?
+refuse of something greater?
+no.
+no tune.
+if it sings... we can not hear it.”
+
+
+the godseekers are able to detect whether or not something is a “god” by listening to the tune or resonance that that being emits.
+although they cannot hear anything from the delicate flower, they do suspect that the flower is a part of something greater.
+presumably, this might be another higher being in the land that the flower came from.
+
+shade lord  
+the being that the knight becomes after defeating the absolute radiance in the pantheon of hallownest is referred to as “shade lord” in the game’s files.
+how the knight becomes this being might not seem clear at first, but there are some hints that might explain it.
+godseeker’s dialogue
+the godseekers’ quest is to find a god of gods that they want to serve.
+sly’s hunter’s journal entry first mentions the godseekers’ desire to find a god of gods:
+
+
+“o greatest of masters, we wish to behold, that one still greater, the god of gods!” 
+
+
+later in the room before pure vessel’s boss fight, godseeker tells the knight she hopes to attune to the god of gods through pure vessel’s power:
+
+
+“though its worldly body be bound and defiled, the glory of its pure form endures, ruler of this pantheon.
+its endless power shall attune us to the one greater still, a god of gods!” 
+
+
+it seems that the godseekers used to believe that the radiance was this god of gods, as godseeker mentions in her dream nail dialogue before pure vessel:
+
+
+“foolishly we feared thee, yet only by thine providence shall we find the one we seek.
+the god sleeping within…” 
+
+
+the god sleeping within pure vessel/the hollow knight can only be the radiance.
+however, after the knight defeats the absolute radiance, it becomes clear to the godseekers that the “shade lord” is instead the true god of gods.
+in godseeker mode, which takes place after the pantheon of hallownest, godseeker acknowledges this:
+
+
+“god of gods!
+how clear to see.
+how obvious.
+that diminutive shell doth barely disguise thine overwhelming strength, thine all-consuming glory!
+shame beyond shame!
+we failed to perceive such obvious truth.” 
+
+
+from godseeker’s dialogue it is therefore possible to learn that this shade lord is seen as a “god of gods” by the godseekers.
+while this explains a bit more about the nature of this being, this does not explain how the knight turned into this.
+void idol   
+the void idol is a hunter’s journal entry which can be acquired after defeating all bosses in the hall of gods on a certain difficulty.
+each difficulty changes the entry and the image.
+the ascended difficulty version of the void idol contains “volatile liquid of the abyss”.
+this coincides with the state of the void before the knight gets void heart.
+the radiant version has: “spires twined in a unified form.
+contains a large amount of liquid from the abyss, perfectly still.” it specifically mentions “unified”, and the void is still, like it is after the knight unifies the void with void heart.
+unfortunately, the void idol does not help explain anything more about the shade lord.
+hall of gods statues  
+the void idol entries come with a statue in the hall of gods too, with each difficulty having a different statue.
+they have different descriptions:
+
+
+* attuned/the knight statue: not bug, nor beast, nor god
+* ascended/lord of shades statue: void given form
+* radiant/shade lord statue: void given focus 
+
+
+these statues show the progression of the knight into the shade lord at the end of the pantheon of hallownest.
+it is explained that this being is “void given focus”, but it is still unclear what this means exactly.
+there is something that could help explain how the knight turned into the shade lord.
+godseeker has unique dialogue upon defeating the absolute radiance in hall of gods:
+
+
+“but couldst thou ever hope to overcome that mighty god tuned at the core of dream and mind, when met in perfect state, at peak of all others?
+we think not!” 
+
+
+it is possible that by defeating the radiance that the knight also achieves this “perfect state”.
+this is similar to how pure vessel is the “perfect” state of the hollow knight, and absolute radiance is the “perfect” state of the radiance.
+on attuning and ascending and focus
+the godseekers attune themselves to the gods of hallownest in order to ascend higher: 
+
+
+“o gods of hallownest, show us your might!
+we shall attune ourselves to thee and ascend ever higher!” 
+
+
+godseeker also mentions how they focus on the gods in order to ascend:
+
+
+“doom thyself then, that we may resume our focus and ascend our minds ever higher!”
+
+
+she further explains their purpose in the room before sly’s fight:
+
+
+“thou misunderstand our purpose.
+through ritual combat are we attuned to the voices of the gods.
+ever higher do they lead us!
+higher and higher and higher!
+until through godly focus do we attain communion with that great power sleeping in the kingdom’s heart…”
+
+
+as she stated earlier, godseeker explains that by attuning themselves to the gods they can ascend higher.
+by using their “godly focus” they can finally attain communion with the absolute radiance, who they thought to be the god of gods.
+as godseeker mentioned in the hall of gods, the radiance’s perfect state is when she is “tuned at the core of dream and mind”.
+during her fight in the final phase, a tuning sound can be heard, and the background shows structures that look vaguely like tuning forks.
+it might be that the godseekers’ tuning during the absolute radiance fight was responsible for the knight turning into the shade lord.
+conclusion
+the shade lord seems to be the perfect form of the knight, brought into existence by the godseekers’ tuning which they used to attune to the radiance.
+
+
+
+pure vessel
+  
+
+godmaster gives a small amount of new information regarding the hollow knight/pure vessel.
+the hunter’s journal entry for pure vessel says:
+
+
+“chosen vessel, raised and trained to prime form.
+”deepest silence in holy shell,
+given nail and named a knight,
+bound by chain and egg and spell,
+hear our plea!
+reveal thy light!” - prayer to the vessel”
+
+
+pure vessel is notably “raised and trained”, most likely by the pale king.
+this could explain their growth in comparison to equally aged vessels such as the knight.
+“deepest silence” is most likely a reference to the void within the pure vessel.
+more interestingly, “holy shell” refers to pure vessel’s body, an organic vessel being as divine, sacred or godly in nature.
+this gives even more evidence for the vessels being born of two higher beings, the pale king and white lady.
+godseeker mentions in the room before pure vessel’s fight:
+
+
+“though its worldly body be bound and defiled, the glory of its pure form endures, ruler of this pantheon.” 
+
+
+since she mentions “endures” it becomes clear that pure vessel is not an actual “pure” vessel, but instead the past form of the hollow knight before they became infected.

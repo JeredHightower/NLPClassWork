@@ -1,0 +1,220 @@
+﻿mind in a vessel
+
+introduction
+what is/are the mind, or minds, present within the vessels?
+who controls their body?
+how do they interact with each other?
+these are the questions which this document will attempt to find an answer for.
+we will look at how the shell and shade work when they are apart, and when they are together, most notably analysing broken vessel and the hollow knight.
+this will also take into account what other characters say about the knight.
+next we will analyse how void heart works if we consider where the consciousness of the knight is.
+we will end with a short summary of the analysis.
+the shell
+
+
+        the shell is the external part of the vessel, a black body, with a roundish white head with two eyes, and horns on the top.
+there is nothing of the vessel’s own organs inside of this shell, because void seemingly consumed the organs within the body when it was still in an egg.
+the knight’s shell without the shade
+
+
+the godseekers refer to the shell of pure vessel as a “holy” shell.
+this agrees with what pale king says of vessels being born of “god”, and having the “soul of wyrm” and “soul of root”.
+the shell, the “child” side of the vessel, is the physical part of this.
+if the shell has nothing in it, then it will stay still, because it is dead, and nothing is currently reanimating it.
+we see this with broken vessel: 
+
+
+  
+
+
+
+the shade and shell section will elaborate on the idea behind the consciousness of the shell, and whether it interacts with void.
+the shade
+
+
+within the shell of a vessel is a pure void form known as a shade.
+the shade has no visible behaviour of its own accord when inside the shell.
+when outside of the shell, however, it is safe to assume it immediately goes down to the abyss, where it remains.
+in the abyss, a shade only rises out of the ground and takes a shape similar to the body it was in.
+it attacks any living being that approaches.
+this is what every shade does in the abyss.
+no shade can be seen outside of it, despite there being vessels who died somewhere outside of the abyss.
+the knight’s shade after respawning is an outlier due to it not only not going down to the abyss, but also wielding a nail, spells, and scaling with the knight’s current health.
+as for this one, there is no canonical evidence that the way the knight’s shade upon respawning acts applies to every other shade.
+there is no proof that a shade would somehow go on to behave like a vessel, unless through void heart.
+the shade and the shell
+the shell of a vessel most likely contains the mind.
+the shade reanimates a vessel, but remains constrained by the shell.
+the arguments for this will be explained below.
+the shade’s function
+firstly, from the descriptions of void heart and mask maker’s dream nail dialogue, it can be understood that the shade is hidden and constrained: 
+
+
+  
+
+void heart’s description
+
+
+  
+
+mask maker’s dream nail dialogue
+
+
+secondly, shades by themselves, the siblings, behave differently compared to vessels, but similarly to void tendrils.
+a void tendril’s behaviour consists of staying down in the abyss at all times.
+it stays still until someone comes near it, in which case it will lash out to pull them under, or push them aside.
+this makes it clear that the constraining of the shade refers to not just a physical constraint, but a mental one as well.
+in other words, the void’s natural behaviour is repressed by the shell.
+what this refers to is not that void stops having the will to act the way it often does, but rather, it cannot mentally control the vessel.
+it seems that overall, the shade’s primary role is that of reanimation of the vessel’s shell.
+the second, more optional role, is being used as a weapon, which the knight does by “melding” its inner void with spells, as the snail shaman observes.
+another example of this is pure vessel using its shade to form tendrils to attack the knight with, as seen in the image below.
+however, it seems that the shade’s role goes no further than this, except in void heart’s case, which will be explained in the void heart section.
+the limits of the shade’s role are evidenced primarily by broken vessel.
+
+broken vessel
+broken vessel gets brought back to life, despite it no longer having a shade.
+this is firstly shown by the fact that it knows how to fight with a nail, and quite skillfully as well.
+there really is not much of a reason to believe that a lightseed knows how to fight with a nail.
+it is also unlikely that broken vessel’s shell would somehow become imprinted with the vessel’s knowledge, especially when there is no evidence that supports this.
+the textual evidence which proves that broken vessel was brought back to life comes from both the hunter’s journal and the wanderer’s journal, which mention that the vessel has been “reanimated”:
+
+
+  
+
+hunter’s journal description
+
+
+  
+
+wanderer’s journal description
+
+
+additionally, the wanderer’s journal states that broken vessel has been “driven mad by [the infection]”, along with mentioning broken vessel’s remembrance of its combat abilities.
+lost kin
+finally, broken vessel’s essence ghost, lost kin, proves beyond doubt that broken vessel itself was alive during the knight’s first fight against it.
+the first reason for this is that it is known that essence will sometimes “take the shape of those who have passed away”, which is mentioned by the seer:
+
+
+  
+
+
+
+every time essence takes the shape of a deceased individual, essence comes off the corpse itself.
+in this case, essence can be seen coming off broken vessel’s shell.
+this indicates that when we dream nail it, the knight is entering broken vessel’s dream, not the lightseeds’ dream.
+the game makes it clear that the lightseeds have been eradicated, because they visibly explode and then dissolve away from the vessel.
+after this, there is no light left in the vessel, only empty eyes.
+this means that the essence is coming from broken vessel’s corpse, and not from any lightseeds.
+even after the lightseeds have left, the vessel itself reaches out towards the knight before truly dying.
+this further proves not only that the mind of the vessel is not really in the shade, but that the vessel truly was reanimated, and not puppeteered by lightseeds.
+
+
+when the knight fights lost kin, it is clear that it is fighting essence which has taken not only the shape, but the memories of broken vessel as well.
+this is shown by how lost kin is in the same reanimated state as broken vessel and how it is also maddened by the infection.
+after defeating lost kin, broken vessel’s spirit manifests in the physical world, but with a slight change: the spirit now looks the way the vessel itself used to.
+a prompt that says “accept” appears, after which it bows to the knight, implying it is showing gratitude for the knight’s actions.
+if the vessel’s mind had not existed within the broken vessel, then it would not have had any reason to somehow make an appearance yet again after lost kin’s defeat, especially if the previous fight was really only lightseeds commanding a vessel.
+it would also not have had any reason to show gratitude, because it would not have known that its mind was infected.
+it could only know this if it was alive during the broken vessel fight to realise and live through this.
+with all this put together, it does not seem like the vessel is in any need of its shade to bring back its mind, since the infection is able to do that with just the shell of the vessel.
+now, of course, given how the shade is gone, one may ask why lost kin’s ghost manifests itself as the vessel, and not the exact shape it had prior to becoming a vessel.
+this is something that happens with every ghost, which is essence taking the shape the bug in question had when it died.
+that’s why the player will not see cloth’s ghost looking like cloth when she was a baby, or galien if he was a really old bug.
+
+the hollow knight
+        another noteworthy event is the dream nailing of the hollow knight, which allows the knight access to the dream the radiance is in.
+this might make it seem like the knight is accessing the hollow knight’s mind by dream nailing the shade, which means that the mind is in the shade.
+however, something should be considered before assuming this.
+there is no evidence that the knight is actually accessing a mind.
+instead, there is only evidence that indicates that the knight is accessing a dream.
+the radiance and the dreamers seem to be in a connected dream, with nothing that shows that this is meant to be the hollow knight’s mind.
+the dreams of the dreamers as well as the radiance’s dream feature the same platform style and background elements.
+note that while these background elements might look vaguely similar to the hollow knight’s horns, they are actually different.
+moreover, the dreams of the dreamers get brighter the more of them are killed, indicating a connection between them and the radiance’s dream.
+there is nothing that proves that they are all in the hollow knight’s mind.
+besides the dreamers’ and the radiance’s dreams being connected, there is also the fact that the radiance herself only exists inside dreams.
+she is only seen “physically” as a flash of light when the knight seals her in the hollow knight and sealed siblings endings.
+other than this, she does not seem to have a physical presence.
+this means that the radiance would always be in a dream, and does not need to be transferred to somebody’s mind.
+this is because she already solely exists in a dream herself.
+dreams in general do not need to be inside the mind of a living being, which is evidenced by the shrine of believers and grey prince zote’s fight.
+the radiance’s dream is attached to the hollow knight, but she does not necessarily need to be inside its mind to be locked away.
+lastly, the hollow knight and sealed siblings endings show the knight absorbing the physical infection.
+there is a brief flash of light with the silhouette of the radiance before the knight fully absorbs all visible infection.
+it is then shown how the knight’s shade drowns out or consumes the infection, leaving the knight’s eyes black.
+there is nothing dream-related shown in this entire sequence of events.
+the knight only focuses the physical infection, which is also what can be seen inside the knight’s shade at the end of this sequence.
+there is nothing that indicates that the knight somehow sealed the radiance herself inside its own mind.
+it can therefore be concluded that dream nailing the hollow knight and accessing the radiance is not evidence that tells us that the mind of a vessel is inside the shade.
+to finish this section, it is also important to introduce one single sentence from the hunter’s journal which proves that radiance is not inside of the hollow knight’s mind, but rather its body.
+if it was truly holding radiance in its mind, or in its dream, then all that would have to be done is to properly modify the quote below by changing “body” into “mind”.
+furthermore, this also contradicts team cherry’s established logic of void and the infection.
+the idea of the pale king’s plan is to insert the light into void.
+it is never stated that it is necessary to insert radiance into a mind, but rather the emptiness within, which naturally opposes the light.
+additionally, even if radiance lies in the mind of the shade, this would not mean it is within the mind of the hollow knight, since as this document is currently showing, the mind of the vessel does not lie within the shade.
+soul and heart
+        both the shade and the shell form the identity of vessels.
+the pale king mentions that vessels are made of the “soul of wyrm.
+soul or root.
+heart of void”, and that they are “born of god and void.” 
+
+
+  
+
+  
+
+
+
+the latter, “born of god and void”, may seem obvious, given how vessels are conceived.
+the former, “soul of wyrm.
+soul of root.
+heart of void” merits more attention, since it is more specific.
+there is a contrast seen in the wording here, between “soul” and “heart”.
+heart of void refers to the physical innards of the vessels, which are of void, but it does not call the outside “shell of wyrm.
+shell of root.” rather, it evokes the child itself.
+the child has parts of their own parents not only in their shell, but also in their very identity; who the vessel itself is.
+one can never quite separate the void from the god: vessels are two parts that make a whole.
+void keeps the vessel alive, and brings them back from the dead.
+the “soul of wyrm and root” of vessels means that they have a holy shell which constrains the void inside them.
+however, the void also brings the shell back to life after it dies.
+if the shell was not brought back from the dead, then a vessel would not be able to move due to the shell constraining the void within.
+one question remains, if the mind of a vessel is inside the shell, whose mind is it?
+is it the mind of the original child before it was killed by void, a modified version of this mind, or a completely new mind?
+unfortunately, this question is not answered in the game, and is kept  ambiguous and vague.
+what is clear is that the vessel is not guided by the will, or the mind of the void, or even needs the shade itself to come back to life.
+void heart
+shell mind
+        taking into account all that has been mentioned, how does void heart work if the consciousness of a vessel is not in the shade?
+to begin with, the knight is required to have kingsoul equipped, and then “remember the past and unite the abyss”.
+what this means is that the knight witnesses the origins of the vessels themselves.
+the knight finds out that it, along with nearly all its other siblings, was discarded by the pale king and left to die in the abyss.
+this transforms the kingsoul, a charm resulting from the union of the white lady and the pale king, into void heart.
+void heart allows the knight to unify the void under its will.
+hornet notes how the knight obtained void heart:
+
+
+  
+
+
+
+hornet explains that by accepting the void inside itself, the knight unlocked void heart, its hidden and previously constrained potential.
+she never once suggests that the knight is the void, or that it is guided by the shade.
+rather, she says that the shade is something that is inside the knight, but the shade does not command it, to the point where the knight has to accept that it is inside of it.
+this agrees with the aforementioned void heart’s description and mask maker’s dream nail dialogue, stating that the shade is “hidden” and “constrained” normally.
+when void heart is obtained, it stays within the shade of the knight, given the fact that it is a “pulsing emptiness”, as noted by white lady.
+she also says that the knight is “transformed”.
+this is something which bardoon realises as well, stating that the knight has “evolved” past its father, the wyrm, due to the unity it has given to the void.
+even if the knight’s shell were to break, void would keep this unity.
+the shade has void heart, and void heart unites the void under the will of the bearer, which is that of the knight.
+this condition is kept even when the shade is beneath the shell, and the vessel still lives.
+with void heart, both the knight and the void as a whole have the same will and goal: consuming the radiance.
+this is why the knight’s goal remained the same even after breaking its shell in the dream no more ending.
+its shade did not return to its normal behaviour after the shell broke because of the circumstances surrounding void heart.
+conclusion
+
+
+it has been shown that the shade is constrained in a vessel and that the shade when outside a vessel has the same behaviour as the void tendrils.
+therefore the shade is not in control of a vessel, due to the shade not demonstrating any behaviour like the vessel.
+broken vessel’s mind was brought back even though its shade was no longer there, proving that a vessel does not truly need void within it in order to carry on its mental faculties.
+the only logical conclusion that can be drawn is that the mind of a vessel is not in the shade and instead in the shell.

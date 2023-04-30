@@ -1,0 +1,915 @@
+﻿  the mask maker
+   
+why the mask maker?
+first of all the mask maker is a creature npc found within the confines of deepnest, but you should have come into this document knowing that already.
+if you didn’t, none of this will make much sense.
+now why have we decided to make such a long and tedious informative essay on the mask maker?
+well, they’re a bardoon-class npc (an npc with a hell of a lot of lore), however unlike bardoon he’s horribly under-analyzed and for good reason; he confusing as sh- but fear not, for we have dedicated hours of our lives to help you to understand this thing.
+additionally unlike bardoon or white lady who each have dozens of lines of coherent understandable lore dialogue, mask maker only has four and those four are probably the most informative yet hard to decipher lines within the game (no we aren’t including mr mushroom, he’s in a class by himself), so there was a trade off between quantity and understandability supposedly, but without further rambling:
+on the nature of the mask maker:
+the exact nature of the mask maker is cryptic and vague, its dialogue only mentions that:
+
+
+“faces i grant to all who'd request.
+not task for i, but aid, gift to a world deserving.” 
+
+
+we can say for certain that the mask maker makes masks or faces for the “kingdom's faceless”, but they seem to be much more knowledgeable about other aspects as well.
+it is also difficult to discern what they are truly referring to as “faceless”, as it appears to be that, despite the similarities, most bug just have shells and not masks.
+it is also hard to not be suspicious of their claims of being a mask maker, as mentioned above, the majority of bugs within the kingdom has no need for masks.
+in addition, their location is very uncanny; being in deepnest, which also quite coincidentally is one of the only areas which the pale king did not have rule over.
+meaning how was the mask maker even to distribute masks to the kingdom?
+notably, the mask maker knows about the abyss and the discarded vessels who reside there.
+they know about the creation of vessels (this is examined in the dialogue analysis), and of the broader history of hallownest, including knowledge of the ancient civilization that came before the pale king.
+with the mask removed we know that the mask maker has eyes that are not anything like the eyes of other bugs, and also a smooth white face resembling that of someone like quirrel, although they say that this face could be “just another mask”.
+dialogue
+
+
+first encounter
+is it mask or face upon the creature?
+in hallownest, a difficult thing it can be to decipher.
+talking again
+a wonderful thing to have, a face.
+not a thing with which we all are blessed.
+for this kingdom's faceless, i shall provide.
+a mask!
+a face!
+does it need one?
+does it not?
+to define.
+to focus.
+to exist.
+when unmasked
+it sees the face beneath!
+or could it be just another mask?
+truth in hallownest is always buried deep.
+how many layers will it pry through?
+to change a face; to conceal it fully within another... a powerful protection that is, but one with sad consequence.
+the original mind is destroyed, though those of striking will may still retain a sliver of that concealed self.
+unmasked after acquiring king’s brand
+i see another takes mantle of king?
+then grim responsibility that shall bestow.
+no bug has ever laid claim to this whole.
+even the beasts knew their limits and bound their realm at nest's edge.
+it is the ancient caste that made attempt at such vast rule.
+hallownest's ruin reflects well those fared attempts.
+unmasked after acquiring shade cloak
+has it witnessed that truth most tragic?
+the wyrm's great shame sealed away.
+now this kingdom's stasis becomes the wyrm's legacy.
+talking again after unmasking
+faces i grant to all who'd request.
+not task for i, but aid, gift to a world deserving.
+dream nailed
+...does it know of the face that hides beneath?
+such remarkable contrast the wyrm conceived....
+analysis of the important lines
+
+
+“for this kingdom's faceless, i shall provide.
+a mask!
+a face!
+does it need one?
+does it not?
+to define.
+to focus.
+to exist.”
+
+
+who in hallownest is actually “faceless”?
+there is no single bug who appears to be completely lacking a face.
+there are even very few bugs who are confirmed to be wearing masks.
+only the dreamers can be said with certainty to have masks.
+although this does not necessarily mean that they are lacking a literal face.
+“face” is probably figurative, referring to some sort of identity instead.
+“to change a face; to conceal it fully within another... a powerful protection that is, but one with sad consequence.”
+
+
+“the original mind is destroyed, though those of striking will may still retain a sliver of that concealed self.”
+
+
+in quick summary the general conclusion has been that the previous two lines appear to be referring to the creation of a vessel, and more specifically the act of sealing a shade within the actual shell of the vessel.
+we believe these lines to refer to vessels, as they are the only confirmed beings to have a “concealed identity” in hallownest.
+this concealed identity is the shade that is hidden inside a vessel.
+any other characters might have a “concealed self” as well, but since there is no direct evidence of this, it can be assumed that this dialogue is mainly referring to vessels.
+“to change a face; to conceal it fully within another”  
+
+
+would have to be referring to the void that is at the heart of any vessel.
+the void or shade is concealed within the shell of the vessel.
+“a powerful protection that is, but one with sad consequence.” 
+
+
+leads onto the next lines and gives the player understanding that the following action is a consequence of the first.
+“the original mind is destroyed,” 
+
+
+this is probably the most inexplicable line within its dialogue as the only way to identify what “mind” the mask maker is referring to would require some amounts of speculation.
+the two most likely candidates being the vessel itself or the void.
+“though those of striking will may still retain a sliver of that concealed self.”
+
+
+ most likely a reference back to the first line, as the concealed self would be a mirror to the concealed face and thus be the void.
+“has it witnessed that truth most tragic?
+the wyrm's great shame sealed away.” 
+
+
+this dialogue is only unlocked after the knight has obtained the king’s brand.
+it undoubtedly has to refer to the abyss, in particular the dead vessels at the bottom of it.
+it is known that the abyss was sealed after the hollow knight was born.
+furthermore, the lore tablet at the entrance of the abyss says that the vessels are a “regret” of the pale king, which fits with the mask maker saying that the dead vessels are the pale king’s “great shame”.
+“...does it know of the face that hides beneath?
+such remarkable contrast the wyrm conceived....” 
+
+
+this dream nail dialogue has to refer to the knight, in particular to their shade that is hidden within their shell.
+the “contrast” that the mask maker speaks of could be the shade inside the knight which is not capable of holding soul, while their shell is capable of having soul.
+further analysis reveals that the mask maker was very knowledgeable on the creation of vessels, more so than initially viewed.
+although it is still quite unclear how it gained all this information.
+two important notes of clarification:
+1.
+the void and the vessel will be considered two different entities, the two will be respectively referred to as “shade” and “shell” 
+2.
+for the sake of this theory vessels/shells will be considered the biological children of the pale king and the white lady ( full theory and evidence can be found here.  )
+with that clarified that first theory has the basis on the “original mind” being the mind of the shell.
+to start off with the two distinct adjectives being used within the second and third lines those being “concealed” and “destroyed”.
+thus one can assume that the two aspects being referred to are different, as taken literally, something that is destroyed cannot also be concealed at the same time.
+furthermore, if we consider the shade that’s placed within to be the newcomer, and to be not referred to as “another” within the mask makers first lines, it would mean that the “original mind” has to be of a separate entity.
+what could be concluded is that if the “concealed self” is referring to the void, then the mind would be of the shell.
+if that’s too difficult to comprehend the mask maker’s dreamnail once again mentions that the shell and the shade are two completely different entities.
+thus because of the use of “face” and “hide” we can link these lines back to the shade and if that were the case then the mind of which is of “another’s” would have to be of the shell’s.
+next and nearly final line mask maker states that “those of striking will may retain some of that concealed self”, choice of words is also crucial here.
+as they specifically say “that concealed self” not “their” once again separating the two.
+the use of the word “will” draws striking similarities to the description of void heart:
+
+
+“an emptiness that was hidden within, now unconstrained.
+unifies the void under the bearer's will.”
+
+
+taking a closer look at the description, it almost mirrors what mask maker is saying, the “emptiness” being the void as it is also referred to as several times within the game.
+then the the mentions of the bearer’s will thus also make sense in that the shell despite being “mindless” can still find it’s own self as long as it’s will is strong enough.
+in addition this could also explain the behaviour of void creatures before and after the player gains the void heart as afterwards the once concealed shade is now visible to the other void beings.
+there still are arguments that can suggest that the void is what mask maker is referring to when they say “destroyed mind” but that would have to hinge on whether we can consider the void to even have a mind in a sense.
+  
+
+the land or kingdom of hallownest
+  
+
+actually more confusing than it would suggest
+this question should be simple, right?
+“the kingdom of hallownest”.
+yet there are possible hints that allude to hallownest being the name of the land which the kingdom is positioned in, rather than the actual kingdom itself.
+we also have to discern between propaganda and information spread by the pale king, and thus the information and conclusions provided below:
+
+
+“no bug has ever laid claim to this whole.
+even the beasts knew their limits and bound their realm at nest's edge.
+it is the ancient caste that made attempt at such vast rule.
+hallownest's ruin reflects well those fared attempts.”
+* the mask maker
+
+
+the “ancient caste” probably refers to the ancient civilization(s) that tried to rule the whole of hallownest before the pale king.
+the mask maker says there were “attempts” (plural) at ruling the entirety of hallownest, but apparently for one reason or another, that always left the land in ruin.
+one thing to note here is that the mask maker speaks of “hallownest’s ruin”, which seems to imply that the whole area is called hallownest, not just the kingdom that the pale king ruled.
+after all, we know that deepnest, the hive, and greenpath are also ruined, and they were not part of the kingdom.
+supporting evidence for the area being called hallownest before the pale king arrived would be hallownest’s crown.
+this place was not associated with the kingdom, as it contains the statue of the radiance, which the pale king undoubtedly would have removed.
+however, it is still called “hallownest’s crown”, which suggests that perhaps the entire area used to be called hallownest before the pale king arrived.
+however, there is are no other sources which claim that hallownest is the whole area, and not just the kingdom.
+the lore tablet in king's pass calls hallownest a kingdom:
+
+
+“bear witness to the last and only civilisation, the eternal kingdom.
+hallownest.”
+
+
+as well as the fountain in ancient basin:
+
+
+“a true servant gives all for the kingdom.
+let hallownest's pale king relieve you of your burden.”
+
+
+hive queen vespa says:
+
+
+“though this hive exists within hallownest, we play no part in its attempt at perpetuation.
+to rail against nature is folly.
+all things must accept an end.”
+
+
+she refers here to the kingdom of hallownest, as she explicitly says that her hive does not want to be a part of the pale king's attempt to make his kingdom last eternal.
+for herrah the beast in the resting grounds, it says that she sleeps: 
+
+
+"...in her den, amidst the deep darkness beyond the kingdom."
+this means that deepnest is seen as being “beyond the kingdom [of hallownest]”.
+relic seeker lemm says about the arcane eggs:
+
+
+“these eggs are the most desired find from time before hallownest, but they're not the only remnant of that age.”
+
+
+this would imply that the kingdom is called hallownest, but any civilization before that didn't call it that.
+in short, there is some evidence that might suggest that hallownest refers to the entire area, and that it was called that before the pale king arrived.
+nevertheless, there does seem to be more dialogue which just states that hallownest is the kingdom, and not the entire region.
+at this point, it cannot be said for certain which interpretation is the more likely one.
+
+
+  
+
+
+
+ancient basin
+  
+
+
+
+
+
+while most areas in hallownest have a clear history and general purpose, ancient basin is a lot more obscure.
+there is very little that is said about it by npcs, and neither hunter's journal entries nor item descriptions give us much to work with.
+nevertheless, we have attempted to figure out what ancient basin's purpose is or what it used to be, and why it is in its current, highly infected state when the knight visits it.
+history and purpose
+
+
+even though there are very few npcs who talk about it, elderbug is perhaps the one who says the most about ancient basin.
+he says that there are:
+
+
+“impossibly old structures and roads formed as though the rock itself possessed a will.”
+
+
+this seems to imply that it was not the pale king who built ancient basin.
+after all, he did not arrive in “ancient times”, as ancient basin's name suggests, and neither did he build “impossibly old structures and roads”.
+furthermore, while it is known that the pale king built his palace in ancient basin, it is never actually said or suggested that he was the one responsible for much of the structures in the basin itself.
+what this line of dialogue also reveals is that it is possible that ancient basin is not naturally formed, but instead constructed.
+the overall appearance of the basin does already suggest that, but elderbug remarking on the rocks “possessing a will” might mean that the rocks were shaped in some way.
+ancient basin may have been intentionally shaped by a previous civilization in order to fulfill a specific purpose.
+however, what this purpose might be is a matter of some speculation.
+it might help to look at the exact definition of a basin.
+a basin in this context, according to oxford living dictionaries is defined as:
+
+
+1.
+“a circular or oval valley or natural depression on the earth's surface, especially one containing water.”
+2.
+“the tract of country drained by a river and its tributaries, or which drains into a lake or sea.”         
+3.
+geology “a circumscribed rock formation where the strata dip towards the centre.”         
+
+
+which specific definition can be used here is debatable, but one thing appears to be clear.
+a basin is used to contain water, or to drain it away.
+yet, there is no trace of water down there at all.
+could there have been water in the past?
+perhaps, yet one thing important thing should be considered.
+the abyss is present below ancient basin.
+this area seems similar to ancient basin, but it has a major difference.
+there is a sea of void down in the abyss.
+we know this is a sea or perhaps some sort of lake because the lighthouse keeper in the abyss has this dreamnail dialogue:
+
+
+“...turn it off?...
+cannot... my king.
+i'm sorry...
+the sea calls...”
+
+
+team cherry has also confirmed that the abyss that the knight visits is merely the abyss shore, and that there used to be plans for the knight to explore the lake of void.
+with this in mind, it might be possible that ancient basin did not hold water, or was used to drain water.
+it may instead have been used to drain or hold void instead.
+one reason for why ancient basin held or drained void in to the abyss may have been because of the nature of the ancient civilization that existed before hallownest (see the section after this).
+this ancient civilization is implied to have been related to the void in some way, though it is not known whether they only made use of void, or whether they themselves consisted of void.
+if this civilization were users of void, the void that they presumably used in their spells may have eventually collected down in ancient basin.
+it would be beneficial to them if that void was drained back to where it came from.
+similarly, if this civilization were made of void, their corpses would have dissolved into void particles when they died.
+having a basin for all of this void would be better than simply allowing it to float in the air everywhere, or to coalesce in a random place.
+regardless, it remains difficult to find evidence for any of the above, and there is nothing in the game which gives us a clear answer.
+it seems that for now ancient basin's purpose can only be speculated about.
+the cause of ancient basin having many infected creatures
+
+
+at first it may seem as if the reason that ancient basin is filled with heavily infected beings is related to the purpose or history of ancient basin.
+however, as has been discussed above, there is no indication that the infection had anything to do with ancient basin in the past.
+the main reason for the basin being more infected than other areas is explained in the hunter's journal entry for the lightseed:  
+
+
+“strange air has been seeping down from above for years.
+some of that air became liquid, and some of that liquid became flesh, and some of that flesh came to life.”
+this strange air likely originates from the temple of the black egg, where the radiance is sealed.
+the direct path down from the temple goes right to ancient basin.
+this air coalesced in ancient basin, as this is the lowest area that the air could possibly seep down to, with the abyss being sealed.
+the infected air that gathered in ancient basin then formed life forms such as the infected balloon.
+there is nothing that indicates that the air was somehow “attracted” to ancient basin for one reason or another.
+it seems like it may have moved downwards because of a natural process, not because of any willful action by the radiance.
+the shadow creepers
+
+
+there is a very curious creature present in both ancient basin and in the abyss.
+it is called a “shadow creeper”, but its nature is relatively unknown.
+its hunter's journal description says:
+
+
+“found only in deep, dark places.
+has never been observed to eat or drink anything.
+this little creeper is weak and poses no threat, but something about it still unsettles me.
+the way it moves and the noises it make are... strange somehow.”
+  
+
+what is striking about this description is that apparently shadow creepers do not eat or drink.
+or at the very least, nobody has ever seen them eat or drink.
+furthermore, it is described as being “unsettling” and “strange”.
+this may give a hint towards their true nature, although it will have to remain speculation without any specific evidence for it.
+it should be noted first that in the birthplace dream sequence, there do not appear to be any shadow creepers in the abyss.
+this might mean that they were not around during the pale king's reign, and only came into existence later.
+one possibility is that the shadow creepers are some sort of “natural” void being.
+they may have been born in the abyss, which in turn hollowed them out and filled their insides with void.
+these bugs may then have crawled up towards ancient basin as well.
+while it is a bit of a stretch, their name - shadow creeper - might also allude to the void, as well as referring to the location where it is usually found, the “deep, dark places”.
+after all, in the abyss, hornet calls the void:
+
+
+“the substance of [the abyss’] shadow.” 
+
+
+unfortunately, as with many things related to ancient basin, there is almost nothing which can support this theory.
+it might be true, or it might completely miss the mark.
+although ancient basin will likely remain a very mysterious area with very little information, we did try to come up with plausible theories that hopefully at least make some sense within the context of the story.
+
+
+    the grimm troupe
+knightmere expanded on this section in this document.
+history of the grimm troupe and the ritual 
+
+
+the history of the grimm troupe starts in the dream realm.
+according to the seer, the dream realm initially consisted of both dreams and nightmares.
+however, some time in the past, the dream realm was split, separating the nightmare realm from the dream realm.
+we know this from nightmare king grimm hunter's journal description, where the seer says:
+
+
+“the expanse of dream in past was split,
+one realm now must stay apart,”
+
+
+while the radiance is suggested to be the main ruler or of the dream realm, the ruler of the nightmare realm is the nightmare's heart.
+this is also explained by the seer:
+
+
+“darkest reaches, beating red, terror of sleep.
+the nightmare's heart."
+since it is known that the radiance is a higher being, it can be assumed that the nightmare's heart is a higher being as well.
+both of them have power over dreams, except the radiance exerts influence through the dream realm, while the nightmare's heart controls the nightmare realm.
+the nightmare's heart is different from the radiance, as it appears to need a host or vessel in order to “live forever”.
+this vessel is grimm, the master of the troupe.
+the main reason that the grimm troupe exists is to perpetuate the nightmare's heart by raising a new vessel and killing the old one.
+this is done through something called “the ritual”.
+the ritual consists of multiple steps.
+in short, these are: 
+
+
+1.
+the nightmare lantern is lit in a fallen kingdom
+2.
+the flames of this kingdom are gathered by the grimmkin
+3.
+the new vessel, the grimmchild, absorbs these flames
+4.
+the previous vessel is killed
+5.
+nightmare’s heart is transferred to new vessel 
+
+
+in more detail, a bug in a fallen kingdom first needs to light a “nightmare lantern” in order to summon the grimm troupe from the nightmare realm into the waking world.
+this is said in the hunter's journal entry for the grimmkin novice:
+
+
+“one will light the nightmare lantern”
+
+
+it also said in grimm's hunter's journal entry by grimm himself:
+
+
+“through dream i travel, at lantern's call”
+
+
+once this is done, the grimmkin spread throughout that kingdom to gather “the flame in dream”, as grimm says when the knight first meets him.
+these flames need to be gathered and then absorbed by the grimmchild, who is the new vessel for the nightmare's heart.
+it is brumm who directly calls anyone who is a part of the grimm troupe a vessel:
+
+
+“we are merely vessels for the flame.”
+
+
+as does the white lady, who compares the grimmchild to the knight:
+
+
+“you two share a... similarity?
+it is a distant link, one words would strain to convey.”
+
+
+she refers to the fact that the knight was meant to be a vessel for the radiance (although against the radiance's will), while the grimmchild is a vessel for the nightmare's heart.
+when the grimmchild has absorbed enough flames, the previous vessel needs to be killed in order for the new one to take its place.
+this is confirmed in the hunter's journal entry for the grimmkin master:
+
+
+“burn the father, feed the child”
+
+
+and in the hunter's journal entry for the grimmkin nightmare:
+
+
+“burn away the nightmare king”
+
+
+the “father” and “nightmare king” refers to grimm, the current vessel of the nightmare's heart, while the “child” refers to the grimmchild.
+once nightmare king grimm has been killed in the nightmare realm by the knight, the grimmchild absorbs the nightmare's heart and effectively becomes the new grimm and troupe master.
+this is evidenced by the white lady who says when the grimmchild is in its final phase:
+
+
+“i know you creature, and the form time shall bring.”
+over time, the grimmchild will become fully grown and will likely be indistinguishable from how the previous vessel appeared.
+after all, the white lady must have seen previous grimmchildren who all looked similar to each other, otherwise she would be unable to recognize it.
+eventually, once the current vessel for the nightmare's heart is no longer suitable, the ritual starts again and a new vessel will be raised.
+
+
+
+grimm and the grimmchild  
+while grimm and the grimmchild are both vessels for the nightmare's heart, they are different from a vessel such as the knight or the hollow knight.
+the nightmare's heart needs a host in order to live or exist, and when a vessel absorbs the nightmare's heart, they effectively become it.
+there is no way to separate grimm from the nightmare's heart.
+the memory and mind of the nightmare's heart are likely carried over between each new grimm, with the nightmare's heart then controlling their body.
+this may be supported by grimm's dreamnail dialogue after the knight fights with him.
+he says about the knight:
+
+
+“even a vessel discarded bears fierce strength.
+fine craft dear wyrm, and perfect tool to prolong the heart of grimm.”
+
+
+grimm apparently has intimate knowledge about the creation of vessels and the fact that many of them were discarded in the abyss.
+furthermore, he even calls the pale king by his “former” or “real” name, which is wyrm.
+this can imply several things.
+it could be that there has not been a new troupe master since the days of the pale king.
+or there may have been a new one, but since the nightmare's heart controls grimm, or it actually is grimm, it makes sense that he has these memories of the pale king.
+there is also the fact that grimm calls the nightmare's heart the “heart of grimm”, further implying that grimm and the nightmare's heart are indistinguishable from each other.
+lastly, in a lot of his dialogue, grimm encourages the knight to gather the last flames of the kingdom, after which grimm would be killed.
+he is not an unwilling participant in the ritual, he even says:
+“return to me and we will complete our dance.”
+
+
+nightmare king grimm also has this dreamnail dialogue:
+
+
+“in dreams... born anew...”
+
+
+this supports the statement that the vessel of the nightmare's heart is not in control, but the heart itself is.
+it is currently unknown whether this vessel even had its own personality before absorbing the nightmare's heart.
+regardless, it seems likely to assume that when the knight speaks to grimm, they are speaking to the nightmare's heart, not to the vessel itself.
+grimmkin
+the grimmkin are curious beings, and there is not that much that is said about them.
+their hunter's journal entry describes them as “spirits”, but it is unclear what that means in the context of the game.
+we know that the beings who look like “ghosts” are not actual ghosts either, but more memories or essence imprints.
+however, there are still a few statements that can be made about the grimmkin that are supported by evidence.
+they do not appear to actually have a body.
+when the knight fights them in order to obtain the flame that they gathered, there are a few animation frames where the grimmkin appear as a scarlet flame with a mask attached to it.
+this is likely their actual form, and their cloak merely hides this from view most of the time.
+the description for the grimmkin novice says that it is a:
+
+
+“young and playful spirit”
+
+
+this implies that apparently these spirits can grow up and become mature in some way.
+a cryptic line of dialogue by the white lady might tell us some more about the nature of the grimmkin.
+when the knight approaches her with the grimmchild in its final phase, she says that:
+
+
+“you may be all and one, clan and master,”
+
+
+this seems to imply that both the grimmkin and grimm are part of the nightmare's heart.
+it is known that grimm is the vessel for the nightmare's heart, but how exactly the grimmkin are “one” with the nightmare's heart is difficult to say.
+the grimmkin do appear to have some kind of mind or personality of their own, separate from the nightmare's heart or grimm.
+their dreamnail dialogue says:
+
+
+“dance with me!” and “take it, if you're worthy!”
+
+
+this probably means that the grimmkin are willing participants in the ritual, although their exact nature remains unknown as of now.
+brumm/nymm
+brumm is a member of the grimm troupe who wants to end the cycle of perpetual rituals.
+the knight can meet him in distant village, in deepnest, after defeating grimm for the first time.
+he is in this location because it is far enough away that “the master's scarlet eyes can not see us.” 
+
+
+brumm explains that he is in endless “servitude” to the ritual, and that even the grimmchild is “born into invisible chains”.
+he offers the knight the option to banish the grimm troupe from hallownest, as he believes that the knight “truly ha[s] no master”.
+when the knight returns to the howling cliffs where they first lit the nightmare lantern, brumm is there to help them banish the grimm troupe.
+he says that by destroying the anchor (the nightmare lantern), the grimm troupe is unable to return to hallownest.
+after this is done, brumm can be found in dirtmouth without any memories.
+he is known as “nymm” here.
+the main thing that can be learned from brumm is that he states that he, the grimmchild, and perhaps even grimm are slaves to the ritual.
+he says in his dreamnail dialogue in the howling cliffs:
+
+
+“master... are even you a slave?
+if so, let our chains be broken together!” 
+
+
+whether or not grimm gets freed as vessel of the nightmare’s heart is unknown, as brumm says that the grimm troupe is just banished from hallownest, not that every member of the grimm troupe gets released from participating in the ritual.
+it is also not clear whether grimm truly is a slave, as apparently the nightmare’s heart seems to be grimm, and the original mind/personality of the vessel (if it even had one) is lost or suppressed.
+
+
+
+  the hive 
+  
+
+
+
+one of the more confusing areas in hallownest is probably the hive.
+while the bees of the hive do not show any signs of being infected, it has been confirmed that the entire hive has in fact been infected after the death of their queen, vespa.
+the evidence for this is that all of the bees have orange infection particles when they are struck.
+team cherry has also stated in their first ama on reddit that the hive is infected.
+despite being infected, the behaviour of the bees of the hive is not consistent with what we normally expect of an infected bug.
+they do not have the typical appearance of a bug afflicted by the infection, such as orange glowing eyes, or cysts covering their body.
+their dreamnail dialogue also does not say anything suggesting that the radiance is controlling them.
+most curiously, the hive’s bees do not even try to attack the knight when they wear the hiveblood charm.
+this is strange as the radiance is actively trying to kill the knight, as can be seen in myla’s dreamnail dialogue when she gets infected.
+if the radiance had full control over the hive, she would definitely not have accepted the bees simply ignoring the knight.
+one theory to explain the hive’s behaviour is based on the whispering root in the hive.
+this root says this when it is dreamnailed after the knight has collected all essence: 
+
+
+“...light familiar…” 
+
+
+the “light” could be referring to the hive mind that the hive was in prior to being infected.
+in that case, the hive’s “light” is “familiar” or similar to the light of the radiance, who also has a hive mind.
+furthermore, in the hunter’s journal description of the slobbering husk it says about the infection that:
+
+
+“the harder you struggle against it, the more it consumed you.” 
+
+
+this is often interpreted as meaning that the harder a bug struggles, the more their body seems to become deformed or twisted.
+what if instead this “consuming” refers to the way the radiance consumes the minds of bugs?
+if a bug does not struggle against the hive mind that the radiance imposes, perhaps they retain more of their mind and natural behaviour than if they resisted her.
+in short, an explanation for the hive’s behaviour could be that they were not fully consumed by the infection because they were already used to being in a hive mind.
+therefore, it is possible that they more easily accepted a new “queen”, the radiance, as a replacement for their old queen.
+this may have lead to the bees of the hive still retaining most of their instincts and behaviour from prior to the infection.
+
+  
+
+the five great knights of hallownest
+
+
+“do you know of the kingdom's five great knights?
+they're revered figures of hallownest, often mentioned in the annals of the kingdom, but only as a group.
+both their names and appearance seem to have been expunged from history.
+so long has passed since their time.
+it'd be a grand achievement to discover their identities.” 
+
+
+* relic seeker lemm 
+
+
+"mighty hegemol... what a towering figure he was, though surprisingly soft spoken for one so large.
+they were all impressive in their own right, of course.
+fierce dryya, kindly isma, mysterious ze'mer ... erm, and the other one."
+*  nailmaster sheo
+
+
+the five great knights of hallownest were the kingdom's protectors, standing before the throne during hallownest's prime.
+by the time of hallownest's fall, three of the great knights have either died or disappeared.
+only ogrim and ze'mer can still be found alive.
+while information on the great knights is sparse, there are still npcs who remember them or make reference to them.
+ogrim  
+first encountered in the royal waterways, ogrim is now known as the “dung defender”.
+he attacks the knight because he believes them to be a “mindless skulking husk”.
+his dream nail dialogue during this fight is as follows:
+
+
+“...for the honour of the king!..”
+“...for the honour of the five!..”
+“...for the honour of hallownest!”
+
+
+when ogrim is defeated, he drops the charm defender’s crest.
+this charm is described as: 
+“unique charm bestowed by the king of hallownest to his most loyal knight.
+scratched and dirty, but still cared for.
+causes the bearer to emit a heroic odour.” 
+
+
+this description states that ogrim was the most loyal of the five great knights, a fact that is supported by his own dialogue which is discussed below.
+after the dung defender fight the knight can return to the area later.
+ogrim will show up there and apologises to the knight for his behaviour.
+he goes on to explain more about himself and hallownest's past.
+his full dialogue is:
+
+
+“oh, it's you again.
+i'm glad to see you return.
+no, no, please... don't say a word.
+i must apologise for my previous behaviour.
+entirely my fault.
+i mistook you for one of those mindless skulking husks, yet you bested me in the most majestic knightly fashion.
+such joyful, vigorous combat.
+i'd almost forgotten the feeling.
+i was once a knight you see.
+by the grace of our good king, i stood proudly before the throne, watching hallownest swell to greatness.
+then that nasty business with the affliction...
+we knights defend against the physical, but a formless enemy.
+how to defeat such a foe?
+our king tried in his own way.
+a cruel means it was... and still, eventually, we were brought low.
+bah!
+i shouldn't be so morose.
+you've invigorated me.
+'tis truly a delight to meet one whose strength can match my own.”
+go now, mighty warrior of hallownest!
+you've proven your honour!
+good fortune on the path ahead.”
+
+
+when the dream nail is used on him here, he says:
+
+
+“...so there were others...”
+
+
+what is noteworthy here is that ogrim calls the pale king's plan to use vessels to seal the radiance a “cruel means” to stop the infection.
+this might suggest that ogrim and the other great knights were aware of the hollow knight's existence, which is not surprising considering that the hollow knight grew up in white palace.
+whether or not ogrim knew about the other vessels in the abyss is unclear, although his dream nail dialogue seems to imply that he did not know there were “others”.
+these “others” might be other vessels in general, or he might be referring to other vessels who made it out of the abyss.
+when the knight visits ogrim with defender’s crest equipped, he remarks:
+
+
+“ahh, you exude the proud odour of the just.
+truly, a mighty knight you are.”
+
+
+once the knight has acquired isma’s tear, ogrim has new dialogue: 
+
+
+“ahh!
+that tear... you've been to her grove!
+i swore i'd visit, but... my duties... my oath...
+oh, i'm sorry.
+ignore me, i'm being foolish.
+if i'm not careful i'll sink down into old memories and won't ever come back again.
+she's a great judge of character, so if she gave you her blessing you must be something special indeed.
+i'm barely worthy to be in your presence!”
+it seems that ogrim is not aware of isma’s demise, as he appears to believe that isma personally gave the knight her blessing.
+ogrim also has not visited isma’s grove in a long time due to his duties and “his oath” preventing him from doing so, so he would not know that isma has long since died.
+after all three dreamers have been killed, ogrim can be found sleeping underneath the area where he is first fought.
+the knight can use the dream nail on him here to fight ogrim in his dreams.
+this fight takes place during a memory of ogrim when all great knights were still alive.
+he has the following dream nail dialogue during this fight where he mentions each of the great knights individually: 
+
+
+“hegemol...
+i miss your humour…”
+“ze'mer...
+i miss your stories…”
+“dryya...
+i miss your wisdom…”
+“isma...
+i miss..
+i miss you…”
+“your majesty... have faith in me!” 
+
+
+ogrim can be fought five times in his dreams, with unique dialogue after each defeat.
+first defeat: 
+“my friends...
+i will protect our dear kingdom.
+have faith in me!
+we will all meet again.
+i promise it…”
+
+
+second defeat:
+“my king...
+i believe in you.
+i believe in hallownest!
+my devotion will never falter…”
+
+
+third defeat:
+“my king... hallownest will be reborn!
+glorious and bright!
+just as it always was…”
+
+
+fourth defeat:
+“my king... we will all be together once more…”
+
+
+fifth defeat:
+“how funny that i see you in my dreams too, little one.
+your noble bearing reminds me of our dear king.
+when he returns, i'll ask him if you can become a knight!
+what jolly adventures we will have…”
+
+
+from this dialogue it is clear that ogrim is very loyal to the pale king and believes that there is still a chance that hallownest can be “reborn”.
+he also says he misses the other four great knights.
+after the fifth defeat, ogrim wakes up and speaks to the knight:
+
+
+“ahh, you're awake, and looking well-rested!
+i was startled when i woke to find you curled up beside me, but of course you're welcome to rest here whenever the world wearies you.
+as the king granted his kingdom, to shelter to those who needed it, i offer my home.
+stay as long as you like, down here where it's cosy and warm and moist.
+my cave may seem a far cry from the finery of the palace but even still the memories of my former comrades, and our glorious king, remain fresh in my mind.
+the pale court was a wondrous place full of the age's greatest heroes.
+ahh!
+looking at you now, i can easily imagine you standing amongst them.” 
+
+
+his dream nail dialogue here is: 
+
+
+“where will the line of hallownest's great knights end?
+with me?
+can such a thing be passed on?” 
+
+
+when the knight leaves the area and returns, ogrim has disappeared, but not before leaving a statue of the knight made of dung.
+it is currently unknown where ogrim has disappeared to, and whether he will make another appearance in a future content pack.
+the white lady also mentions ogrim when the knight visits her with defender’s crest equipped:
+
+
+“...that scent.
+does another travel with you?
+is that you ogrim, my mighty knight?
+i cannot see you, but then time has clouded my eyes and i cannot see much.
+even your booming voice falls silent upon me.
+[...] 
+
+
+ah....
+but my my, that potent smell does recall such joyous memory.
+only a short moment we had together, compared to ruin now endured, but what shining times they were.
+i am grateful you would visit, even if to see me in somewhat faded form.” 
+
+
+
+
+isma  
+“kindly isma” as described by nailmaster sheo, can be found within the royal waterways in isma’s grove.
+she appears to be dead and her body can be seen attached to a wall by plant growth; making the cause of her death the most questionable.
+her dream nail dialogue reads: 
+
+
+“...ogrim… there’s no time…”
+
+little is known about her, but her strength seemed to surpass that of ogrim’s, and her nature seemed to be kind and understanding from ogrim’s lines:
+
+
+“...isma...
+so strong....
+teach me…”
+
+
+“she's a great judge of character, so if she gave you her blessing you must be something special indeed.
+i'm barely worthy to be in your presence!”
+
+
+from these two lines and one of white defender’s dream nail dialogues it seems to imply that ogrim and isma had a very close relationship even more due to the fact that he seems to be protecting her grove specifically.
+“isma...
+i miss..
+i miss you…”
+
+
+“only those who prove their honour in combat may enter the grove beyond.
+- the defender”
+
+
+isma’s power or capabilities aren’t specifically stated but seem to have some relation to acid.
+as her tear, or her blessing as dung defender calls it, can grant acid immunity to the knight.
+in addition isma’s grove when being referred to in mister mushroom’s lore tablet is stated to be:
+
+“...the source of acid blight,”
+
+
+whether isma’s grove truly is the cause of all the acid in hallownest is debatable but as it stands she shares a close connection with acid.
+finally her actual form is her most debated aspect as her corpse seems to be half melted into the wall and the only other references we can find of isma is a dung statue and a silhouette in white defender’s arena.
+ze’mer
+found in the resting grounds where she is known as the “grey mourner”, mysterious ze’mer, as she is called by nailmaster sheo, is the other remaining great knight besides ogrim.
+she has the following dialogue when the knight has obtained the king’s brand:
+
+
+“le'mer, takes that heavy mantle...che' wouldn't wish it upon one.
+having served that brand at its great height, che' knows well what suffering it brings.
+enough to turn nym'king to flee or fair knights to mourning.”   
+
+
+ogrim also mentions her in his dream nail dialogue during the white defender dream fight: 
+
+
+“ze'mer...
+i miss your stories…” 
+apparently there was not much known about ze’mer when she was a great knight, but ogrim does remark on how she always told stories.
+ze’mer became the grey mourner after her mantis lover died due to unknown reasons.
+she dissipates after the knight delivers the delicate flower to the grave of her lover, and it is suggested that this means that she dies.
+in the recent godmaster update more light was shed on ze’mer and her flower.
+white lady says:
+
+
+“ah, what precious gift it offers, though alas i shan't accept.
+not of me that flower, nor of this kingdom.
+far it travelled to reach this place, brought by one beloved, fair knight of lands serene.
+there is rare power hidden in those frail petals.
+to hold it so close, one must surely be unaware of its nature…”
+
+
+most notably ze’mer comes from lands elsewhere and so does the flower which also seems to hold power of possibly higher beings.
+hegemol  
+hegemol is never seen within the game nor even by his comrades as it seems, for he spent most of his time inside his armour and that seems to be what most have based their interpretations of hegemol on, as suggested by the statue of hegemol at the west city gates.
+relic seeker lemm comments:
+  
+
+“others have told me there's a statue out by the city's entrance depicting a large knightly figure.
+could be one of the kingdom's great five.” 
+
+
+hegemol’s armour however has been stolen by a maggot who the player fights under the names of false knight and failed champion.
+more evidence pointing to this armour being hegemol’s is the fact the the city crest, which is used to open the west gate by inserting it into the statue, is held by false knight and dropped when defeated in battle.
+this also may imply that hegemol was the guard for the west gate for the city of tears.
+the actual whereabouts of hegemol is unknown though it is highly implied that he is dead- murdered by the maggot in his sleep.
+by dream nailing the maggots corpse after defeating false knight the knight can face failed champion and after defeating it.
+failed champion will state: 
+
+
+“i wanted it.... the strength to protect the others...
+when i saw that knight... sleeping... safe in his big armoured shell...
+it wasn't madness that drove me to it...
+i just wanted it...
+but... in the end?
+if strength can not save you, then what can...?” 
+team cherry themselves have a statement on hegemol’s state of being during an ama on reddit, though how it’s stated very much leaves it open for more interpretation.
+hegemol’s nature and personality is also noted at by nailmaster sheo:
+
+
+“mighty hegemol was always my favorite.
+what a towering figure he was, though surprisingly soft spoken for one so large.” 
+
+
+and ogrim during white defender fight:
+
+
+“hegemol...
+i miss your humour…” 
+
+
+
+
+dryya  
+while dryya is only ever found dead, there are a few characters who reference her directly.
+dryya’s corpse is located in the queen’s gardens outside the structure where the white lady resides.
+her dream nail dialogue is:   
+
+
+“protect…” 
+
+
+the white lady talks about dryya when the knight has equipped defender’s crest: 
+
+
+“dear ogrim, i'm sure you saw dryya on the way in?
+she's stood guard over me for so long.
+despite her hard front, she's always been a caring type.
+i'm sure she'll much enjoy a knights' reunion.” 
+dryya is described by the white lady as having a hard front, which is confirmed by nailmaster sheo who refers to her as “fierce dryya”, yet she also seemed to have a caring side.
+ogrim has the following dream nail dialogue during the white defender fight:
+
+
+“dryya...
+i miss your wisdom…”
+
+
+dryya was tasked with guarding the white lady.
+after defeating numerous mantis traitors, evidenced by the pile of their corpses aside dryya’s own, they eventually overwhelmed her.
+the white lady is not aware of dryya's death.
+
+
+
+  
+
+origin of charms
+salubra on charms: 
+“my dapper gadfly, would you care to know how charms are made?
+i don't often tell my customers, what with the truth being a little morbid.
+but you're a sharp one so you may have guessed already.
+few ways a charm appears but mainly it's from final wish, a dying bug's potent desire crystallised into these gorgeous, powerful trinkets.
+now don't go getting too sad.
+there are exceptions of course, and really, it's quite beautiful, makes them all the more precious.
+mmhhmm.”

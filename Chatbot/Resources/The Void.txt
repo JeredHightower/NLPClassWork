@@ -1,0 +1,1136 @@
+﻿the void
+
+introduction
+with the release of godmaster, the void has an even larger role in the story of hollow knight than ever before.
+while there was already quite a lot of information available on the void, this content pack has added so much more evidence for existing theories that it is useful to have a document collecting everything related to the void.
+in this analysis we will try to examine the characteristics of void and how it is represented in-game.
+after that, we will discuss the various void beings that exist, such as the void tendrils and the vessels.
+thirdly, the term “lord of shades” will be examined with special attention to how it relates to the new godmaster content.
+lastly, we will investigate the ancient civilisation and possible connections to that such as the snail shamans.
+as always, any assumptions or speculation will be supported by evidence wherever possible.
+we will also provide links to other documents which might provide a more detailed analysis for certain sections.
+furthermore, this document will be updated if any new content is added that is related to the void.
+it is recommended to enable the outline by clicking on view and then show document outline.
+characteristics of void
+although much is still unknown, the void does have several characteristics which are clearly described by several npcs and other sources.
+the shade cloak, an item that is obtained after the knight is submerged in a bowl of void in the abyss, is described in the knight’s inventory as: 
+
+
+  
+
+
+
+this description suggests that void is the “substance of the abyss”, which is further confirmed by hornet.
+she has the following dialogue in the abyss when the knight listens to her after obtaining the shade cloak:  
+
+
+  
+
+
+
+the “substance of [the abyss’] shadow” refers to the void.
+needless to say, this shows that the void is intrinsically linked with the abyss itself.
+synonyms
+there are also several words which are often used synonymously with void, and some of them may not be entirely obvious.
+hornet calls it “darkness” in her normal dialogue and dream nail dialogue while she is in the abyss:
+
+
+  
+
+  
+
+
+
+furthermore, the white lady, the description for void heart, and the hunter’s journal entry for the sibling all refer to the void as being “emptiness”.
+the white lady describes void heart as: 
+
+
+  
+
+
+
+
+
+while the description of the charm also states that the “emptiness” or shade[1] hidden within the knight is now unconstrained: 
+
+
+  
+
+
+lastly the hunter’s journal entry for the sibling suggests that “emptiness” is a sensation associated with the void:
+
+
+  
+
+
+
+
+
+further references to the void are made by the godseekers.
+in their dream nail dialogue in the pantheon of the knight, they state that pure vessel’s “silence” nearly deafens them:
+
+
+   
+  
+
+the hunter’s journal entry for pure vessel also calls the void within them “silence”, as seen here on the right.
+godseeker goes on to refer to pure vessel as the “god of nothingness”, both before the knight fights pure vessel and in the hall of gods:
+
+
+  
+
+  
+
+it is likely that this “nothingness” refers to the void, as the purity of a vessel is never said to be “nothingness”.
+moreover, godseeker talks about the “silence” of pure vessel in that same conversation, meaning that the “nothingness” probably refers to the same concept, namely, void.
+the last word that is used to refer to void is “echo”, more specifically, “deep echo”.
+the godseekers use this phrase to call attention to the fact that the knight is similar to pure vessel: 
+
+
+  
+
+
+
+this “deep echo” seems to allude to the shade within the knight.
+this is something that the godseekers recognize, as pure vessel has a shade as well.
+
+
+
+the potential of the void
+besides there being other ways to describe void, there is one lore tablet which explicitly talks about the void, in particular its capabilities.
+the lore tablet in the workshop in white palace says: 
+it is said that void is the “power opposed”.
+what is it opposing here?
+presumably, this is talking about how the void has the ability to oppose any light-related higher being, including the radiance and the pale king.
+it could merely be referring to the void’s ability to oppose only the radiance, however, the next sentence seems to imply that other higher beings are part of this as well.
+this second line starts with the conjunction “but”, which might suggest that void is also the powered opposed to whoever is writing these sentences.
+besides that, the tablet says that while void is the power opposed, it has “potential”, in particular, “eternity potential”.
+furthermore, void is said to be a “force that could deny time”.
+does this mean that void can literally prevent time from passing, stopping it in its tracks?
+it is hard to say, though several sources do say that hallownest is in “stasis”.
+however, this “stasis” could be interpreted as a figurative stasis; the lack of progress since the radiance was sealed.
+the capitalization of the word “time” is interesting here, as it could mean that it is simply another word to describe the radiance, and not literal time.
+the very last sentence here talks about the process of using void to create void constructs, specifically the kingsmoulds and wingmoulds.
+more will be explained about that in the section on void beings.
+
+the call of the void
+there is one other characteristic that the void has that has not been discussed yet.
+the right side of the abyss has several lighthouses which were presumably used by the pale king to suppress the sea of void.
+[2] inside the lighthouse that the knight can turn on again, there is a bug who was likely the lighthouse keeper.
+it has the following dream nail dialogue: 
+
+
+  
+
+  
+
+
+
+the first line seems contradictory with the presumptions made above, as there would be no reason for the pale king to order that the lighthouse should be turned off.
+this line will be further examined at the end of this section.
+the second line states that the sea of void has a “call[3]”.
+it is unknown what kind of call the void has here, but it is clear that the void does have an effect on bugs who are in proximity to it.
+this can be seen in the lighthouse keeper, pictured here on the right.
+its eyes seem to be leaking void, which is the case for several other corpses found in ancient basin as well.
+there is also a corpse found in queen’s garden which holds the love key that has the same void-streaked eyes:
+
+
+  
+
+
+
+it seems to be connected to what appear to be some sort of “void vines” which are usually a sign of void corruption or influence.
+there is a theory that states that this bug was affected by the presence of the collector, who is a void being.
+[4]
+
+
+now that this call of the void has been examined, we can return to the first line of dream nail dialogue of the lighthouse keeper in the abyss.
+there is a theory which states that the first line is directed at the void itself, while only the second line is meant for the pale king.
+that would make more sense as the void would want the light to be turned off, while it was the pale king who wanted it on.
+the enemy of the void
+the last thing that should be noted about the void is that it had a conflict with the radiance in the past.
+when the knight uses the dream nail on the radiance during the fight with her, she has the following dialogue:
+
+
+  
+
+
+
+she is not referring to the pale king or the knight themselves here, as these two are relative newcomers to hallownest.
+furthermore, the knight has united the entire void during this fight and uses it to challenge the radiance,[5] which strongly suggests that the radiance calls the void itself her “ancient enemy”.
+the nature of this ancient conflict is currently unknown, although several theories do exist which try to explain what might have happened.
+these will be discussed in the sections on the lord of shades and the ancient civilisation.
+currently, there are still many questions about the void and its nature.
+if silksong will prove to be a sequel to the new endings that were introduced by godmaster, we will hopefully get more information on it.
+
+void beings
+there are various living beings who consist of void, or who have void within them.
+these void beings are either natural or artificial, depending on their exact origins.
+this section will discuss these beings and their characteristics.
+void tendrils
+these tendrils made of void are present on the right side of the abyss.
+they are described in the hunter’s journal as:
+
+
+   
+
+
+some tendrils are found in small pools of void scattered throughout the abyss, but most of them are found in the sea of void, which were suppressed by a lighthouse during the pale king’s time.
+while some theories exist which say that these tendrils are the first experiments of the pale king with void, it is more likely that void tendrils are natural formations of the void or some sort of remnant of an ancient civilisation[6]
+
+
+before discussing the evidence for that, it is important to examine the lighthouse first.
+we know that the lighthouse was built by the pale king, and were not left behind by a previous civilisation, because the lighthouse has his signature architectural style:
+  
+  
+
+
+
+the top of the lighthouse has the crown design that is present on most buildings associated with the pale king, and the windows show a stylized version of the hallownest seal.
+the lighthouse itself is powered by lumaflies, as can be seen on the right.
+for some reason these lumaflies have survived, like all other lumaflies found in lanterns throughout hallownest[7].
+this lighthouse was built here presumably to grant the pale king access to the void without being hit by the void tendrils.
+this brings us back to the question, are those void tendrils natural?
+the hunter’s journal description tells us that the void tendrils are fragments of void, as opposed to the liquid that the rest of the void consists of.
+however, this does not tell us if the void tendrils were formed naturally, so other sources will need to be analyzed.
+the void tendrils in the sea of void have the following appearance:
+  
+
+
+
+it seems that they are found in the entire sea of void, not just in the small pools that are present in numerous locations near it.
+the void tendrils have eyes, suggesting that the void is able to detect the world directly around it, this along with the call we have already established, could lead to the idea that the void is sentient.
+it is very unlikely that “early experiments with void” needed so many lighthouses built to deal with the discarded experiments.
+if the pale king created the void tendrils, he would perhaps have only created a few of them, not hundreds (or even thousands).
+the hunter’s journal entry for void tendrils is found in a hidden area on the right side of the sea of void.
+this is an area with what looks like a desk and chair, with some sort of relief in the wall,
+   
+
+
+investigating this relief prompts the following text: 
+  
+
+
+
+
+
+
+
+
+
+
+
+this also grants the knight the hunter’s journal entry for the void tendril.
+it can therefore be assumed that this relief or imprint depicts void tendrils, and that this text references the void tendrils.
+since void is the substance of the abyss, as was discussed in the first section, it could be said that these tendrils are “void given form”.
+note that this is an imprint, and not a mould at all.
+an imprint is defined by oxford living dictionaries as:
+
+
+“a mark or outline made by pressing something on to a softer substance.”
+
+
+presumably somebody pressed a void tendril into a soft surface, causing an imprint of it to form.
+the room itself seems to be built as an observation room for the sea of void.
+who was the one who used this room?
+it is possible that this room was used by another civilisation.
+the evidence for that will be discussed in the section on the ancient civilisation.
+taking all of this into account, it seems that the void tendrils are a natural manifestation of the void or a remnant of another civilisation.
+they lash out without regard for who they are hitting, and as such had to be suppressed by the pale king so that he could access the sea of void.
+
+
+
+void constructs
+a common misconception is that most void beings are creations by the pale king.
+as can be seen in the previous section on void tendrils, this is not always the case.
+in the rest of the coming sections, we will explore all the void beings for which pale king is responsible.
+this will begin with void constructs, then we will discuss the collector, who may be a construct, and vessels, which we will prove are not constructs.
+there are only two kinds of void beings who are described as being constructs; these are the wingmoulds and the kingsmoulds:  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+these void beings were constructed in the workshop in white palace by the pale king.
+this workshop contains pieces of the armour of kingsmoulds and the empty shells of the wingmoulds.
+additionally, it has a mould for the kingsmoulds that fits their void form (seen on the right) exactly, implying that this is how they were created.
+this mould, when the dream nail is used on it, has the following dialogue:
+
+
+  
+
+  
+
+from this evidence, it can be understood how void constructs are created.
+they have armour or an artificial shell, and void within that.
+this void was moulded for the kingsmoulds, though presumably the wingmoulds just had void directly poured into their shell.
+the kingsmoulds were, according to their description, used as guards in white palace.
+it is unknown what purpose the wingmoulds had.
+
+shade gates
+although these do not count as beings, they are still an interesting void construct[8] to discuss.
+starting out with what we do know from gameplay, soul and void are able to pass through them.
+we know the former from being able to fire vengeful spirit through them, and the latter because the siblings are able to leave birthplace.
+however any physical object seems to be forced away on contact.
+those who can shadow dash are able to pass through them as well, but that leads to a big quandary on what exactly the shadow dash does.
+for this we will investigate the shade cloak’s pickup text:
+
+
+  
+  
+
+
+
+the term, “cloaked in shadow,” implies that the presence of void on a surface will allow anything to pass through.
+as you do not become shadow, this could be taken to mean that any solid object that you cover in void, somehow, will be able to pass through the gates.
+the reason that soul is able to pass through them is because void naturally will wrap around soul, as seen with spells.
+a cool thing of note is that the collector can also pass through the gates.
+now we can get on with the discussion of who built them.
+there are two lines of thought; either the pale king or the ancient civilisation built them.
+to explore this  the first thing we need to note is that they can be formed naturally, as seen by the birthplace:
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+these gates show none of the architecture that the ones around hallownest do.
+the one thing they have in common is a rock at each end, as shown by the two images on the right of this page.
+these rocks are never specifically mentioned anywhere in the game text, in fact shade gates are only ever mentioned once.
+[9] and while the stones are never mentioned anywhere, we do see them in one other place, pale king’s workshop in white palace:
+
+
+  
+
+the same stones that are at each end of the shade gates seem to also be on top of the barrels that pale king used to hold void and create kingsmoulds and wingmoulds.
+however, this has not proven that the pale king made them, only shown that he had the means.
+and although the architecture of the gates does match that of the pale king, that is only one piece of evidence.
+further evidence for why the pale king made them is because of their locations, and the questions those locations have.
+for the gate in queen’s gardens, how did the white lady get there?
+if the pale king made the gates then he could have put it there as protection.
+the gate that blocks off sharp shadow,[10] why would the ancient civilisation[11] block off their own spell and declare it forbidden?
+unless the pale king declared it forbidden,[12] and then blocked it off himself.
+he did know about void spells considering that they were doing experiments on a snail shaman in the soul sanctum.
+the gate that blocks off markoth, how did he get there?
+this could be because the ancient civilisation locked him up, or the pale king could have done so as well.
+the two gates on fog canyon however we cannot find a reason for, if they were built by the pale king then we could say it was extra protection for monomon, as well as a way to stop bugs from further entering the gardens.
+this is pretty rough speculation, but it fits the best.
+there is so little known of the ancient civilisation that these questions would instead go unanswered, as such the pale king seems more likely.
+[13]        
+the collector
+a being which might be related to the kingsmoulds is the collector.
+it looks slightly similar to the void form of a kingsmould, as it has four arms as well.
+however, the collector is slightly bigger and has more defined hands and fingers.
+its head shape is quite different too.
+the collector is described in the hunter’s journal as: 
+  
+
+its description says nothing about the void, or anything related to the pale king.
+all the collector does is try to “protect” or “preserve” the creatures of hallownest, in particular the grubs.
+yet we know that the collector is a void being, as it has black hit particles when struck, and it does not give soul upon being hit.
+this is a trait that void beings with no shell or armour have, such as the siblings.
+what is the collector’s nature?
+is it simply a failed kingsmould who escaped white palace?
+did the pale king give it a special assignment to protect something, and the collector somehow got corrupted?
+many theories exist that attempt to explain the collector’s backstory, and most of them seem very plausible.
+there is not exactly any theory that is more accurate than others.
+this theory by molasses gives her view on the collector.
+it is supported by a lot of evidence, but it is not the only possible theory on the collector that could be presented.
+the vessels
+for this section, we will be brief, as there is already a very extensive document dealing with everything related to the vessels.
+we will outline the main points here, but for a full overview with more evidence, we would recommend reading this document.
+the vessels are genderless beings who have a natural shell and a shade of void within that.
+one interesting thing of note is that unlike other void beings created by the pale king, the vessels are able to focus soul.
+we get this from the knight and pure vessel/the hollow knight; it seems that vessels are natural users of soul with the ability to focus their soul and use soul spells.
+the knight can use spells powered by soul, such as vengeful spirit and howling wraiths.
+pure vessel can cast soul based spells such as the blades they fire from their hand, or the sword pillars they can conjure.
+vessels have the ability to use void related spells as well, like the knight who can use shade soul, abyss shriek, and descending dark, while pure vessel uses a void tendril attack.
+this is a small thing, but they are the only ones that are able to do this, which may be due to the conditions of their birth, specifically their shell.
+the shell of the vessels likely originates from the pale king and the white lady, with the vessels being their biological children.
+the main evidence for the vessels having shells are the following inventory descriptions:     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+there is more evidence besides this, but these are the most obvious ones.
+it is likely that the vessels’ shells come from the white lady and pale king, because of the following evidence:
+
+
+the white lady talks about breeding in relation to the vessels:  
+  
+
+
+
+the white lady talks about her “part in the deed”, which refers to the vessels being born in and subsequently discarded in the abyss.
+she then explains what her part in that act was, which apparently was breeding.
+this suggests that the vessels were born through breeding.
+furthermore, the white lady calls the knight her “spawn” directly:
+
+
+  
+she
+the pale king calls the vessels his “progeny[14]”:
+
+
+  
+
+
+
+the dialogue in the birthplace scene supports this:
+  
+
+
+
+the “born of god” refers to the vessels being biologically the children of two higher beings, while the “void” refers to the shade within each vessel.
+this shade can be seen when the knight dies, and it can be seen in the abyss.
+the shades in the abyss are the shades of the dead siblings of the knight.
+these siblings are described in the hunter’s journal as: 
+
+
+  
+ 
+
+
+vessels are born in the abyss, from eggs which likely contained the unborn children.
+when these eggs were placed in the abyss, the void corrupted the children, killing the child and replacing their insides with void.
+below are examples of these eggs.
+especially the one in the area called birthplace has very clear signs of void corruption:
+
+
+  
+
+
+
+there are similar looking eggs scattered throughout the abyss:
+
+
+  
+
+  
+
+
+
+for more information and evidence on this, it is recommended to read the document linked above.
+
+lord of shades
+after the knight has obtained the awoken dream nail, they can go back to the abyss and use the dream nail on the creature that is holding the void fountain where they first obtained the shade cloak:
+
+
+  
+
+
+
+it has the following dream nail dialogue:   
+apparently the void has power, but only when it is unified.
+how can the knight accomplish this unity?
+and what does this mean for the knight themselves?
+kingsoul
+the path to uniting the void starts with acquiring the kingsoul.
+the kingsoul consists of two halves, one is given by the white lady, and the other is obtained by hitting the pale king’s corpse in white palace.
+according to its description it, “opens the way to a birthplace”.
+the white lady has the following dialogue on the kingsoul:
+
+
+  
+
+she wonders if there is something “at the heart” of the kingsoul, and urges the knight to visit their birthplace to find out.
+once there, the knight relives one of their earliest memories, causing the kingsoul to transform into the void heart.
+void heart
+the charm void heart is described in the knight’s inventory as: 
+
+
+  
+
+
+
+void heart is a part of the knight.
+it allows their shade, which used to be hidden or suppressed by their shell, to be unconstrained.
+more importantly, void heart allows the knight to unify the void under their will.
+multiple other characters reference the knight being able to unite the void.
+such as hornet, who already alluded to this in her dream nail dialogue in the abyss: 
+
+
+  
+ 
+
+
+at the temple of the black egg, hornet talks about how the knight was able to unify the void: 
+
+
+  
+
+
+
+by accepting the void within them, the knight was able to transform the kingsoul into the void heart.
+bardoon remarks upon the king having united the abyss as well: 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+note that the white lady suggests that void heart was “at the heart” of the kingsoul all along, which seems to be supported by the animation for obtaining void heart.
+how is this possible?
+it is difficult to say, as there is not much known about the kingsoul itself besides its description.
+can a representation of a “union between two higher beings” contain something completely unrelated such as void heart?
+or perhaps it was just the knight’s own void nature which caused this transformation?
+regardless, having void heart allows the knight to unify the void under their will, which has certain effects.
+firstly, all of the siblings become passive, and if the game is in normal mode, the knight’s own shade as well.
+furthermore, all void tendrils are calmed and never appear in the pools of void.
+this is the same effect that the light of the lighthouses have on the sea of void:  
+
+
+  
+
+
+
+the creature holding the void fountain has new dream nail dialogue after the knight has void heart:
+
+
+  
+
+
+
+this directly references the knight, as they are the one who united the void under their will.
+it is the first and only mention of what the knight becomes after obtaining void heart.
+they are called the “lord of shades”, being able to command the void and direct it where they want it to go.
+void heart unlocks four additional endings as well, one of which is sealed siblings, and the other is the dream no more ending.
+in the dream no more ending, hornet helps the knight by holding down the hollow knight, enabling the knight to use the dream nail on them.
+this allows the knight to fight the radiance, the source of the infection.
+the knight, having united the entire void, fights her with the help of their siblings.
+after defeating her, the shades of all vessels return to the abyss.
+the other two endings, the embrace the void endings, are achievable in godhome.
+ascension
+fighting in godhome and completing the godseekers’ quest[15] adds yet another path for the knight that is heavily related to the void and their status as the lord of shades.
+in godhome the godseekers are looking for a being they call the “god of gods”.
+the first hint of that is given in the hunter’s journal entry for great nailsage sly.
+it says the godseekers want to find “that one still greater, the god of gods,” and by attuning themselves to the gods of hallownest they hope to eventually find this being.
+godseeker mentions this as well right before the knight fights pure vessel in the pantheon of the knight: 
+
+
+  
+
+
+
+it is implied that the godseekers suspected that the radiance was this god of gods, as defeating pure vessel leads to the pantheon of hallownest becoming accessible, with the radiance as the final challenge.
+in godhome there is an area called the hall of gods, where the knight can challenge all the bosses of hallownest on various difficulty modes.
+completing all fights on the first difficulty, attuned, unlocks a room which holds a statue that depicts the knight: 
+
+
+  
+
+
+
+inspecting this statue shows the following text: 
+
+
+  
+
+
+
+this is just a description of the knight as they are without void heart.
+they are attuned to the gods of hallownest, but nothing happened to themselves yet.
+however, defeating all bosses on ascended difficulty makes the statue change: 
+  
+
+
+
+as well as the text: 
+
+
+  
+
+
+
+this statue shows the knight in their shade form as they appear during the dream no more ending.
+it is noteworthy that the description “void given form” seems to mirror the way void tendrils are described (“abyss given form”).
+it is hard to say whether this is relevant.
+given the hunter’s journal description that is unlocked upon examining this statue (see below), it seems that this statue is just meant to represent the knight’s shade, and has nothing to do with the dream no more ending.
+furthermore, the shade is literally void itself that has been given a specific form.
+the final form of the statue, unlocked after defeating all bosses on radiant difficulty, shows the knight becoming something different: 
+
+
+  
+
+
+
+a more clear image[16] of this can be seen below:
+  
+
+
+
+
+
+
+this statue is described as: 
+
+
+  
+
+
+
+the form that the knight takes in this statue is the same as when they defeat the absolute radiance in the pantheon of hallownest: 
+
+
+  
+
+
+
+this sprite[17] is shown in more detail below:
+  
+
+how did the knight become this being?
+this is presumably the ascended version of the lord of shades, the true potential of the knight.
+the knight can ascend by attuning themselves to the gods of hallownest, as is said upon picking up the godtuner: 
+
+
+  
+
+
+
+furthermore, the knight literally ascends by going to the pantheon of hallownest: 
+  
+
+
+
+note that it is only possible to go to this pantheon if the knight has void heart, suggesting a link between void heart and ascending this pantheon.
+when the knight defeats the absolute radiance in the hall of gods, godseeker has the following dialogue:
+
+
+  
+
+
+
+the godseekers refer to the radiance as being in “perfect state, at peak of all others.''
+however, when the knight defeats her in the pantheon of hallownest they are at the peak of the pantheon and replace the radiance.
+this could imply that the lord of shades is in “perfect state” in that pantheon too, which explains the knight’s transformation to this ascended form.
+the description for the achievement upon completing this pantheon suggests this as well:
+
+
+  
+
+
+
+the godseekers call the knight the “god of gods” in the godseeker gamemode, which canonically takes place after the pantheon of hallownest.
+the knight as the ascended lord of shades becomes the god of gods, instead of the radiance.
+the question remains, are the siblings a part of this ascended lord of shades?
+they are not seen during the fight with the radiance in godhome, while their shades are present during the dream no more ending.
+the knight is the “void given focus”, the focal point of the void.
+they seem to be the one in control, as the player is still prompted to attack the radiance themselves.
+it is unclear if the knight’s siblings are part of the void at this point.
+it might be that the cutscene shown at the end of the pantheon of the knight suggests that all vessels, except for the hollow knight, become part of the ascended lord of shades.
+[18] yet it remains difficult to confirm this as there is little evidence besides vague visual clues, and because this cutscene does not require void heart in order to be seen.
+what is clear is that the lord of shades is likely what can be considered to be the higher being of the void, and after it has ascended, it is more powerful than any other god that originates from hallownest.
+
+ancient conflict
+it is known that the void and the radiance had a conflict in the past, since she calls it her “ancient enemy”.
+one theory states that it could be possible that in the past, the void used to be united under another lord of shades.
+this might be supported by the dream nail dialogue of the creature holding the void fountain in the abyss.
+it knew that the void needed to be unified, and it recognized the knight’s status as lord of shades.
+the radiance may have had a conflict not just with the void itself, but with this lord of shades specifically.
+a conflict which the void obviously lost, since it is no longer unified after the pale king arrives in hallownest.
+perhaps the void lost power over time, causing it to be weaker than the radiance at a certain point.
+or maybe the radiance was stronger in the past than she is during the dream no more and embrace the void endings, meaning that both her and the unified void were more equal in power.
+it should be noted that the radiance was easily defeated by the united void in both the dream no more and the embrace the void endings.
+since the unified void is apparently stronger than the radiance, it might be possible that it was not united in the past at all.
+it could be that the radiance and the void are ancient enemies simply because both of them are opposing forces.
+
+ancient civilisation 
+the existence of a civilisation before hallownest is confirmed by relic seeker lemm.
+when the knight gives him an arcane egg, he has the following dialogue:
+
+
+  
+
+
+
+a civilisation existed before the kingdom of hallownest, but what was the nature of this civilisation?
+what can be learned about it through various sources?
+connection to the void
+it is first suggested that the ancient civilisation is related to the abyss through the hunter’s journal entry for void tendrils:
+
+
+   
+it is said that these “older, stranger kingdoms” existed deep below the bugs of hallownest.
+since this entry is on void tendrils, it can be assumed that this refers to the abyss.
+further confirmation for the connection between this civilisation and the void is the description for void idol.
+this is a hunter’s journal entry that the knight acquires upon defeating all bosses in the hall of gods on at least one of the three difficulties.
+they can then inspect the statue which was unlocked, which gives them the entry for void idol.
+the description and images for void idol change every time the knight completes a higher difficulty.
+these progress in the following way, with the left image being the one for attuned difficulty, the middle one for ascended, and the right image for radiant:
+  
+ 
+the descriptions all start with “rare artifact from a time before hallownest”, after which the description is shown that is underneath each image.
+the void idol is an artifact originating from the ancient civilisation.
+below its description, commentary from relic seeker lemm confirms that the ancient civilisation was not just related to the void, they worshipped it.
+the idols progress from containing just “a drop of [void]”, then “volatile [void]”, and lastly the void within the idol is “perfectly still”.
+the description of this last idol as having a “unified form” seems to correspond to the state of the void after the knight obtains void heart.
+the void is unified then, and the liquid void no longer has thrashing void tendrils.
+it has gone “perfectly still”.
+this idol also appears to be a combination of the previous two idols.
+could this mean that the void during the time of the ancient civilisation was unified as well?
+would that mean there was a lord of shades too?
+or was unifying the void simply a goal that the ancient civilisation wanted to accomplish?
+it is difficult to say without further evidence, although there is little pointing towards the void being unified before, as was discussed in the previous section.
+soul and void
+relic seeker lemm has more dialogue on what the ancient civilisation concerned itself with.
+when given another arcane egg, he says this about the ancient civilisation: 
+
+
+  
+
+  
+
+
+
+apparently all of the soul totems found throughout hallownest, with the exception of the ones found in white palace, were built by the ancient civilisation.
+these totems or statues seem to depict bugs that are unlike any bug currently living within hallownest: 
+
+
+
+
+
+
+  
+  
+  
+
+
+
+supposedly the ancient civilisation had some mastery over soul, as they were able to store soul within these totems.
+however, they did not just have the ability to manipulate soul, but void as well.
+this can be seen in the location of the sharp shadow charm.
+this location is on the right side of deepnest, hidden behind a shade gate.
+it can be seen below: 
+  
+
+  
+
+this location has various soul totems, all which are connected to some kind of “void vines”, indicating void corruption or influence.
+an uncorrupted soul totem can be seen here on the right.
+since the ancient civilisation worshiped the void, and they were responsible for the soul totems, corrupting or transforming these soul totems with void seems to have been a deliberate action by them.
+the charm sharp shadow is found on one of these soul totems.
+its description is as follows: 
+
+
+  
+
+
+
+this charm has a “forbidden spell”[19] which is capable of transforming “shadows” or shades into deadly weapons.
+in order to use this spell, its bearer would have to be a void being themselves[20].
+that might imply that perhaps some members of the ancient civilisation were similar to a vessel, with a shell that could hold soul, while also having a shade of void within that.
+some further indirect evidence for that is the abyss shriek room on the left side of the abyss.
+it has a pedestal and is surrounded by ancient artifacts, implied to have been left there by the ancient civilisation.
+when the knight uses the dream nail here, this dialogue is shown: 
+
+
+   
+
+
+the “again” implies that the voices of these beings used to be able to cry out in the past.
+however, there was something that stopped them from doing this.
+once the knight uses the soul spell howling wraiths while in this room, void particles drift from the screaming faces and flow towards the knight.
+this transforms howling wraiths into abyss shriek: 
+
+
+  
+
+
+
+
+
+
+abyss shriek is a spell that requires soul to be cast, but it uses both soul and shadow which we have seen to mean void.
+supposedly, the ancient civilisation could use both soul and void spells, just like the vessels.
+arcane eggs
+besides the soul totems, there is another item that was made by the ancient civilisation.
+these are the arcane eggs, which are described in the knight’s inventory as:
+  
+
+
+
+
+the arcane eggs are relics, made from stone and originating from a civilisation before hallownest.
+they are found in three places in the abyss: in the area called birthplace, near the creature with the void fountain, and in the lifeblood core area.
+the seer can furthermore give the knight an arcane egg when the dream nail holds 1200 essence.
+once these relics are sold to relic seeker lemm, he tells the knight more about the history of the eggs and what they were used for:
+
+
+  
+
+  
+
+  
+
+
+
+from this information, it seems that the arcane eggs were used by the ancient civilisation to contain knowledge and information.
+this was hidden within the eggs, in multiple layers.
+relic seeker lemm does not know how to access the information in the deeper layers without damaging the eggs.
+once the knight sells all four arcane eggs to relic seeker lemm, he mentions something interesting about the eggs: 
+
+
+  
+
+  
+
+
+
+it is possible that the knight is able to find these arcane eggs so easily because they are a void being themselves, just like how the ancient civilisation possibly was.
+relic seeker lemm himself does say that he does not know whether the eggs truly have a will: 
+
+
+  
+
+
+
+
+
+remnant characteristics 
+any remnant of the ancient civilisation found in hallownest has a specific architectural design that is typical for this civilisation.
+they have generally the same floor and background design.
+the most obvious example of that are the floor and background used for most of the soul totems:
+
+
+  
+  
+
+these features are present in other locations as well.
+the room where sharp shadow can be acquired uses both the background and floor:
+
+
+  
+
+
+
+the hallway leading up to the ancient nailsmith in kingdom’s edge has the ancient background:
+
+
+  
+
+
+
+
+the room in the abyss with the hunter’s journal entry for the void tendril uses the ancient floor:
+
+
+  
+
+
+
+the black egg in the temple of the black egg has the ancient background:
+
+
+  
+
+
+
+the temple itself is described in the wanderer’s journal merchandise on page 20 as being fashioned from “the shell of some ancient bug”: 
+
+
+  
+
+
+
+ancestral mound, a temple which is the ancestral home of the snail shaman, also contains various ancient features.
+it contains a soul totem which has the ancient floor and background, though most soul totems have this feature:
+
+
+  
+
+
+
+a section in the southeast of the mound shows ancient flooring underneath the shells that litter the floor:
+
+
+  
+
+ancestral mound also contains a whispering root, which has the ancient background on its left:
+
+
+  
+
+
+
+it is possible that these features of ancestral mound could tie the snail shamans to the ancient civilisation.
+[21]
+
+
+
+downfall
+even though the ancient civilisation seems to have been a more advanced civilisation than hallownest, something eventually led to its downfall.
+what caused this exactly is unclear, although the mask maker[22] in deepnest has some dialogue which could be related: 
+
+
+  
+
+  
+
+
+
+mask maker says that no bug ever completely ruled over the entirety of the land encompassing the kingdom of hallownest and areas such as deepnest and the hive.
+only the “ancient caste” ever tried to do that.
+this ancient caste has been theorized to include higher beings such as the pale king, but it could refer to the ancient civilisation as well.
+after all, mask maker specifically says “attempts”, plural.
+the pale king only ever made one attempt to rule over the entire area.
+it seems that for some reason, it is impossible for any civilisation to rule over the whole land.
+any attempt always leads to the ruin of that civilisation.
+it is known that the pale king’s attempt failed because the radiance tried to be remembered again after everyone forgot about her.
+this led to the infection and eventually the ruin of his kingdom.
+could something like this have happened to the ancient civilisation?
+they worshipped the void, and the radiance is the ancient enemy of the void.
+it is possible that she had a conflict with this civilisation in the past.
+there is no evidence which supports this idea, but something significant did happen that caused this civilisation to fall to ruin.
+what exactly happened can currently only be speculated about.
+
+snail shamans 
+while it is very obvious that the snail shamans are able to create soul spells, their connection to the void is a bit more obscure.
+this section will examine their possible relation to void and the ancient civilisation.
+void spells
+the snail shaman in ancestral mound in the forgotten crossroads gives the knight the soul spell vengeful spirit, but two other snail shamans can grant the knight a void spell instead.
+the snail shaman in crystallised mound in crystal peak grants the knight the void spell descending dark: 
+
+
+  
+
+
+
+both soul and shadow are used when this spell is cast.
+furthermore, the knight can acquire another void spell when they go to soul sanctum.
+the soul spell vengeful spirit can be transformed into shade soul, after the knight absorbs the snail shaman there: 
+
+
+  
+
+
+
+instead of a spirit made of soul, the spirit has now been transformed into a shadow.
+this shows that perhaps the snail shamans somehow allow the knight to transform soul spells into void spells.
+the shamans’ shells
+the body of two snail shamans dissolves into black particles.
+the knight absorbs these particles, after which they gain the specific void spell.
+this can be seen in crystallised mound: 
+  
+
+  
+
+
+
+after the knight breaks the crystal containing the snail, she[23] dissolves into black particles.
+[24] something similar happens to the snail in soul sanctum: 
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+when the knight examines the device that the snail shaman is attached to, he[25] shrieks and dissolves into black particles.
+what is notable is that the snail shaman in overgrown mound in fog canyon does not dissolve into these particles.
+this could be explained by her[26] not giving the knight a void-related spell, but instead the soul spell howling wraiths.
+her body looks very peculiar, with her head appearing to leak some substance.
+
+knowledge of void
+the snail shaman in ancestral mound seems to be aware of the knight’s void nature.
+he says when the knight returns after acquiring shade soul: 
+
+
+  
+
+  
+
+
+
+he is apparently aware of the knight’s “essence”, which is void.
+however, the snail shaman has some interesting dialogue once the knight returns with abyss shriek:
+ 
+  
+
+  
+
+
+
+not only does the snail shaman say that snails are unable to transform howling wraiths into a spell that combines void and soul, but he has never even been to the abyss itself.
+possible relation to ancient civilisation
+there exists a theory which states that the snails might be descendants of bugs from the ancient civilisation.
+as was explained in the section on that civilisation, it is possible that those bugs had a shell with void within that shell.
+the snails are able to use soul spells and allow the knight to transform them into void versions of these spells, yet they have not been to the abyss.
+they could perhaps be descended from some of these ancient civilisation bugs.
+some evidence for that is that the resting grounds contain a hidden snail grave, presumably indicating that these snails have been around for quite a long time:
+  
+
+furthermore, the void spell abyss shriek is obtained by the knight using a snail shaman spell on a pedestal in the abyss:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the fact that the screaming faces in the background react to a snail shaman spell could suggest a link between the ancient civilisation and the snails.
+ancestral mound contains several features that are related to the ancient civilisation, further suggesting a connection:
+
+  
+  
+
+jinn and jiji's masters
+there exist beings who have a very vague connection to the void.
+these are the masters of confessor jiji and steel soul jinn.
+when the knight visits steel soul jinn after they have acquired void heart, she has this to say to them: 
+
+
+  
+
+  
+
+
+
+steel soul jinn implies that her masters are somehow similar to the knight with void heart.
+void heart allows the knight to unify the void under their will.
+it might be that her masters also unified something, though this is not necessarily void.
+confessor jiji says when the knight defeats their shade when they have obtained void heart: 
+
+
+  
+
+  
+
+
+
+her masters would be impressed that the knight has come to terms with their regrets.
+for the knight this means that they accepted the void inside themselves, as hornet mentions in the temple of the black egg.
+however, since jiji never mentions the word “void” directly, it is not certain whether she is actually talking about the knight having accepted their void nature.
+
+
+
+relation of jinn and sharpe
+
+
+unfinished speculation  
+
+
+in a blog post on the 12th of december, 2018, team cherry announced an upcoming boss in their next game,[27] “hollow knight: silk song.” steel assassin sharpe is described as “sharpe is a hunter from a distant land.
+he’s tasked with eliminating hornet  and he’s not come alone.” 
+
+
+  
+
+the first thing to note is the motif of steel in both steel soul jinn’s and steel assassin sharpe’s names.
+the relation between the two is only strengthened by the appearance of not only sharpe compared to jinn, but also the companion revealed in the silk song trailer.
+[28] 
+
+
+  
+  
+
+when comparing the two, their design looks greatly similar.
+the eyes are the same, and they have the same shiny centerpiece.
+both have double points around their “shoulders.”
+
+
+
+
+the only difference is that jinn has fingers while the currently unnamed enemy has spikes.
+while it is not much to go on now, as more info is released this section will be updated.
+
+
+
+conclusion
+this analysis has discussed the various characteristics of void; how it is described, its synonyms, its potential to oppose light-based higher beings, its “call” or influence on non-void bugs, and its enemy, the radiance.
+several void beings have been examined, such as void tendrils, void constructs, the collector, and the vessels.
+void beings cannot contain soul, but when they have an outer shell around them, they are able to hold soul within that shell.
+the void presumably has a higher being, the lord of shades, which the knight becomes after obtaining void heart.
+void heart allows them to unify the void under their will, which they can use to defeat the radiance.
+the knight can ascend and reach their full potential as lord of shades after attuning themselves to all the bosses of hallownest in godhome.
+one civilisation is said to have worshiped the void.
+this ancient civilisation existed before the birth of hallownest.
+they built the soul totems found throughout hallownest, but they also seemed to have consisted of void themselves.
+they used arcane eggs to store information or knowledge.
+it is currently unknown what caused the downfall of this civilisation.
+some beings are vaguely related to the void, such as the snail shamans.
+they may be descendants of the ancient civilisation, as they are able to use soul spells.
+the masters of confessor jiji and steel soul jinn might be related to the void in some way, but it is unclear how.
+all together this has been a wonderful exploration of the lore on the void.
+while most of it is still up for debate, this is what we find most compelling as arguments.
+this is all subject to change based on future updates and if anyone can come up with better arguments!
+this document was written by sumwan#6019 and toxicbrain#4205, feel free to dm us in discord or ping us in the official hollow knight discord server for questions or remarks.
+thank you all for reading and we hope you enjoyed!

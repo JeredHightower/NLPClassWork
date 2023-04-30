@@ -1,0 +1,167 @@
+﻿quirrel’s fate
+
+
+a common question that is often asked is what happens to quirrel after he is encountered in blue lake and the knight sits with him.
+he disappears after this encounter, and his fate is unclear.
+however, there are only two possibilities for what happens: either quirrel moves to another unknown area, or he dies.
+considering his character’s background and his dialogue, it is more likely that he dies after the encounter at blue lake.
+the evidence for this will be discussed below.
+meta evidence
+one piece of evidence that frequently gets quoted is the name of the sprite for quirrel’s nail.
+it is called “quirrel_death_nail”:
+
+
+  
+
+
+
+while sprite names cannot be used as main evidence, they do tell something about the intentions of team cherry.
+all sprites with the word “death” in their name have something to do with a character’s death: 
+   
+
+
+for instance, zote’s shell after he dies in greenpath is called “death_head” and the sprite for his nail is called “death_nail”.
+that nail sprite is found in greenpath after he dies there.
+not a single sprite with “death” in its name is inaccurately named, therefore it can be assumed that quirrel’s nail sprite also does not have an inaccurate name.
+while some sprites have strange names which are used internally by team cherry, such as the vengefly king being called “big buzzer”, none of these names are nonsensical and always relate in some way to what the sprite is depicting.
+in the first reddit ama, team cherry answered several questions about quirrel:
+  
+
+
+
+  
+
+
+
+below is a transcription of these questions and answers:
+
+
+- what happened to quirrel after you met him in blue lake?
+william: “he is no longer there”
+
+
+- what can you tell us about quirrel?
+william: “quirrel is a light-hearted guy who just loves to explore and take in the sights.
+spen[d] some time with him whenever you can, he loves that.” 
+
+
+team cherry consistently dodges the question of what happened to quirrel, either because they want people to figure it out for themselves, or they want to give people hope that perhaps quirrel is still alive.
+whatever the reason, these comments and the nail sprite name itself give some hints about quirrel’s fate, but ultimately the in-game dialogue will have to be examined to reach an actual conclusion.
+quirrel’s age
+after monomon has been killed, quirrel says to the knight: 
+
+
+“be on your journey then, and allow me rest a time.
+with the deed complete, i begin to feel my age.” 
+
+
+he says he is finally beginning to feel how old he really is, since he was around before the fall of hallownest.
+from this point on, his voice also sounds very different compared to how he sounded before; it appears to be more tired and older.
+quirrel feels and sounds old after taking off monomon’s mask, but what does this mean for his encounter at blue lake?
+blue lake
+in the city of tears, quirrel talks about wanting to see the source of the city’s perpetual rainfall:
+
+
+“the rain seems to come down endlessly, though.
+i'd like to see where it all comes from before i leave this kingdom.
+what a sight it must be!”
+
+
+before he is planning to leave hallownest, he wants to see blue lake first.
+this dialogue is why many believe that quirrel simply left hallownest after he disappears.
+the problem with this view is that it does not take into account quirrel’s character development.
+when quirrel meet hornet in the official comic, he says that he is only an explorer: 
+  
+
+
+
+in the temple of the black egg, he says to the knight:
+
+
+“hello there!
+how delightful to meet another traveller on these forgotten roads.”
+
+
+in queen’s station, quirrel specifically considers himself separate from the bugs of hallownest:
+
+
+“the bugs of hallownest must've been an impressive lot, building such grand structures so far into these wilds.”
+
+
+when quirrel says that he wants to see blue lake before leaving, he thinks of himself as just a traveller who is passing through hallownest, not a returning hallownest citizen.
+he is unaware of his history, because he lost his memories.
+when he enters the teacher’s archives, he recalls a few of his memories:
+
+
+“though much of my memory is blank, this place i recall.”  
+
+
+in blue lake he says that:
+
+
+“here at last, i feel at peace.
+twice i've seen this world and though my service may have stripped the first experience from me, i'm thankful i could witness its beauty again.”  
+
+
+as was mentioned above, he finally feels his age after monomon’s death, and goes to blue lake where he feels at peace.
+he also tells the knight at blue lake that: 
+
+
+“hallownest is a vast and wondrous thing, but in as many wonders as it holds, i've seen none quite so intriguing as you.”
+
+
+this is a very final statement.
+quirrel is an explorer and has seen all there is to see in hallownest, but none of it can compare to the knight.
+there is nothing left for him to discover anymore.
+quirrel said at the start of his journey that he would visit blue lake, but that was back when he still thought of himself as an outsider.
+when he realises who he is and the role that he played, there is no reason for him to leave hallownest anymore.
+and with quirrel beginning to feel his age, it would be unlikely that he actually left the kingdom after his encounter in blue lake.
+quirrel’s nail
+the main evidence for quirrel dying instead of leaving hallownest is that he leaves his nail behind in blue lake.
+in his travels throughout hallownest, he always stresses how dangerous the lands are and that having a nail of good quality is of the utmost importance.
+in the temple of the black egg he says:
+
+
+“to persevere in this ruin, that old nail alone just won't be enough.
+though that's no problem!
+one only has to look around.” 
+
+
+at the lake of unn he once again talks about the dangers of hallownest:
+
+
+“your nail looks a fine instrument, but it's showing signs of wear.
+i'd wager up there it would take you far.
+down here however, i suspect you'll soon meet dangers the surface world can't match.
+hallownest is perfect for vigilant explorers like us.
+so tense and thrilling.
+in this place, you're either alert or you're dead.” 
+
+
+there is no reason for quirrel to leave his nail behind if he intended on actually leaving hallownest.
+he is beginning to feel his age, and he knows of the dangers that hallownest poses, especially to those with inadequate weapons.
+he would not even make it outside of hallownest without his weapon.
+in the official comic, quirrel also realises the many perils of the plains outside of hallownest:
+
+
+  
+
+
+
+he says that the challenge of the area outside of hallownest is “one that few would pass”.
+if he did intend on leaving hallownest, he would certainly have brought his nail with him.
+lastly, quirrel has dialogue in the temple of the black egg that foreshadows his death.
+he says about the nails of dead bugs: 
+
+
+“i'm sure they wouldn't mind were a fellow explorer to relieve them of their tools.
+it's a kindness really.
+the dead shouldn't be burdened with such things.” 
+
+
+he recommends that the knight takes the nail of one of those bodies in order to replace their old nail, as he believes that a nail is a burden for a dead bug.
+meanwhile, he leaves his own nail behind in blue lake; quirrel most likely died, and leaving his nail behind makes sense as he previously said that the dead should not be burdened with weapons.
+conclusion
+considering all the evidence, it is unlikely that quirrel is still alive and merely wandered off somewhere else, as this does not fit his character development and his prior dialogue.
+since quirrel is beginning to feel his age, feels at peace in blue lake, and leaves his nail behind, it is more plausible that he died.
+there is nothing left for him in hallownest, all of his friends are dead, and he has no more purpose to fulfill.

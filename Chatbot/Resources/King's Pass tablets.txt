@@ -1,0 +1,229 @@
+﻿king’s pass lore tablets interpretation
+
+higher beings, these words are for you alone.
+your great strength marks you amongst us.
+focus your soul and you shall achieve feats of which others can only dream.
+this tablet likely acted as a welcome to travelers that have made their way to hallownest.
+from elderbug, we know that hallownest had an entrance that was easy for wanderers to follow.
+there's an old pass in the cliffs that once allowed easy access.
+the bridge up to it has long since crumbled away, and even without it, a huge door bars entry.
+the first line appears to be connected the quirrel’s comic.
+“hallownest accepts only the strong”.
+this line is kinda weakened by the fact that weaklings like cloth and zote made it to hallownest, but maybe they were just the lucky few.
+this is the lore tablet that teaches the player to use the focus ability.
+focusing is mentioned several times in hollow knight, but for now, i just want to look at one other instance, that being in a line from the mask maker.
+a wonderful thing to have, a face.
+not a thing with which we all are blessed.
+for this kingdom's faceless, i shall provide.
+a mask!
+a face!
+does it need one?
+does it not?
+to define.
+to focus.
+to exist.
+in this line, mask maker implies that a mask or a face is needed in order for someone to “focus”.
+both the lore tablet and the mask maker’s dialogue imply that being able to focus isn’t something everyone can do.
+focus your soul and you shall achieve feats of which others can only dream.
+- king’s pass 
+
+
+a wonderful thing to have, a face.
+not a thing with which we all are blessed… [...] a mask!
+a face!
+does it need one?
+does it not?
+to define.
+to focus.
+to exist.
+- mask maker
+
+
+so there is a distinction between those who have faces and those who don’t.
+the lore tablet gives us a name for those that have faces: higher beings.
+unfortunately, this raises some pretty serious questions.
+while not stated in the game itself, higher beings are usually considered to be gods such as the pale king and the radiance.
+two examples of this come from an ama and the ingame dev notes.
+there are certain creatures in the world of hallownest that exist above all others, higher beings like radiance and wyrm and root.
+if there are others like them, we'll probably run into them in future adventures.
+- william pellen
+
+
+<entry name="god">perhaps in special instance?
+though usually the god-like creatures are higher beings.</entry>
+- dev note
+
+
+in the game, the phrase “higher beings” is only used on these lore tablets in the king’s pass, howlings cliffs and the ancient basin.
+the only exception is the charm description for the kingsoul.
+holy charm symbolising a union between higher beings.
+as we’ll see, the lore tablets in the king’s pass don’t really fit with this description of higher beings.
+let’s look at the next lore tablet, where this issue becomes more clear.
+higher beings, these words are for you alone.
+within our lands do not hide your true form.
+let all bask in your majesty, for only this kingdom could produce ones such as you.
+note the phrase “true form”.
+this phrase can only be found in two other parts of the game, those being the item descriptions for the pure nail and the ancient mask.
+the ultimate weapon of hallownest.
+crafted to perfection, this ancient nail reveals its true form.
+- pure nail
+
+
+a complete mask.
+when whole, a mask protects its wearer, shielding the true form beneath.
+- ancient mask
+
+
+this is yet another connection between these lore tablets and masks.
+it seems likely that the tablet is telling the reader to remove any mask that they might be wearing.
+the next line tells us why the mask should be removed.
+let all bask in your majesty, for only this kingdom could produce ones such as you.
+“ones such as you” could be referring to higher beings.
+this would mean that the pale king’s kingdom is somehow producing higher beings.
+this does not sound right at all given the three examples given earlier.
+maybe the pale king is using a different definition of higher being than team cherry.
+i will be laboring under this assumption, otherwise this analysis is dead.
+so far, it appears as though higher beings are produced by the kingdom of hallownest, and have the ability to focus their souls.
+let’s try to find a definition for focus.
+there appears to be a strong connection to the mind.
+the godseekers mention that they are using their focus to ascend their minds.
+doom thyself then, that we may resume our focus and ascend our minds ever higher!
+so focusing in this instance ascends the mind of the godseekers.
+the bugs of the soul sanctum appear to have taken this concept even further, trying to surpass the mind altogether.
+record aba
+the mind still limits us so.
+how to break past its constraints?
+to attain a pure focus, is it even possible?
+of course, the bugs of the soul sanctum were misusing soul, resulting in follys and mistakes.
+they planned to transcend the mind and body, which the hunter views as an obscene idea.
+i've heard whispers that the secret these fools were searching for was immortality.
+to live forever...
+i've never heard of anything so obscene!
+another instance of the word “focus” can be found in the ancestral mound.
+...spiral focus...
+this line might be referring to the snail shaman’s ability to focus soul.
+he is wearing a snail shell on his head that has a spiral formation.
+finally, we have the prompt for the void entity in the hall of gods.
+void given focus.
+this dialogue was changed shortly after the release of godmaster.
+it originally used a different word.
+void given mind.
+is this some kind of indication of what “focus” is?
+are the two words “mind” and “focus” interchangeable, or at least closely connected?
+going back to the mask maker’s dialogue, it says a face is needed to “focus” and “exist”.
+consider rené descartes’ famous line “i think, therefore i am.” a face gives a bug the ability to focus, or have a mind, resulting in a being with higher thought.
+so the pale king grants bugs within his kingdom the ability to focus their souls.
+to focus means to have a mind.
+and as we will see, this is exactly what happens to bugs within the kingdom.
+we know that the pale king is changing these bugs given the elegy for hallownest and the lore tablets in the white palace throne room and the howling cliffs.
+in wilds beyond they speak your name with reverence and regret,
+for none could tame our savage souls yet you the challenge met,
+under palest watch, you taught, we changed, base instincts were redeemed,
+a world you gave to bug and beast as they had never dreamed.
+the elegy mentions that the pale king tamed the “savage souls” of his subjects and that their “base instincts were redeemed”.
+notice the phrase “savage souls”.
+this connects nicely to the first king’s pass lore tablet.
+focus your soul and you shall achieve feats of which others can only dream.
+the pale king was able to teach the wild bugs how to focus their savage souls.
+the result of this is described in the throne room lore tablet.
+the wyrm becomes beacon, minds expanded, to yield, to devote.
+taming these souls results in the expansion of the mind.
+this draws yet another parallel between the act of focusing and achieving higher thought.
+there are more examples of the pale king’s kingdoms giving bugs higher thought, such as the lore tablet in the howling cliffs.
+higher beings, these words are for you alone.
+these blasted plains stretch never-ending.
+there is no world beyond.
+those foolish enough to traverse this void must pay the toll and relinquish the precious mind this kingdom grants.
+this tablet warns about what would happen to a bug that leaves hallownest, the loss of their mind.
+this warning is proven true by both the howling cliff whispering root and the corpse on the far left edge of the map.
+...bugs reduced…
+- whispering root
+
+
+...no king... no mind... release…
+- howling cliff corpse
+
+
+this implies that these bugs also lose the ability to focus once they leave the kingdom.
+the quirrel comic gives a clear view of the wasteland beyond hallownest, and how it affects the mind.
+in the wilds beyond hallownest, bugs with thoughts and a mind cannot adapt.
+bugs must revert back to their savage souls in order to survive the wasteland, thus losing their focus.
+this is where masks come back into the picture.
+the pale king is somehow able to grant bugs the ability to focus through his beacon.
+so how do masks achieve this same ability?
+i think the likely reason is due to the protection granted to those who wear masks.
+a complete mask.
+when whole, a mask protects its wearer, shielding the true form beneath.
+- ancient mask
+
+
+the protection granted from masks could be what allows bugs to survive harsh conditions more easily.
+this, in turn, allows them to keep their minds.
+from what we can tell masks aren’t used much in hallownest, but were used in the past (ancient mask) as well as by distant travelers like the grimm troupe and the godseekers.
+also, the second lore tablet in the king’s pass implies that travelers to hallownest also wore masks, as mentioned earlier.
+higher beings, these words are for you alone.
+within our lands do not hide your true form.
+the last lore tablet in the king’s pass is fairly straightforward.
+higher beings, these words are for you alone.
+beyond this point you enter the land of king and creator.
+step across this threshold and obey our laws.
+bear witness to the last and only civilisation, the eternal kingdom.
+hallownest
+
+
+the biggest issue with this tablet is that it claims hallownest is the only civilization.
+but we are aware of pharloom, as well as the land the grey mourner is from.
+not of me that flower, nor of this kingdom.
+far it travelled to reach this place, brought by one beloved, fair knight of lands serene.
+there are a few possible explanations.
+* the pale king is unaware of other civilizations
+* the pale king is aware of other civilizations and is lying
+* there were no other civilizations when the tablet was made.
+here are my final thoughts.
+before the pale king, some bugs wore masks as a way to keep themselves protected.
+this allowed them to maintain their focus as well as higher thought.
+the pale king then arrives and sets up his beacon.
+how exactly this works is unclear.
+it might simply be that he made hallownest a safer place than the wilds beyond.
+he then taught his subjects and all new travelers the ability to focus their souls, a practice not possible in the wilds beyond (without a mask, at least).
+by doing so, these bugs expanded their minds, becoming “higher beings”.
+bugs could come to the kingdom, remove their masks, and reveal their “true forms”.
+and thus, the promise of hallownest reverberated throughout the outside world, with many coming to experience the splendor of the pale king’s eternal kingdom.
+counterargument:
+
+
+the biggest counterargument to all of this is the fact that bugs like zote, cornifer, iselda and tiso seemingly needed no masks in order to traverse wilds beyond.
+but even if we concede that point, it still doesn’t make sense how a bug like zote could even survive out there in the first place.
+ellina, from the wanderer’s journal actually comes across the higher being tablet in the ancient basin, while trying to open the door to the abyss, remarking:
+
+
+if only i could decipher the message on the tablet next to the door, perhaps i could figure out how to open it.
+it’s hard to know exactly what is going on here.
+does ellina hear the whispering of the lore tablet?
+can she see the text, but just can’t read it?
+it’s all very confusing, but the most obvious explanation would be that she simply isn’t a higher being, which weakens my theory.
+but perhaps only bugs granted intelligence through the pale king’s beacon are the ones who can read this tablet.
+ellina’s intelligence seems to be natural to her, so maybe the beacon just doesn’t work on her, making her unable to decipher the tablets.
+one minor point, the winds beyond hallownest push bugs to the kingdom.
+the first example is seen in the quirrel comic:
+
+
+  
+
+
+
+this concept is reiterated by the godseekers in the tuner memory:
+
+
+these winds carry us to thee, dear gods...
+
+
+are these at all related to the pale king’s beacon?
+or is this pure coincidence?
+random thought:
+
+
+there is another connection between masks and focusing that might be completely unintentional.
+when the knight uses the focus ability, it is healing its shell.
+this is represented in the ui with masks.
+so the act of focusing creates a “face” in the form of a mask.

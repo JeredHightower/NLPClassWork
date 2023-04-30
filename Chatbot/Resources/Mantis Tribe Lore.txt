@@ -1,0 +1,552 @@
+﻿mantis lore explained and analyzed
+by bea#5767
+
+
+introduction:
+the purpose of this document is to analyze all in-game text about the mantis tribe as well as the mantis traitors, and draw possible conclusions and theories based on this evidence.
+there is also some speculation, but it is marked so that you know that it is speculative.
+i will use the “hollow knight complete script” document found in the resources section of the main lore archives document.
+the following link is to a complete script of all text in hollow knight.
+thanks to mossbag#0563 for creation of the document.
+https://docs.google.com/document/d/1oaed7i6xl5nitd-wkydb455f58d3welz8omikryeqlo/edit 
+
+
+table of contents:
+1.
+npc dialogue (quirrel, cloth, elder hu, grey mourner)
+2.
+mantis village lore tablets + grave
+3.
+item descriptions (mantis claw, delicate flower, mark of pride)
+4.
+hunter’s journal entries (mantis youth, mantis warrior, mantis lords, mantis petra, mantis traitor, traitor lord)
+5.
+dream nail dialogue + hall of gods
+6.
+wanderer’s journal
+7.
+conclusion
+
+
+-npc dialogue-
+—------------------------------------------------------------------------------------------------------------------
+the first piece of evidence to analyze is quirrel’s dialogue in mantis village.
+—------------------------------------------------------------------------------------------------------------------
+“hello again!
+i suppose you've already met with the tribe of this village, hmm?
+they seem a little distrustful of strangers... to put it lightly.
+they're not brutes though, no.
+the sickness in the air that clouds the mind of lesser beasts... they resist it.
+they retain their intellect and their honour, though also their lethal traditions.
+i've some words of advice, my friend.
+if you plan to challenge the lords of this tribe, your blunted nail may prove inadequate.
+there is a city nearby, the old capital of hallownest.
+i've heard a nailsmith resides there.
+seek the old bug out and you may find progress that much easier.”
+—------------------------------------------------------------------------------------------------------------------
+quirrel starts off by talking about how the mantis tribe seems to distrust strangers.
+this makes sense, because they are surrounded by many infected creatures.
+next, quirrel mentions how the mantises resist “the sickness in the air that clouds the mind of lesser beasts…” quirrel is almost certainly talking about the infection.
+this can be proven by something shown when fighting and killing enemies.
+when fighting enemies that are clearly infected, the enemies spray orange particles when hit.
+we know that these enemies are infected primarily because of their hunter’s journal entries.
+however, uninfected enemies spray white particles when hit.
+this is clearly shown with bugs that have dialogue and are known to be uninfected such as grimm, hornet, and the nailmasters.
+when hit, they spray white particles indicating they are not infected.
+i cannot find any cases of enemies that seem infected yet spray white particles upon being hit, or any cases of enemies that spray orange particles when hit yet seem uninfected.
+one possible counterpoint to the particle argument is that there are several dream warriors who were infected in life.
+however, based on the dialogue of the dream warriors, it seems that the infection does not crossover into death, so the particle theory still holds solidly.
+the mantises spray white particles, and as they have the ability to choose whether or not they are hostile to you, they are clearly not infected.
+there is no other kind of sickness mentioned in the game that isn’t the infection.
+in conclusion, we can logically conclude that quirrel is referring to the infection.
+—------------------------------------------------------------------------------------------------------------------
+next, quirrel says: “they retain their intellect and their honour, though also their lethal traditions.” this is a follow-up statement to the mantises resisting the infection, and offers an explanation as to why the mantises are originally hostile to the knight: their ideals of honour, intellect, and tradition.
+the ideal of intellect in the mantises is easy to see in game, as the mantis tribe uses levers and doors to protect their village.
+the idea of honour is shown in game as well.
+the knight is shown honour and respect upon besting the mantis lords in battle, as the members of the mantis tribe no longer attack the knight unless the knight first attacks them.
+the “lethal traditions” quirrel is referring to is most likely the reasoning for the mantises to attack you.
+this is further shown with some text on a lore tablet in mantis village, which will be analyzed further later.
+the lore tablet says as follows: 
+“wanderers seeking death, welcome.
+may you find swift end upon our claws.” 
+this shows the mantises tradition of killing anybody that comes near their civilization.
+—------------------------------------------------------------------------------------------------------------------
+the next piece of evidence to analyze is cloth’s dialogue in fungal wastes.
+—------------------------------------------------------------------------------------------------------------------
+“ah ha!
+the tiny steps of a tiny creature.
+you got the look of an adventurer, so we've much in common.
+searching for dangerous places aye?
+well you're on the right track.
+a long necked critter warned me of a tribe deeper down.
+warrior sorts, so she says and i'm itching for some serious combat.” 
+
+
+the “long-necked critter” cloth talks about could be willow, as she is in the queen’s station, right at the entrance to the fungal wastes, and as she is the only long-necked critter with dialogue in the area.
+another possibility is that it is an unseen character.
+next, cloth says that the long-necked critter told her that the mantises were warriors.
+this could go to show that the mantises are well-known as one of the last civilizations standing in the ruins of hallownest.
+​—------------------------------------------------------------------------------------------------------------------
+the next piece of evidence to analyze is elder hu’s dialogue in fungal wastes.
+—------------------------------------------------------------------------------------------------------------------
+before the fight, elder hu says:
+“wait, child!
+why have you come here?
+have you come to tame this savage, ruined land?
+many have come to purify this place, but all who dwell here are eventually consumed.
+yes, even the wild bugs lurking below us.
+they were once proud like you, but now they are only monsters.
+beware dreams of glory, child.
+turn back, and do not return.”
+
+
+
+based on this dialogue, elder hu seems to think that all of the fungal wastes are infected, even the mantis tribe.
+this theory is much further strengthened by his dialogue after defeating him:
+—------------------------------------------------------------------------------------------------------------------
+“my mind... it clears.
+have we been... sleeping, child?
+aah...
+i remember.
+those proud lords... were they truly monsters?
+i remember their eyes now... bright and clear.
+why then did i fear them so?
+if there was madness in that village, it was i who brought it.
+they were right to cast me out.
+when i attacked, they were right to...
+they were right to kill...
+to kill... me...?
+...aah.”
+
+
+this dialogue is much more important than the previous dialogue.
+first, elder hu says “those proud lords… were they truly monsters?” he is most likely referring to the mantis lords, as he also refers to the location he was visiting as a village.
+the only place referred to as a village in-game is mantis village.
+following this dialogue, elder hu says “i remember their eyes now… bright and clear.
+why then did i fear them so?” this seems to be elder hu’s realization that the mantis lords were not actually infected.
+he then goes on to say that the mantises were in the right for killing him, as he attacked them first, when they were not actually the ones infected, instead, he was the infected one.
+he also says that if there was “madness” in that village, it was he who brought it.
+this “madness” is most likely the infection.
+the same points brought up for the “sickness” quirrel refers to can apply here as well.
+—------------------------------------------------------------------------------------------------------------------
+the next piece of evidence to analyze is the dialogue of mysterious ze’mer, also known as the grey mourner.
+—------------------------------------------------------------------------------------------------------------------
+the first relevant line of dialogue from ze’mer is:
+
+
+“ahhhh.... me'hon.
+this world.
+this cruel, sinful world.
+why does che' wake?
+why does che' persist?
+ahhh le'mer, you could not know of tragedy as complete as che's, true lovers stripped apart, two worlds that could not meet.
+and now meled'lover, dead so long in time.
+dead, so far away.
+buried, moina?
+ai.
+amongst its hateful kin that did deny our union, that did reject che's... outside-ness.
+she doesn't suppose?...
+nahlo, nahlo.
+could che' ask?
+could che' burden?
+le'mer, woulds't you, coulds't you deliver gift to her grave?
+the gift is, maybe small?
+but the trek is long.
+she rests amongst her kind near our queen's lush refuge.
+would such a thing be done?
+che' asks perhaps impossible things?
+mad things?
+for le'mer to take up such quest would be a kindness che' has near forgotten.”
+
+
+there is a lot of dialogue here, and it can get messy with ze’mer’s confusing usage of apostrophes and words like le’mer, che’, me’hon, etc.
+the most important lines here are these:
+
+“and now meled'lover, dead so long in time.
+dead, so far away.
+buried, moina?
+ai.
+amongst its hateful kin that did deny our union, that did reject che's... outside-ness.”
+
+
+my personal attempt at translation:
+
+
+“and now, my lover, dead for so long.
+dead, so far away.
+buried, maybe?
+yes.
+amongst my lover’s hateful kin that denied our relationship, that rejected my…outside-ness.”
+
+
+(i don’t know why ze’mer uses the pronoun “it” to refer to her dead lover.
+maybe her lover used a mix of it/its and she/her pronouns despite being referred to with she/her in every other instance?
+it’s possible but i don’t think so.
+my best guess is that it’s a typo.)
+the important thing about this dialogue is that the “hateful kin” of the traitor lord’s daughter denied the relationship between ze’mer and her mantis lover.
+the “hateful kin” could be referring to the mantis traitors, or maybe even the mantis lords, who are known to be the sisters of the traitor lord based on his hunter’s journal entry, which will be analyzed later.
+—------------------------------------------------------------------------------------------------------------------
+after accepting the first delicate flower from her, ze’mer says:
+
+
+“rare boon you grant le'mer.
+it will be che's last request.
+after this, never shall che' lay burden on another.
+a sacred flower is the offering.
+it is a rare, delicate object.
+one of a kind.
+you must cherish it, must act as though it were your own heart.
+if you were to get hurt whilst carrying it, or did to attempt ride those jolting transit beasts, it would forever be destroyed.
+her grave lies in the middle of the queen's overgrown estate.
+it is surrounded by her kind, who will not look kindly on your trespass.
+take care le'mer.
+my hopes i place upon you and my fervent wish that this small solace may come to pass.”
+
+
+the important line here is “her grave lies in the middle of the queen’s overgrown estate.
+it is surrounded by her kind, who will not look kindly on your trespass.” in this line, ze’mer is clearly referring to the traitor mantises when she says “her kind”, because in the previous line ze’mer says “her grave lies in the queen’s overgrown estate”, aka the queen’s gardens, where the traitor mantises are.
+this could support the theory that the “hateful kin” are the traitor mantises.
+—------------------------------------------------------------------------------------------------------------------
+-lore tablets and queen’s gardens grave-
+
+
+the next pieces of evidence to analyze are the lore tablets in mantis village.
+—------------------------------------------------------------------------------------------------------------------
+the first lore tablet says:
+“wanderers seeking death, welcome.
+may you find swift end upon our claws.”
+
+i analyzed this text a bit earlier in the document.
+this text is most likely a threat to those who challenge the mantis tribe.
+(speculation) i think that this text was most likely written when the pale king was attempting to expand his kingdom, and that the mantises were warning his forces not to take over their village.
+(speculation ends) 
+—------------------------------------------------------------------------------------------------------------------
+the second lore tablet says:
+
+
+“the truce remains.
+our vigil holds.
+the beasts are kept at bay.”
+
+a bit of speculation here, but a common theory is that the pale king and the mantises had a truce.
+the pale king wouldn’t interfere with mantis village if the mantises kept the beasts of deepnest at bay.
+this theory is strengthened by the lack of other parties for the mantises to have a truce with.
+the way to deepnest through fungal wastes is blocked with a gate that the mantises operate, so the “beasts are kept at bay” line is probably referring to the creatures in deepnest.
+this theory seems to be the most solid.
+—------------------------------------------------------------------------------------------------------------------
+the next piece of evidence to analyze is the grave in queen’s gardens.
+—------------------------------------------------------------------------------------------------------------------
+the text on the grave says:
+
+
+“here sleeps the traitor’s child.”
+
+
+it is implied that this is the grave of the mantis daughter of the traitor lord.
+we know it is the grave of a mantis because of the delicate flower quest.
+—------------------------------------------------------------------------------------------------------------------
+-item descriptions-
+
+
+the next piece of evidence to analyze is the item descriptions of the mantis claw ability, delicate flower item, and mark of pride charm.
+—------------------------------------------------------------------------------------------------------------------
+the description for the mantis claw abilities description in the inventory is:
+
+
+“claw carved from bone.
+allows the wearer to cling to walls and leap off of them.”
+
+
+the claw being carved from bone is interesting.
+whose bones is this claw carved from?
+how did the mantises get the bones?
+you would assume that the mantis claw was an actual claw from a mantis.
+this is quite an odd item description, but there isn’t any other evidence to go off of to theorize about this.
+—------------------------------------------------------------------------------------------------------------------
+the description for the delicate flower item in the inventory is:
+
+
+“given to you by the grey mourner in the resting grounds.
+she has asked you to place it at the grave of her mantis lover in the queen's gardens.
+the flower is very fragile and will be destroyed if you take damage or ride the stagways.”
+
+
+this is another interesting description.
+based on the text on her grave, we know that the “mantis lover” of  ze’mer was most likely the daughter of the traitor lord.
+this is interesting because it shows a connection from ze’mer, one of the five knights, and the mantis tribe.
+this could help support the theory about the mantises truce with the pale king.
+—------------------------------------------------------------------------------------------------------------------
+the description for the mark of pride charm in the charms menu is:
+
+
+“freely given by the mantis tribe to those they respect.
+greatly increases the range of the bearer's nail, allowing them to strike foes from further away.”
+
+
+this isn’t too important, but can help clarify the mantis tribe’s beliefs and ideals.
+—------------------------------------------------------------------------------------------------------------------
+-hunter’s journal entries-
+
+
+the next pieces of evidence to analyze are the hunter’s journal description of mantis and mantis traitor enemies.
+—------------------------------------------------------------------------------------------------------------------
+the hunter’s journal description for mantis youth says:
+
+
+“member of a proud tribe, fiercely protective of its territory.
+launches stinging attacks with its needle sharp abdomen.
+as it grows, it loses the ability to fly.
+passage into adulthood is often celebrated, but as time goes by we realise what we have lost.”
+
+
+this description has two important things.
+the first is that the mantises are protective of their territory.
+the second is a small look into mantis biology.
+it seems that these mantises use their natural abilities to attack.
+it is also stated that the mantis youth’s lose their wings.
+—------------------------------------------------------------------------------------------------------------------
+the hunter’s journal description for mantis warrior is:
+
+
+“member of a proud tribe, fiercely protective of its territory.
+launches savage attacks 
+with bladed forelimbs.
+if you venture too deep into the fungal forests, these warriors will stand in your way.
+what is it they guard, deep at the bottom of their territory?” 
+
+one interesting thing about this description is that it says that mantis warriors attack with “bladed forelimbs”.
+there is not much to go off of or speculate about that.
+the last sentence says “what is it they guard, deep at the bottom of their territory?” this question is easy to answer using the in-game map.
+the mantises guard the primary entrance to deepnest.
+—------------------------------------------------------------------------------------------------------------------
+the hunter’s journal description for mantis lords says:
+
+“leaders of the mantis tribe and its finest warriors.
+they bear thin nail-lances and attack with blinding speed.
+the mantis tribe and the bugs of old hallownest had no love for each other.
+the mantises outlived their rivals though, and their civilisation still stands.”
+
+
+this description is the most important for the mantis village enemies.
+first, it confirms that the mantis lords are the leaders of the mantis village.
+second, it shows the weapons they use, “nail-lances”, which only appear two other times in game.
+one nail-lance wielded by the spirit thistlewind, and the other nail-lances by the winged sentries in the city of tears.
+third, it describes a rivalry between bugs under the rule of the pale king and the mantis tribe.
+“the mantis tribe and the bugs of old hallownest had no love for each other.” this might seem to provide a weak point for the truce theory described earlier, but the next line, “the mantises outlived their rivals though, and their civilisation still stands”, can counter that that counterpoint to the truce theory.
+“outlived” is an interesting choice of wording, and could imply that the the mantises and pale king’s forces were at a standstill, maybe because of a truce.
+you could take these two sentences either way, whether it is to agree or disagree with the theory of a truce between the mantises and the pale king.
+—------------------------------------------------------------------------------------------------------------------
+the hunter’s journal description for the mantis petra, the version of the mantis youth found in the queen’s gardens, says the following:
+
+
+“lurks amongst foliage and attacks by flinging wind-scythes from a distance.
+they will harass you from afar, so get close and strike quickly.
+their bodies are brittle and will easily fall to your nail.”
+
+
+there is not much to go off of here.
+the hunter mainly describes battle tactics that it uses and that you can use against it.
+—------------------------------------------------------------------------------------------------------------------
+the hunter’s journal description for the mantis traitor, the traitor version of the mantis warrior, says the following:
+
+
+“once a member of the mantis tribe, now cast out and driven mad by infection.
+belonging to a tribe, or not belonging.
+i don't really understand what the difference is, or how it works.
+i have no tribe of my own.”
+
+
+this description is a bit more interesting than the previous one, but there still isn't a ton of information to talk about.
+most of it is the hunter’s ramblings about tribes, but the first sentence provides a little bit of context for the lore of the traitor mantises.
+according to this entry, the traitors were cast out of the mantis tribe, implying that they didn’t leave willingly from mantis village after taking in the infection.
+this entry also verifies that the traitors are infected.
+—------------------------------------------------------------------------------------------------------------------
+the most important piece of evidence involving the traitor mantises is the hunter’s journal entry for traitor lord.
+his entry in the hunter’s journal says:
+
+
+“deposed lord of the mantis tribe.
+embraced the infection and turned against his sisters.
+i have felt that desire.
+the desire to take the infection into myself.
+to become stronger, more powerful... these thoughts haunt my dreams during the darkest times.
+a false hope, but it can burn so brilliantly in one's mind.”
+
+
+the importance of this line is that it explains the traitor lord’s history in one short sentence.
+this line can also function as great evidence for some theories about the mantis traitors.
+—------------------------------------------------------------------------------------------------------------------
+-dream nail + hall of gods text-
+
+
+the next piece of evidence to analyze is the thoughts of the mantises, shown through the text given by the dream nail.
+—------------------------------------------------------------------------------------------------------------------
+mantis youth dream nail text:
+“...is it child?...
+...must kill...prove strength to the tribe...
+...it must learn fear...
+...mighty warrior...
+the creature, accepted…
+...the challenger…”
+not much here.
+“the creature” and “the challenger” are probably referring to the knight, as it is the creature that challenges the mantis lords.
+—------------------------------------------------------------------------------------------------------------------
+mantis warrior dream nail text:
+“...we honour the lords...intruders shall end...
+...no more will fall...no more outcast...
+...resist the plague of bug and beast...
+...great warrior.
+the lords accept it...
+...honour from an outsider...how rare...
+...to best our lords, what strength…”
+the first line makes sense considering the mantises ideals.
+the second line is most likely referring to the traitor mantises as “outcast”.
+the third line could possibly show that the radiance is still attempting to influence the mantises, so they tell themselves to resist it.
+it could also be more of a general thought to not take in the infection like the traitor mantises did.
+the last three lines seem to conform with the mantises ideals.
+—------------------------------------------------------------------------------------------------------------------
+mantis lords dream nail text:
+“...at last a true challenger...
+...honour from one of its kind...
+this one shows promise…”
+this text shows that the mantis lords probably appreciate good battles and view the knight as a worthy opponent.
+—------------------------------------------------------------------------------------------------------------------
+traitor mantises dream nail text:
+“...outcast...survive...kill...
+...intruder...destroy...
+our lands now…”
+
+
+the “intruder…destroy…” line is interesting to me, because it shows that the traitor mantises kept one of the ideals that the base mantises seemed to have: a hatred for intruders.
+this hatred is evidenced by the lore tablet in the upper section of mantis village and the dream nail dialogue of some of the mantis enemies.
+how different are the traitor mantises, really?
+the “our lands now…” line is just referencing them taking over queen’s gardens.
+the “outcast…survive…kill” line is also interesting, as “outcast…” could be interpreted as either referring to themselves, wanting to outcast the white lady and dryya from the queen’s gardens, or wanting to outcast the knight from the queen’s gardens.
+personally, i think it is referring to the traitor mantises themselves, but the other possibilities are interesting as well.
+—------------------------------------------------------------------------------------------------------------------
+the next piece of evidence to analyze is the hall of gods text for the mantis lords and traitor lord.
+—------------------------------------------------------------------------------------------------------------------
+the mantis lords prompt when locked is:
+
+“we watch over a village of warriors”
+
+
+wow.
+so much new information.
+—------------------------------------------------------------------------------------------------------------------
+the traitor lord prompt when locked is:
+
+“i defile the gardens of false royalty”
+
+this line is actually really interesting.
+clearly this is referring to the traitor lord taking over the queen’s gardens, but what makes the white lady “false royalty”.
+i don’t think this is a topic to cover in depth in a lore doc about the mantis tribe, but it still is a really interesting minor detail.
+—------------------------------------------------------------------------------------------------------------------
+
+
+the descriptions for mantis lords and sisters of battle in hall of gods are:
+
+
+“noble sister gods of combat” and
+“revered gods of a proud tribe”
+
+
+not anything new here.
+—------------------------------------------------------------------------------------------------------------------
+the description for traitor lord in hall of gods is:
+
+
+“treacherous god of anger”
+
+
+once again, nothing new.
+overall, these hall of gods descriptions provided almost nothing of value except for one intriguing line.
+—------------------------------------------------------------------------------------------------------------------
+-wanderer’s journal-
+the next pieces of evidence to analyze are some pages in the wanderer’s journal on the mantis tribe.
+transcription + analysis:
+—------------------------------------------------------------------------------------------------------------------
+“though some might call the people of the mantis tribe simple savages, their culture has a rich history steeped in traditions that date back to ancient times, long before the birth of hallownest”
+
+
+this proves that the mantises existed before the pale king’s rule, and that their traditions have existed for a long time as well.
+—------------------------------------------------------------------------------------------------------------------
+“the tribe is fiercely protective of its territory, going so far as to mount the masks of felled beasts on poles at its borders to deter would-be invaders from setting foot on its soil.”
+
+once again, the mantises very much do not like intruders.
+—------------------------------------------------------------------------------------------------------------------
+“the mantises shunned the technological advances brought by the pale king’s influence, choosing instead to construct their buildings from bone and sinew.
+that’s not to say they lack technology, though.
+these switches are surprisingly advanced!”
+
+
+building from bone and sinew makes sense in-game as well.
+the mantis claw is apparently built from bone, according to its inventory description.
+—------------------------------------------------------------------------------------------------------------------
+“the people of the mantis tribe always had a relationship with hallownest that was tenuous at best.
+long ago, they agreed to a truce to protect their village from the kingdom’s expansion.
+they retained sovereignty in their domain, and in exchange, they agreed to stem the flow of hostile beasts rising up from deepnest.
+they continue to honour that agreement even after the fall of the kingdom.”
+
+
+first off, this text really solidifies the truce theory.
+the specific wording of “kingdom’s expansion” being the reason they made the truce and not, for example, “hostile enemy factions”, makes me think that the truce was made directly with the kingdom of hallownest and the pale king, rather than the truce with hallownest referring to a less official truce with some other nearby factions, like the mushroom clan.
+after all, mantis village is close to the capital of hallownest, now known as the city of tears.
+secondly, the ideal of honour shows up again in the last sentence.
+this might be the most commonly evidenced ideal that the mantis tribe has.
+—------------------------------------------------------------------------------------------------------------------
+“in the mantis tribe, bravery and honour are respected above all; the claws of fallen warriors are proudly displayed on the walls of their families’ homes as a sign of reverence.”
+
+
+this introduces a new ideal of the mantis tribe: bravery.
+this is unsurprising, as it does go hand-in-hand with the other ideals that they have.
+—------------------------------------------------------------------------------------------------------------------
+“the mantis tribe trains its soldiers from birth, and even the youngest children among them are fierce fighters.
+their long, razor-sharp stingers can take down anyone who dares trespass on mantis ground.
+perhaps they shed their wings as a rite of passage into adulthood…”
+
+
+basically an extended version of the mantis youth entry in the hunter’s journal.
+the key new thing is the custom of the mantis tribe to “train its soldiers from birth”.
+—------------------------------------------------------------------------------------------------------------------
+“adults of the mantis tribe trade in their wings and stingers for finely honed claws; their training allows them to wield these claws with deadly accuracy.”
+
+the wording “wield” which is typically used for man-made weapons and not natural weapons is interesting here.
+however, the text from the previous sentence implies that their claws are natural, so i think that it is more likely.
+—------------------------------------------------------------------------------------------------------------------
+“the mantis triumvirate, these powerful warriors have ruled their tribe with wisdom and grace for countless generations.
+it is said that those who prove themselves worthy in battle against the lords earn the respect and admiration of the tribe, as well as safe passage through their territory.”
+
+
+just generic information about the mantis lords that we already know.
+—------------------------------------------------------------------------------------------------------------------
+“there was once a fourth lord, but his lust for power put him at odds with his fellow rulers, and he was cast out of the mantis tribe along with his followers.”
+
+
+generic info about traitor lord that we already know.
+-conclusion-
+
+
+a short summary of the main conclusions and theories:
+
+
+1.
+the mantises existed before the infection took over, and before hallownest.
+they outlived their rivals, “the bugs of hallownest”.
+2.
+most mantises resisted the infection, but some took it in willingly to become stronger.
+they were outcast from mantis village.
+these “traitor mantises”, led by the brother of the mantis lords, infiltrated the queen’s gardens and took residence there.
+3.
+meanwhile, the daughter of traitor lord entered a relationship with ze’mer.
+the mantis lover’s “kin” did not approve of this relationship.
+eventually, the mantis lover died of unknown causes.
+4.
+after the outcast of the traitor mantises, the mantises living in mantis village strengthened their ideals, especially to keep out intruders.
+they lived in isolation, waiting for challengers.
+5.
+a popular and reasonable theory is that the pale king and mantises were at odds, and had a truce, which offers a reason for the mantises blocking off deepnest.
+this theory’s primary evidence is a lore tablet in the village, and the wanderer’s journal pages on the mantis tribe.
+the other possibility is that the truce was less official and was with nearby factions.
+6.
+the mantis tribe has upheld their ideals of honour, bravery, intellect, respect, and tradition for a long time.

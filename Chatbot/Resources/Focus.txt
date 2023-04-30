@@ -1,0 +1,97 @@
+﻿focus
+
+
+focusing is an ability in hollow knight that allows the player to consume soul to repair their shell.
+however, this is not the only kind of focus in the world of hallownest.
+references to both a “spiral focus” (whispering root, ancestral mound) and a “pure focus” (lore tablet, soul sanctum) exist, as well as the crystals of the peaks’ ability to focus soul in a manner similar to a lens, and the shade lord’s title of “void given focus”.
+king’s pass
+
+the first mention of focus encountered in-game is on a lore tablet in the king’s pass.
+“higher beings, these words are for you alone.
+your great strength marks you amongst us.
+focus your soul and you shall achieve feats of which others can only dream.”
+
+
+now while it might first be assumed that these are direct instructions to any passing vessel on how to heal, this is fallacious for a few reasons - first, no vessel other than the hollow knight was ever meant to leave the abyss.
+secondly, reading this tablet is not required for the knight to gain the focus ability - it can heal without ever reading the tablet, and it’s likely that the diagram is non-diegetic, as if it truly depicted a vessel no one would have any clue what it was (a young elderbug with no mouth?).
+thirdly, while the higher being status of vessels is up for debate (on the one hand, they are the children of two other higher beings, but on the other they are technically dead), that doesn’t matter here - although it says that the words are for higher beings, any bug can read these tablets, as evidenced by ellina and the tablet just outside the abyss - it was stated in an interview with william that ellina could read the tablet, she just didn’t know to what it was referring, which is why she was “unable to decipher it”.
+thus, given that not every bug can use soul, it is likely that “focusing your soul” to achieve great feats is only a metaphor for using the gift of intelligence granted by the pale king.
+mask maker
+
+mask maker mentions how a face, or a mask, is required not only to focus, but “to define” and “to exist”.
+“a wonderful thing to have, a face.
+not a thing with which we all are blessed.
+[...]
+a mask!
+a face!
+does it need one?
+does it not?
+to define.
+to focus.
+to exist.”
+
+        these bugs without faces still exist, of course, as mask maker mentions that bugs may not need a face at all, and otherwise mask maker would not be able to make a mask for the faceless, but the mention of “define” can be linked to having a conscious & defined sense of self, something that would come with sentience & higher intelligence.
+both the king’s pass lore tablet and mask maker’s dialogue imply that focusing isn’t something that everybody is able to do.
+thus, it may be possible that the pale king’s gift of intelligence may also give bugs the power to focus their souls - though likely in a lesser manner than allows them to perform magic, perhaps again a metaphor for using their intelligence to the fullest of their ability as mentioned above.
+nailmaster’s glory
+
+
+charging nail arts is referred to as “focusing power” in the description for the nailmaster’s glory charm, which allows the knight to ready its arts quicker, and this may be why the achievement for completing the third pantheon (presided by nailmaster sly) is called “focus” - the glory charm is the only other time focus is mentioned in connection to the nailmasters.
+it is unclear why or how the “passion, skill and regrets of a nailmaster” aid in focusing, however.
+it may just be that this is another metaphorical kind of focus - the diligent honing of one’s skills, as mentioned by nailmaster sheo.
+spiral focus
+
+next, the spiral focus.
+this is talked about by the whispering root in the ancestral mound.
+“...spiral focus…”
+
+        it was ostensibly used by the snails, as their shells are spiraled and the line comes from the home of a snail, and that’s… well… that’s really all there is to say definitively about it.
+it may be possible that the knight uses this form of focus, as it received all its spells from the snails - however it can already focus without their help to heal, the shaman mentions how the knight’s “essence [can] meld” with spells to shape them on its own, and it doesn’t have a spiral to use.
+like the nailmaster’s glory, there isn’t much to analyse here.
+pure focus
+        
+the pure focus is mentioned in another lore tablet, this time in the soul sanctum.
+“record aba
+the mind still limits us so.
+how to break past its constraints?
+to attain a pure focus, is it even possible?”
+
+
+
+        however, the tablet is doubtful that this kind of focus is attainable.
+this may be due to the “plague of the mind” mentioned in another tablet - the scholars thought of themselves as free of the infection when in reality their experiments were guided by it - perhaps their clouded minds limited them from attaining this pure focus.
+however, with their clouded minds and false guidance, this pure focus may be nothing more than a delusion.
+if anyone had achieved a pure focus, it would have been the pure vessel - the name being unrelated - who is so proficient in its use of soul that it can shape and compress it to form metallic blades or pillars.
+it is certainly more proficient than the knight, whose soul usage only results in shapeless, albeit powerful globules like the vengeful spirit.
+the pure vessel’s capabilities are likely due to being “raised and trained to prime form” however, a luxury which the knight did not have.
+crystals & focus
+
+
+the crystals found in the peaks have the peculiar property of being able to focus multiple things, most notably soul and ostensibly light.
+salubra mentions how she has “heard that crystals help you to "focus”" without giving more information on what in particular they can focus, so it might be any number of things - but then again it might not, considering it is said in direct relation to the quick focus charm.
+the quick focus charm, while artificially made, is described as a “crystal lens”, which aids the bearer in the speed of focusing soul.
+the deep focus charm, however, is naturally occurring, and is said to “draw in soul from the surrounding air”.
+they are also implied to focus light in a similar manner to the aforementioned “crystal lens” - see the crystal guardian, crystallised husk and crystal crawlers - all infected, capable of focusing the radiance’s light through the crystals attached to their body to form “blazing” and “searing” beams of light (crystal guardian & crystal crawler  journal entries, respectively).
+the radiance’s light is often referred to as hot, in the pale king’s declaration of “no blazing kin”, as well as the dream nail dialogue of numerous enemies stating how “that sweet smell…burns...” and they feel “hot… burning…” (all husks, all infected crossroads enemies respectively - infection is “invitingly sweet” according to the hunter in his volatile mosskin and husk bully journal entries).
+this also occurs in regular crystals attached to the wall - the source of light here is uncertain.
+the crystals are also able to focus the radiance in a lesser manner towards one myla minerbug - she describes them as “singing”, which is likely the radiance’s coaxing and the source of her later infection.
+however, these releases of light or the radiance’s power are never referred to as “focusing” ingame.
+focus of the godseekers
+
+
+finally we have a kind of focus that isn’t attached to soul at all - the focus used by the godseekers.the godseeker mentions how getting rid of the knight will allow them to “resume [their] focus and ascend [their] minds ever higher”, which is their pursuit to find and attune to the god of gods.
+this pursuit is also mentioned in their attempt to “attain communion with that great power sleeping in the kingdom's heart [through godly focus]”, attempting to attune with the radiance within the hollow knight, to find their god of gods.
+the focus & attunement of the godseekers seems to be the cause of the increase in power of the bosses in godhome.
+their focus is also powerful enough to retrieve the hollow knight’s prior form, the pure vessel, and allow the radiance to ascend and become absolute.
+the powerful focus of the godseekers is no doubt due to their heightened thoughts and ability to direct them - the description for the weathered mask describes how the wearer was able to “focus their thoughts through the crest”, ostensibly making their thoughts of devotion more concentrated and potent, and therefore able to affect their gods in such a way.
+the godtuner may also have something to do with this.
+void given focus
+
+void given focus differs greatly from all the other kinds of focus mentioned in-game - the other focuses are usually innate powers of a certain race, individual, or material, whereas this focus is the only outside power able to be “given”, bestowed upon the void by the combination of the unity provided by the knight with the void heart and the attunement & devotion of the godseekers.
+void given focus is the title of the statue of the knight once it has defeated every boss in the hall of gods on radiant, moving up from void given form.
+also known as the “god of gods” by the godseeker or “shadelord” in the game’s files, this form of void has immense power - able to snuff out the absolute radiance’s light with ease.
+there is a clear link between the void heart and this form in that the pantheon of hallownest, the place where this form emerges, is unable to be entered without the knight bearing the void heart.
+thus, it is likely that only the united and unconstrained void can be attuned to by the godseeker in such a way to grant focus to the void.
+focus and the void heart also seem to have similar effects on the void - the idol that is given when the vgfocus statue is inspected contains “a large amount of liquid from the abyss, perfectly still”, and the void heart unites the void in such a way that it is calmed, no longer attacking the bearer without mind.
+however, the vgform statue (the knight with the void heart as the lord of shades) gives an idol that has “volatile liquid from the abyss [writhing] within”, so it seems that just having the void heart does not automatically calm the void in its entirety and that focus from the godseeker is the only way to attain perfect power over the void.
+it may be that the void heart simply commands all the individual minds of the void under one will, calming only in the presence of the bearer,  whereas the focus of the godseekers results in all of the void being concentrated into having one singular mind and purpose.

@@ -1,0 +1,30 @@
+﻿trilobite statue  
+
+
+   the "trilobite statue" is found within the beast's den, just slightly below and to the side of herrah's room.
+it is suspended from the air by 8 pipes/"legs" and features a crown on it.
+when you use a spell, a seal shows itself, presumably made by the weavers.
+it is made of a hard metallic material that the knight's nail cannot damage, similar to spikes or buzzsaws.
+curiously, ari's sketchbook shows that the original concept featured far more pipes and it acted as a fountain of sorts.
+as for the name, it originates from people believing it looks similar to a trilobite, an extinct arthropod.
+trilobite statue is the sire of deepnest's casket theory
+   according to a shrumal tablet in the fungal wastes, deepnest had "their dead sire, once of honoured caste."
+before this theory continues, it should be clarified that this "honoured caste" is not related to the ancient caste that worshipped void, but rather deepnest royalty.
+this is because the same tablet describes herrah as "their sealed mother, but the common beast," and the whispering root in deepnest describes her as "...sleeping queen…" this implies that herrah was a commoner who married the sire, becoming queen of deepnest.
+that aside, back to the theory.
+so, lets review some of the characteristics again.
+this statue is formed of an extremely durable material, and protected by a seal made by the weavers meaning it has some importance.
+it is also found extremely close to herrah's bedchamber, is the only other point of interest in the beast's den, and has an identical layout to herrah's bedchamber.
+lastly, one of the most prominent features on it is a crown, something royalty would wear.
+the real nails in the coffin are the internal names.
+all of the assets associated with the statue end in shrine like shrine_core or shrine_pipes, and in unity the folder for its collision is labelled "god shrine stuff."
+let's assume that it is indeed a shrine, why does that matter?
+it should just be called the trilobite shrine rather than trilobite statue, right?
+well, let's look at hornet's dialogue after herrah is killed.
+"leave me now, ghost.
+allow me a moment alone before this bedchamber becomes forever a shrine."
+this dialogue appears to indicate that the places where deepnest royalty perish, or their remains lie, become shrines.
+personally the latter makes more sense, since royalty could die anywhere.
+however with herrah, there were no remains to move, so the place she died would become her shrine.
+circling back to the trilobite statue, it being a shrine gives the most support for the sire's remains laying within.
+it also explains why the statue would be so well protected, and its proximity to herrah.
