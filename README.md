@@ -53,4 +53,4 @@ You can find bot [here](<Chatbot>)
 [Skills I've learned](<Technical.md>)
 
 # Summary
-xxxx
+Through the many assignments in this portfolio, I've aquired many skills in NLP from text processing, parsing, classification, experimenting with models and much more. It's clear that NLP is only getting bigger and bigger as it's in the public eye more than ever before. I'd love to create a more sophisticated chatbot in my free time and play around with NLP even more to keep up with the rapid changes it's undergoing. It's a field I'd love to be a part of in the future as it looks extremely promising and interesting.
