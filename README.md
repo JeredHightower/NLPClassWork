@@ -38,3 +38,13 @@ You can find my document [here](<Assignment 5/Sentence Parsing.pdf>)
 In this assignment I explore different machine learning models to classify twitter post sentiments related to Apple.
 
 You can find my document [here](<Assignment 6/TextClassification.ipynb - Colaboratory.pdf>)
+
+## Portfolio Assignment 7: ACL Paper
+In this assignment I explore a paper discussing the creation of a spoiler classifier and generator for social media. Very interesting topic to help the social media ecosystem.
+
+You can find my document [here](<Assignment 7/ACL.docx>)
+
+## Portfolio Assignment: Chatbot
+In this assignment I create a chatbot that discusses hollow knight lore using a corpus from the hollow knight lore archives.
+
+You can find bot [here](<Chatbot>)
